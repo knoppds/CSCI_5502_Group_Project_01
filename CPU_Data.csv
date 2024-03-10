@@ -1,0 +1,1371 @@
+CPU Name,Core Count,Performance Core Clock,Boost Clock,TDP,Integrated Graphics,Sockets Supported,Raiting,Raiting Count,Price
+ AMD Ryzen 7 7800X3D  ,8,4.2 GHz,5 GHz,120 W,Radeon,Yes,5, 208,$369.00
+ AMD Ryzen 5 7600X  ,6,4.7 GHz,5.3 GHz,105 W,Radeon,Yes,5, 113,$218.46
+ AMD Ryzen 5 5600X  ,6,3.7 GHz,4.6 GHz,65 W,None,Yes,5, 609,$151.24
+ Intel Core i9-14900K  ,24,3.2 GHz,6 GHz,125 W,Intel UHD Graphics 770,Yes,5, 13,$544.99
+ AMD Ryzen 5 7600  ,6,3.8 GHz,5.1 GHz,65 W,Radeon,Yes,5, 65,$260.73
+ AMD Ryzen 5 5600  ,6,3.5 GHz,4.4 GHz,65 W,None,Yes,5, 128,$134.99
+ Intel Core i5-12400F  ,6,2.5 GHz,4.4 GHz,65 W,None,Yes,5, 70,$139.78
+ AMD Ryzen 5 5500  ,6,3.6 GHz,4.2 GHz,65 W,None,Yes,5, 35,$89.99
+ Intel Core i7-13700K  ,16,3.4 GHz,5.4 GHz,125 W,Intel UHD Graphics 770,Yes,5, 111,$369.99
+ AMD Ryzen 7 7700X  ,8,4.5 GHz,5.4 GHz,105 W,Radeon,Yes,5, 91,$288.41
+ Intel Core i7-14700K  ,20,3.4 GHz,5.6 GHz,125 W,Intel UHD Graphics 770,Yes,5, 14,$399.99
+ AMD Ryzen 7 5800X  ,8,3.8 GHz,4.7 GHz,105 W,None,Yes,5, 323,$208.26
+ AMD Ryzen 9 7950X3D  ,16,4.2 GHz,5.7 GHz,120 W,Radeon,Yes,5, 25,$591.89
+ AMD Ryzen 5 3600  ,6,3.6 GHz,4.2 GHz,65 W,None,Yes,5, 1150,$110.33
+ Intel Core i5-12600K  ,10,3.7 GHz,4.9 GHz,125 W,Intel UHD Graphics 770,Yes,5, 136,$187.99
+ AMD Ryzen 7 5700X  ,8,3.4 GHz,4.6 GHz,65 W,None,Yes,5, 79,$170.62
+ AMD Ryzen 7 5800X3D  ,8,3.4 GHz,4.5 GHz,105 W,None,Yes,5, 90,$294.00
+ Intel Core i7-12700K  ,12,3.6 GHz,5 GHz,125 W,Intel UHD Graphics 770,Yes,5, 126,$253.91
+ Intel Core i5-12600KF  ,10,3.7 GHz,4.9 GHz,125 W,None,Yes,5, 46,$160.99
+ AMD Ryzen 9 7900X  ,12,4.7 GHz,5.6 GHz,170 W,Radeon,Yes,5, 60,$380.99
+ Intel Core i5-13600K  ,14,3.5 GHz,5.1 GHz,125 W,Intel UHD Graphics 770,Yes,5, 90,$297.99
+ AMD Ryzen 5 5600G  ,6,3.9 GHz,4.4 GHz,65 W,Radeon Vega 7,Yes,5, 128,$137.59
+ Intel Core i3-12100F  ,4,3.3 GHz,4.3 GHz,58 W,None,Yes,5, 43,$94.98
+ AMD Ryzen 9 5900X  ,12,3.7 GHz,4.8 GHz,105 W,None,Yes,5, 220,$290.86
+ AMD Threadripper 3990X  ,64,2.9 GHz,4.3 GHz,280 W,None,Yes,5, 1,$4255.00
+ Intel Core i5-14600K  ,14,3.5 GHz,5.3 GHz,125 W,Intel UHD Graphics 770,Yes,5, 5,$299.99
+ Intel Core i7-14700KF  ,20,3.4 GHz,5.6 GHz,125 W,None,Yes,5, 3,$377.56
+ Intel Core i5-13400F  ,10,2.5 GHz,4.6 GHz,65 W,None,Yes,5, 13,$185.99
+ Intel Core i9-13900K  ,24,3 GHz,5.8 GHz,125 W,Intel UHD Graphics 770,Yes,5, 59,$522.99
+ Intel Core i9-12900K  ,16,3.2 GHz,5.2 GHz,125 W,Intel UHD Graphics 770,Yes,5, 52,$376.76
+ AMD Ryzen 5 4500  ,6,3.6 GHz,4.1 GHz,65 W,None,Yes,5, 11,$78.50
+ Intel Core i7-12700KF  ,12,3.6 GHz,5 GHz,125 W,None,Yes,5, 35,$247.99
+ AMD Ryzen 9 7950X  ,16,4.5 GHz,5.7 GHz,170 W,Radeon,Yes,5, 34,$549.99
+ AMD Ryzen 7 5700G  ,8,3.8 GHz,4.6 GHz,65 W,Radeon Vega 8,Yes,5, 46,$166.26
+ AMD Ryzen 7 3700X  ,8,3.6 GHz,4.4 GHz,65 W,None,Yes,5, 632,$210.00
+ AMD Ryzen 9 7900X3D  ,12,4.4 GHz,5.6 GHz,120 W,Radeon,Yes,5, 9,$388.99
+ AMD Ryzen 7 7700  ,8,3.6 GHz,5.3 GHz,65 W,Radeon,Yes,5, 15,$272.51
+ AMD Ryzen 5 8500G  ,6,4.1 GHz,5 GHz,65 W,Radeon 740M,Yes,0, 0,$179.00
+ Intel Core i5-13600KF  ,14,3.5 GHz,5.1 GHz,125 W,None,Yes,5, 49,$282.64
+ Intel Core i9-14900KF  ,24,3.2 GHz,6 GHz,125 W,None,Yes,5, 3,$539.00
+ Intel Core i5-14600KF  ,14,3.5 GHz,5.3 GHz,125 W,None,Yes,5, 3,$279.99
+ AMD Ryzen 9 5950X  ,16,3.4 GHz,4.9 GHz,105 W,None,Yes,5, 103,$375.22
+ AMD Ryzen 5 7500F  ,6,3.7 GHz,5 GHz,65 W,None,Yes,5, 7,
+ AMD Ryzen 7 8700G  ,8,4.2 GHz,5.1 GHz,65 W,Radeon 780M,Yes,0, 0,$329.00
+ AMD Ryzen 7 5700X3D  ,8,3 GHz,4.1 GHz,105 W,None,Yes,5, 2,$247.00
+ Intel Core i7-13700KF  ,16,3.4 GHz,5.4 GHz,125 W,None,Yes,5, 21,$349.99
+ AMD Ryzen 3 4100  ,4,3.8 GHz,4 GHz,65 W,None,Yes,4, 4,$68.98
+ Intel Core i5-10400F  ,6,2.9 GHz,4.3 GHz,65 W,None,Yes,5, 57,$111.91
+ AMD Ryzen 5 4600G  ,6,3.7 GHz,4.2 GHz,65 W,Radeon Vega 7,Yes,5, 7,$103.18
+ AMD Ryzen 5 8600G  ,6,4.3 GHz,5 GHz,65 W,Radeon 760M,Yes,0, 0,$229.00
+ Intel Core i5-12400  ,6,2.5 GHz,4.4 GHz,65 W,Intel UHD Graphics 730,Yes,5, 29,$153.00
+ AMD Ryzen 9 7900  ,12,3.6 GHz,5.4 GHz,65 W,Radeon,Yes,5, 11,$368.99
+ Intel Core i5-14400F  ,10,2.5 GHz,4.7 GHz,65 W,None,Yes,0, 0,$199.99
+ Intel Core i3-10100F  ,4,3.6 GHz,4.3 GHz,65 W,None,Yes,5, 23,$71.30
+ AMD Ryzen 5 2600  ,6,3.4 GHz,3.9 GHz,65 W,None,Yes,5, 495,$155.00
+ Intel Core i5-14500  ,14,2.6 GHz,5 GHz,65 W,Intel UHD Graphics 770,Yes,0, 0,$234.99
+ Intel Core i7-9700K  ,8,3.6 GHz,4.9 GHz,95 W,Intel UHD Graphics 630,No,5, 225,$279.13
+ Intel Core i7-8700K  ,6,3.7 GHz,4.7 GHz,95 W,Intel UHD Graphics 630,Yes,5, 303,$192.00
+ Intel Core i5-13500  ,14,2.5 GHz,4.8 GHz,65 W,Intel UHD Graphics 770,Yes,5, 15,$244.85
+ AMD Ryzen 3 3200G  ,4,3.6 GHz,4 GHz,65 W,Radeon Vega 8,No,5, 63,$80.00
+ Intel Core i9-13900KS  ,24,3 GHz,6 GHz,150 W,Intel UHD Graphics 770,Yes,5, 13,$635.99
+ Intel Celeron E1400  ,2,2 GHz,,65 W,None,No,0, 0,$14.00
+ Intel Core i7-13700F  ,16,2.1 GHz,5.2 GHz,65 W,None,Yes,5, 2,$360.74
+ Intel Core i3-12100  ,4,3.3 GHz,4.3 GHz,60 W,Intel UHD Graphics 730,Yes,5, 13,$116.99
+ AMD Ryzen 5 3600X  ,6,3.8 GHz,4.4 GHz,95 W,None,Yes,5, 201,$210.00
+ Intel Core i3-13100F  ,4,3.4 GHz,4.5 GHz,58 W,None,Yes,5, 4,$119.99
+ AMD Ryzen 7 2700X  ,8,3.7 GHz,4.3 GHz,105 W,None,Yes,5, 360,$210.00
+ Intel Core i5-13400  ,10,2.5 GHz,4.6 GHz,65 W,Intel UHD Graphics 730,Yes,5, 4,$228.99
+ Intel Core i7-10700K  ,8,3.8 GHz,5.1 GHz,125 W,Intel UHD Graphics 630,Yes,5, 100,$247.44
+ Intel Core i5-11400F  ,6,2.6 GHz,4.4 GHz,65 W,None,Yes,5, 23,$113.00
+ Intel Core i9-9900K  ,8,3.6 GHz,5 GHz,95 W,Intel UHD Graphics 630,Yes,5, 211,$468.00
+ Intel Core i3-14100F  ,4,3.5 GHz,4.7 GHz,58 W,None,Yes,0, 0,$119.99
+ AMD Ryzen 9 3900X  ,12,3.8 GHz,4.6 GHz,105 W,None,Yes,5, 277,$445.00
+ Intel Core i9-13900KF  ,24,3 GHz,5.8 GHz,125 W,None,Yes,5, 11,$509.99
+ Intel Core i7-7700K  ,4,4.2 GHz,4.5 GHz,91 W,Intel HD Graphics 630,Yes,5, 305,$252.00
+ AMD Threadripper 3970X  ,32,3.7 GHz,4.5 GHz,280 W,None,Yes,5, 8,$1897.99
+ Intel Core i5-9400F  ,6,2.9 GHz,4.1 GHz,65 W,None,No,4, 47,$112.00
+ Intel Core i7-6700K  ,4,4 GHz,4.2 GHz,91 W,Intel HD Graphics 530,Yes,5, 508,$180.00
+ Intel Core i7-11700K  ,8,3.6 GHz,5 GHz,125 W,Intel UHD Graphics 750,Yes,5, 38,$241.04
+ AMD Ryzen 7 3800X  ,8,3.9 GHz,4.5 GHz,105 W,None,Yes,5, 133,$295.00
+ Intel Core i7-12700F  ,12,2.1 GHz,4.9 GHz,65 W,None,Yes,5, 9,$250.00
+ AMD Ryzen 5 2600X  ,6,3.6 GHz,4.2 GHz,95 W,None,Yes,5, 229,$195.00
+ Intel Core i9-12900KF  ,16,3.2 GHz,5.2 GHz,125 W,None,Yes,5, 2,$350.99
+ Intel Core i9-11900K  ,8,3.5 GHz,5.3 GHz,125 W,Intel UHD Graphics 750,Yes,4, 12,$265.00
+ Intel Core i7-14700F  ,20,2.1 GHz,5.4 GHz,65 W,None,Yes,0, 0,$359.99
+ Intel Core i5-10600K  ,6,4.1 GHz,4.8 GHz,125 W,Intel UHD Graphics 630,Yes,5, 72,$143.72
+ Intel Core i7-13700  ,16,2.1 GHz,5.2 GHz,65 W,Intel UHD Graphics 770,Yes,5, 3,$339.99
+ Intel Core i5-9600K  ,6,3.7 GHz,4.6 GHz,95 W,Intel UHD Graphics 630,No,5, 146,$169.00
+ Intel Core i5-10400  ,6,2.9 GHz,4.3 GHz,65 W,Intel UHD Graphics 630,Yes,5, 62,$134.97
+ Intel Core i9-10900K  ,10,3.7 GHz,5.3 GHz,125 W,Intel UHD Graphics 630,Yes,5, 50,$490.00
+ Intel Core i5-6500  ,4,3.2 GHz,3.6 GHz,65 W,Intel HD Graphics 530,No,5, 232,$73.00
+ Intel Core i7-8700  ,6,3.2 GHz,4.6 GHz,65 W,Intel UHD Graphics 630,Yes,5, 59,$210.00
+ AMD Ryzen 5 2400G  ,4,3.6 GHz,3.9 GHz,65 W,Radeon Vega 11,Yes,5, 1,
+ Intel Core i5-8400  ,6,2.8 GHz,4 GHz,65 W,Intel UHD Graphics 630,No,5, 84,$140.00
+ Intel Core i7-4790K  ,4,4 GHz,4.4 GHz,88 W,Intel HD Graphics 4600,Yes,5, 562,
+ AMD Ryzen 5 3400G  ,4,3.7 GHz,4.2 GHz,65 W,Radeon Vega 11,Yes,5, 55,$132.00
+ AMD Ryzen 9 3950X  ,16,3.5 GHz,4.7 GHz,105 W,None,Yes,5, 62,$515.00
+ Intel Core i9-11900KF  ,8,3.5 GHz,5.3 GHz,125 W,None,Yes,4, 2,$240.00
+ Intel Core i3-14100  ,4,3.5 GHz,4.7 GHz,60 W,Intel UHD Graphics 730,Yes,0, 0,$139.99
+ Intel Core i7-7700  ,4,3.6 GHz,4.2 GHz,65 W,Intel HD Graphics 630,Yes,5, 34,$167.00
+ Intel Core i5-4690K  ,4,3.5 GHz,3.9 GHz,88 W,Intel HD Graphics 4600,No,5, 556,$53.50
+ Intel Core i7-6700  ,4,3.4 GHz,4 GHz,65 W,Intel HD Graphics 530,Yes,5, 42,$150.00
+ Intel Core i9-10850K  ,10,3.6 GHz,5.2 GHz,125 W,Intel UHD Graphics 630,Yes,5, 58,$286.00
+ AMD Ryzen 5 5500GT  ,6,3.6 GHz,4.4 GHz,65 W,Radeon Vega 7,Yes,0, 0,$125.00
+ Intel Core i7-11700F  ,8,2.5 GHz,4.9 GHz,65 W,None,Yes,5, 2,$213.02
+ Intel Core i7-10700F  ,8,2.9 GHz,4.8 GHz,65 W,None,Yes,5, 7,$225.99
+ Intel Core i5-6600K  ,4,3.5 GHz,3.9 GHz,91 W,Intel HD Graphics 530,No,5, 428,$130.00
+ Intel Core i7-14700  ,20,2.1 GHz,5.4 GHz,65 W,Intel UHD Graphics 770,Yes,0, 0,$399.99
+ Intel Core i7-12700  ,12,2.1 GHz,4.9 GHz,65 W,Intel UHD Graphics 770,Yes,5, 7,$265.49
+ AMD Threadripper 3960X  ,24,3.8 GHz,4.5 GHz,280 W,None,Yes,5, 9,$1300.00
+ AMD Ryzen 5 5600GT  ,6,3.6 GHz,4.6 GHz,65 W,Radeon Vega 7,Yes,0, 0,$140.00
+ AMD Ryzen 3 3100  ,4,3.6 GHz,3.9 GHz,65 W,None,Yes,5, 61,
+ AMD Ryzen 5 1600 ,6,3.2 GHz,3.6 GHz,65 W,None,Yes,5, 361,
+ Intel Core i7-3770  ,4,3.4 GHz,,77 W,Intel HD Graphics 4000,Yes,5, 49,$80.00
+ AMD Ryzen 7 2700  ,8,3.2 GHz,4.1 GHz,65 W,None,Yes,5, 70,$185.00
+ Intel Core i9-12900KS  ,16,3.4 GHz,5.5 GHz,150 W,Intel UHD Graphics 770,Yes,5, 5,$409.99
+ AMD Ryzen 5 1600 ,6,3.2 GHz,3.6 GHz,65 W,None,Yes,5, 55,$120.00
+ Intel Core i7-10700  ,8,2.9 GHz,4.8 GHz,65 W,Intel UHD Graphics 630,Yes,5, 30,$238.62
+ AMD Ryzen 5 5600X3D  ,6,3.3 GHz,4.4 GHz,105 W,None,Yes,5, 6,
+ Intel Core i7-11700  ,8,2.5 GHz,4.9 GHz,65 W,Intel UHD Graphics 750,Yes,5, 10,$215.99
+ Intel Core i5-11400  ,6,2.6 GHz,4.4 GHz,65 W,Intel UHD Graphics 730,Yes,5, 35,$150.94
+ Intel Core i5-7500  ,4,3.4 GHz,3.8 GHz,65 W,Intel HD Graphics 630,No,5, 76,$89.00
+ Intel Core i3-10105F  ,4,3.7 GHz,4.4 GHz,65 W,None,Yes,5, 5,$80.57
+ AMD Ryzen 5 3600  ,6,3.6 GHz,4.2 GHz,65 W,None,Yes,5, 2,
+ Intel Core i5-14400  ,10,2.5 GHz,4.7 GHz,65 W,Intel UHD Graphics 730,Yes,0, 0,$229.99
+ Intel Core i5-10600KF  ,6,4.1 GHz,4.8 GHz,125 W,None,Yes,5, 8,$133.00
+ Intel Core i5-11600K  ,6,3.9 GHz,4.9 GHz,125 W,Intel UHD Graphics 750,Yes,5, 34,$197.40
+ Intel Core i7-6950X  ,10,3 GHz,3.5 GHz,140 W,None,Yes,0, 0,$425.00
+ Intel Core i3-10100  ,4,3.6 GHz,4.3 GHz,65 W,Intel UHD Graphics 630,Yes,5, 38,$100.81
+ Intel Core i7-4770  ,4,3.4 GHz,3.9 GHz,84 W,Intel HD Graphics 4600,Yes,5, 43,$140.00
+ Intel Celeron G5900  ,2,3.4 GHz,,58 W,Intel UHD Graphics 610,No,5, 2,$39.99
+ Intel Core i9-14900  ,24,2 GHz,5.8 GHz,65 W,Intel UHD Graphics 770,Yes,0, 0,$568.07
+ Intel Core i5-8600K  ,6,3.6 GHz,4.3 GHz,95 W,Intel UHD Graphics 630,No,5, 143,$224.06
+ Intel Core i9-9900KF  ,8,3.6 GHz,5 GHz,95 W,None,Yes,5, 16,$386.74
+ Intel Core i7-10700KF  ,8,3.8 GHz,5.1 GHz,125 W,None,Yes,5, 6,$240.00
+ AMD Ryzen 9 3950X  ,16,3.5 GHz,4.7 GHz,105 W,None,Yes,0, 0,$2147.03
+ AMD Ryzen 3 2200G  ,4,3.5 GHz,3.7 GHz,65 W,Radeon Vega 8,No,5, 135,$130.00
+ Intel Core i7-9700  ,8,3 GHz,4.7 GHz,65 W,Intel HD Graphics 630,No,5, 2,$260.26
+ Intel Core i9-10900KF  ,10,3.7 GHz,5.3 GHz,125 W,None,Yes,5, 9,$282.82
+ Intel Core i3-13100  ,4,3.4 GHz,4.5 GHz,60 W,Intel UHD Graphics 730,Yes,5, 1,$147.99
+ Intel Core i7-4790  ,4,3.6 GHz,4 GHz,84 W,Intel HD Graphics 4600,Yes,5, 2,$139.94
+ AMD Ryzen 7 1700  ,8,3 GHz,3.7 GHz,65 W,None,Yes,5, 170,$195.00
+ Intel Celeron G6900  ,2,3.4 GHz,,46 W,Intel UHD Graphics 710,No,0, 0,$85.28
+ Intel Core i5-7400  ,4,3 GHz,3.5 GHz,65 W,Intel HD Graphics 630,No,4, 15,$110.00
+ AMD Ryzen 5 3500X  ,6,3.6 GHz,4.1 GHz,65 W,None,No,5, 8,
+ Intel Xeon E5-2699 V4  ,22,2.2 GHz,3.6 GHz,145 W,None,Yes,5, 1,$294.00
+ AMD Ryzen 5 3600  ,6,3.6 GHz,4.2 GHz,65 W,None,Yes,5, 1,$163.55
+ Intel Core i3-9100F  ,4,3.6 GHz,4.2 GHz,65 W,None,No,5, 27,$115.00
+ Intel Xeon E5-2660  ,8,2.2 GHz,3 GHz,95 W,None,Yes,0, 0,$15.44
+ Intel Core i9-9900KS  ,8,4 GHz,5 GHz,127 W,Intel UHD Graphics 630,Yes,5, 7,$1989.00
+ AMD FX-8350  ,8,4 GHz,,125 W,None,No,5, 438,$218.36
+ Intel Core i7-9700F  ,8,3 GHz,4.7 GHz,65 W,None,No,5, 2,$395.86
+ Intel Core i9-13900F  ,24,2 GHz,5.6 GHz,65 W,None,Yes,0, 0,$469.99
+ AMD Athlon 3000G ,2,3.5 GHz,,35 W,Radeon Vega 3,Yes,5, 22,$63.83
+ Intel Core i5-7600K  ,4,3.8 GHz,4.2 GHz,91 W,Intel HD Graphics 630,No,5, 137,$210.00
+ Intel Core i7-4770K  ,4,3.5 GHz,3.9 GHz,84 W,Intel HD Graphics 4600,Yes,5, 467,$135.00
+ Intel Core i7-3770K  ,4,3.5 GHz,,77 W,Intel HD Graphics 4000,Yes,5, 218,$175.00
+ AMD Ryzen 5 1600X  ,6,3.6 GHz,4 GHz,95 W,None,Yes,5, 75,$125.00
+ Intel Core i7-11700KF  ,8,3.6 GHz,5 GHz,125 W,None,Yes,5, 3,$249.68
+ Intel Core i3-8100  ,4,3.6 GHz,,65 W,Intel UHD Graphics 630,No,4, 42,$110.00
+ AMD Threadripper 2990WX  ,32,3 GHz,4.2 GHz,250 W,None,Yes,5, 6,$2500.00
+ Intel Core i5-3470  ,4,3.2 GHz,,77 W,Intel HD Graphics 2500,No,5, 36,$69.00
+ Intel Core i5-4590  ,4,3.3 GHz,3.7 GHz,84 W,Intel HD Graphics 4600,No,5, 93,
+ Intel Core i5-12500  ,6,3 GHz,4.6 GHz,65 W,Intel UHD Graphics 770,Yes,5, 3,$195.99
+ AMD Threadripper 1900X  ,8,3.8 GHz,4 GHz,180 W,None,Yes,5, 6,$109.99
+ Intel Core i5-11600KF  ,6,3.9 GHz,4.9 GHz,125 W,None,Yes,5, 4,$160.68
+ AMD Ryzen 9 3900XT  ,12,3.8 GHz,4.7 GHz,105 W,None,Yes,5, 15,$450.00
+ AMD Ryzen 7 3700X  ,8,3.6 GHz,4.4 GHz,65 W,None,Yes,5, 1,
+ Intel Core i5-8500  ,6,3 GHz,4.1 GHz,65 W,Intel UHD Graphics 630,No,5, 7,$159.99
+ Intel Core i9-14900F  ,24,2 GHz,5.8 GHz,65 W,None,Yes,0, 0,$559.99
+ AMD Ryzen 7 1700X  ,8,3.4 GHz,3.8 GHz,95 W,None,Yes,5, 94,$225.00
+ Intel Core i3-4130  ,2,3.4 GHz,,54 W,Intel HD Graphics 4400,Yes,5, 38,$43.00
+ AMD Athlon II X2 240  ,2,2.8 GHz,,65 W,None,No,0, 0,$29.48
+ AMD Ryzen 5 2400G  ,4,3.6 GHz,3.9 GHz,65 W,Radeon Vega 11,Yes,5, 80,$135.00
+ Intel Core i5-4690  ,4,3.5 GHz,3.9 GHz,84 W,Intel HD Graphics 4600,No,5, 42,$52.00
+ AMD Ryzen 7 5700  ,8,3.7 GHz,4.6 GHz,65 W,None,Yes,0, 0,
+ Intel Core i9-10980XE  ,18,3 GHz,4.8 GHz,165 W,None,Yes,0, 0,$1200.00
+ Intel Core i9-13900  ,24,2 GHz,5.6 GHz,65 W,Intel UHD Graphics 770,Yes,5, 2,$567.98
+ Intel Core i5-4460  ,4,3.2 GHz,3.4 GHz,84 W,Intel HD Graphics 4600,No,5, 103,$82.46
+ Intel Core i5-9400  ,6,2.9 GHz,4.1 GHz,65 W,Intel UHD Graphics 630,No,5, 12,$160.91
+ Intel Xeon E5-2660 V4  ,14,2 GHz,3.2 GHz,105 W,None,Yes,5, 1,$399.00
+ AMD Ryzen 7 3800XT  ,8,3.9 GHz,4.7 GHz,105 W,None,Yes,5, 22,$406.45
+ Intel Xeon E5-1650 V4  ,6,3.6 GHz,4 GHz,140 W,None,Yes,0, 0,$27.84
+ AMD FX-6300  ,6,3.5 GHz,,95 W,None,No,5, 510,
+ AMD Ryzen 5 1400  ,4,3.2 GHz,3.4 GHz,65 W,None,Yes,5, 52,$110.00
+ Intel Core i5-4570  ,4,3.2 GHz,,84 W,Intel HD Graphics 4600,No,5, 83,$104.54
+ Intel Core i7-8700K  ,6,3.7 GHz,4.7 GHz,95 W,Intel UHD Graphics 630,Yes,5, 2,$252.50
+ Intel Core i5-6400  ,4,2.7 GHz,3.3 GHz,65 W,Intel HD Graphics 530,No,5, 44,
+ AMD Ryzen 3 1200 ,4,3.1 GHz,3.4 GHz,65 W,None,No,5, 69,$105.00
+ AMD Ryzen 3 3300X  ,4,3.8 GHz,4.3 GHz,65 W,None,Yes,5, 21,$150.00
+ AMD Ryzen 5 3600XT  ,6,3.8 GHz,4.5 GHz,95 W,None,Yes,5, 36,
+ Intel Core i5-4670K  ,4,3.4 GHz,,84 W,Intel HD Graphics 4600,No,5, 526,$63.50
+ AMD Ryzen 5 1500X  ,4,3.5 GHz,3.7 GHz,65 W,None,Yes,5, 50,$195.00
+ Intel Core i7-2600  ,4,3.4 GHz,,95 W,Intel HD Graphics 2000,Yes,5, 19,
+ Intel Core i7-6800K  ,6,3.4 GHz,3.6 GHz,140 W,None,Yes,5, 22,$108.00
+ Intel Core i7-9700KF  ,8,3.6 GHz,4.9 GHz,95 W,None,No,5, 7,$280.00
+ Intel Pentium E5400  ,2,2.7 GHz,,65 W,None,No,4, 2,
+ AMD Ryzen 5 3500  ,6,3.6 GHz,4.1 GHz,65 W,None,No,5, 2,
+ Intel Core i9-10900F  ,10,2.8 GHz,5.2 GHz,65 W,None,Yes,5, 4,$240.06
+ Intel Core i5-12600  ,6,3.3 GHz,4.8 GHz,65 W,Intel UHD Graphics 770,Yes,5, 3,$239.99
+ Intel Core i5-9600KF  ,6,3.7 GHz,4.6 GHz,95 W,None,No,5, 10,$185.12
+ Intel Core i3-6100  ,2,3.7 GHz,,51 W,Intel HD Graphics 530,Yes,5, 161,$100.00
+ Intel Core i5-10500  ,6,3.1 GHz,4.5 GHz,65 W,Intel UHD Graphics 630,Yes,0, 0,$177.84
+ Intel Core i7-2600K  ,4,3.4 GHz,,95 W,Intel HD Graphics 3000,Yes,5, 44,$70.00
+ Intel Xeon E5-2630 V2  ,6,2.6 GHz,3.1 GHz,80 W,None,Yes,0, 0,
+ Intel Xeon E5-2680 V4  ,14,2.4 GHz,3.3 GHz,120 W,None,Yes,0, 0,$1975.00
+ Intel Core i5-3570K  ,4,3.4 GHz,,77 W,Intel HD Graphics 4000,No,5, 461,$120.23
+ Intel 300  ,2,3.9 GHz,,46 W,Intel UHD Graphics 710,Yes,0, 0,$96.99
+ Intel Core i3-10105  ,4,3.7 GHz,4.4 GHz,65 W,Intel UHD Graphics 630,Yes,5, 4,$96.00
+ Intel Core i5-2400  ,4,3.1 GHz,,95 W,Intel HD Graphics 2000,No,5, 17,
+ AMD Ryzen 9 PRO 7945  ,12,3.7 GHz,5.4 GHz,65 W,Radeon,Yes,0, 0,
+ Intel Core i5-7600  ,4,3.5 GHz,4.1 GHz,65 W,Intel HD Graphics 630,No,5, 21,$89.00
+ AMD Ryzen 7 1800X  ,8,3.6 GHz,4 GHz,95 W,None,Yes,5, 51,$235.00
+ Intel Xeon E5-2683 V4  ,16,2.1 GHz,3 GHz,120 W,None,Yes,0, 0,$1998.95
+ Intel Core i7-4790K  ,4,4 GHz,4.4 GHz,88 W,Intel HD Graphics 4600,Yes,4, 6,$185.00
+ Intel Core i7-6900K  ,8,3.2 GHz,3.7 GHz,140 W,None,Yes,5, 6,$145.00
+ Intel Core i7-5820K  ,6,3.3 GHz,3.6 GHz,140 W,None,Yes,5, 120,
+ AMD Threadripper 1920X  ,12,3.5 GHz,4 GHz,180 W,None,Yes,5, 8,$270.00
+ Intel Core 2 Duo E8400  ,2,3 GHz,,65 W,None,No,5, 4,$27.55
+ Intel Celeron G5925  ,2,3.6 GHz,,58 W,Intel UHD Graphics 610,No,0, 0,$45.99
+ Intel Celeron 420  ,1,1.6 GHz,,35 W,None,No,0, 0,$39.95
+ Intel Core i5-6600  ,4,3.3 GHz,3.9 GHz,65 W,Intel HD Graphics 530,No,5, 52,
+ AMD Threadripper 1950X  ,16,3.4 GHz,4 GHz,180 W,None,Yes,5, 18,$788.88
+ Intel Core i3-7100  ,2,3.9 GHz,,51 W,Intel HD Graphics 630,Yes,4, 24,$70.00
+ Intel Core i5-9400F  ,6,2.9 GHz,4.1 GHz,65 W,None,No,5, 1,
+ AMD Athlon X4 845  ,4,3.5 GHz,3.8 GHz,65 W,None,No,4, 4,$50.00
+ Intel Core i3-10305  ,4,3.8 GHz,4.5 GHz,65 W,Intel UHD Graphics 630,Yes,0, 0,$169.99
+ Intel Core i9-9900  ,8,3.1 GHz,5 GHz,65 W,Intel UHD Graphics 630,Yes,5, 3,$315.00
+ Intel Core i5-2500K  ,4,3.3 GHz,,95 W,Intel HD Graphics 3000,No,5, 97,$251.53
+ Intel Pentium Gold G6400  ,2,4 GHz,,58 W,Intel UHD Graphics 610,Yes,5, 2,$64.98
+ Intel Core i3-4150  ,2,3.5 GHz,,54 W,Intel HD Graphics 4400,Yes,5, 35,$48.00
+ Intel Core i5-9500  ,6,3 GHz,4.4 GHz,65 W,Intel UHD Graphics 630,No,5, 1,$160.74
+ Intel Core i9-10900X  ,10,3.7 GHz,4.7 GHz,165 W,None,Yes,5, 1,$615.00
+ Intel Core i7-4790  ,4,3.6 GHz,4 GHz,84 W,Intel HD Graphics 4600,Yes,5, 41,
+ Intel Core i9-9900K  ,8,3.6 GHz,5 GHz,95 W,Intel UHD Graphics 630,Yes,5, 2,$954.81
+ Intel Xeon E5-2650 V4  ,12,2.2 GHz,2.9 GHz,105 W,None,Yes,0, 0,$79.00
+ Intel Core i9-10900  ,10,2.8 GHz,5.2 GHz,65 W,Intel UHD Graphics 630,Yes,5, 3,$291.97
+ AMD Athlon 200GE  ,2,3.2 GHz,,35 W,Radeon Vega 3,Yes,5, 15,$89.99
+ Intel Core i5-3570  ,4,3.4 GHz,,77 W,Intel HD Graphics 2500,No,5, 22,
+ Intel Core i3-12100T  ,4,2.2 GHz,4.1 GHz,35 W,Intel UHD Graphics 730,Yes,0, 0,
+ Intel Core i9-12900F  ,16,2.4 GHz,5.1 GHz,65 W,None,Yes,0, 0,$432.99
+ Intel Core i5-6500  ,4,3.2 GHz,3.6 GHz,65 W,Intel HD Graphics 530,No,0, 0,
+ Intel Core i3-7350K  ,2,4.2 GHz,,60 W,Intel HD Graphics 630,Yes,5, 2,$40.00
+ AMD Ryzen 9 3900X  ,12,3.8 GHz,4.6 GHz,105 W,None,Yes,5, 1,
+ Intel Core i9-11900  ,8,2.5 GHz,5.2 GHz,65 W,Intel UHD Graphics 750,Yes,5, 2,$270.00
+ Intel Core i5-8400  ,6,2.8 GHz,4 GHz,65 W,Intel UHD Graphics 630,No,5, 1,$249.95
+ Intel Core i7-4930K  ,6,3.4 GHz,3.9 GHz,130 W,None,Yes,5, 45,$105.00
+ Intel Core i9-11900F  ,8,2.5 GHz,5.2 GHz,65 W,None,Yes,0, 0,$240.00
+ AMD Threadripper 2950X  ,16,3.5 GHz,4.4 GHz,180 W,None,Yes,5, 6,$1075.00
+ Intel Xeon E5-2640 V3  ,8,2.6 GHz,3.4 GHz,90 W,None,Yes,4, 1,$59.85
+ Intel Core i7-7700  ,4,3.6 GHz,4.2 GHz,65 W,Intel HD Graphics 630,Yes,4, 1,$329.95
+ Intel Core i9-7960X  ,16,2.8 GHz,4.4 GHz,165 W,None,Yes,0, 0,$357.22
+ Intel Core i7-2700K  ,4,3.5 GHz,,95 W,Intel HD Graphics 3000,Yes,5, 7,$82.00
+ Intel Core i9-7900X  ,10,3.3 GHz,4.5 GHz,140 W,None,Yes,5, 8,$400.00
+ Intel Pentium Gold G7400  ,2,3.7 GHz,,46 W,Intel UHD Graphics 710,Yes,0, 0,$98.40
+ Intel Core i9-12900  ,16,2.4 GHz,5.1 GHz,65 W,Intel UHD Graphics 770,Yes,0, 0,$458.00
+ Intel Core i7-8086K  ,6,4 GHz,5 GHz,95 W,Intel UHD Graphics 630,Yes,5, 18,$456.00
+ Intel Core i5-11500  ,6,2.7 GHz,4.6 GHz,65 W,Intel UHD Graphics 750,Yes,5, 9,$169.21
+ AMD Threadripper 2920X  ,12,3.5 GHz,4.3 GHz,180 W,None,Yes,5, 1,$530.00
+ Intel Celeron E3500  ,2,2.7 GHz,,65 W,None,No,0, 0,$14.99
+ Intel Core i7-8700  ,6,3.2 GHz,4.6 GHz,65 W,Intel UHD Graphics 630,Yes,5, 2,$389.45
+ AMD FX-8320  ,8,3.5 GHz,,125 W,None,No,5, 248,$175.00
+ Intel Celeron G4900  ,2,3.1 GHz,,65 W,Intel UHD Graphics 610,No,0, 0,$48.59
+ Intel Core i3-9100  ,4,3.6 GHz,4.2 GHz,65 W,Intel UHD Graphics 630,No,5, 7,$145.00
+ Intel Pentium G640  ,2,2.8 GHz,,65 W,Intel HD Graphics,No,4, 1,$30.00
+ Intel Core i7-9700F  ,8,3 GHz,4.7 GHz,65 W,None,No,0, 0,$199.00
+ Intel Core i9-13900T  ,24,1.1 GHz,5.3 GHz,35 W,Intel UHD Graphics 770,Yes,5, 1,
+ Intel Core i5-8600  ,6,3.1 GHz,4.3 GHz,65 W,Intel UHD Graphics 630,No,5, 4,$175.00
+ AMD Ryzen 3 1300X  ,4,3.5 GHz,3.7 GHz,65 W,None,No,5, 24,
+ Intel Core i5-7400T  ,4,2.4 GHz,3 GHz,35 W,Intel HD Graphics 630,No,0, 0,$63.50
+ Intel Core i7-6850K  ,6,3.6 GHz,3.8 GHz,140 W,None,Yes,5, 24,$120.00
+ AMD Ryzen 5 3600  ,6,3.6 GHz,4.2 GHz,65 W,None,Yes,5, 1,
+ Intel Xeon E5-2698 V3  ,16,2.3 GHz,3.6 GHz,135 W,None,Yes,0, 0,
+ AMD Ryzen 5 3600X  ,6,3.8 GHz,4.4 GHz,95 W,None,Yes,0, 0,
+ Intel Pentium E5700  ,2,3 GHz,,65 W,None,No,0, 0,$19.98
+ Intel Core i7-7700K  ,4,4.2 GHz,4.5 GHz,91 W,Intel HD Graphics 630,Yes,0, 0,
+ Intel Core i5-11600  ,6,2.8 GHz,4.8 GHz,65 W,Intel UHD Graphics 750,Yes,5, 2,$150.00
+ Intel Core i3-2100  ,2,3.1 GHz,,65 W,Intel HD Graphics 2000,Yes,4, 12,$49.00
+ AMD A4-6300  ,2,3.7 GHz,3.9 GHz,65 W,Radeon HD 8370D,No,4, 5,$46.79
+ Intel Core i7-7820X  ,8,3.6 GHz,4.5 GHz,140 W,None,Yes,5, 10,$375.00
+ Intel Core i7-7800X  ,6,3.5 GHz,4 GHz,140 W,None,Yes,5, 12,$499.99
+ AMD Athlon X2 340  ,2,3.2 GHz,,65 W,None,No,0, 0,$120.00
+ Intel Core i9-9900K ,8,3.6 GHz,5 GHz,95 W,Intel UHD Graphics 630,Yes,5, 8,$468.00
+ Intel Core i5-4440  ,4,3.1 GHz,3.3 GHz,84 W,Intel HD Graphics 4600,No,5, 39,$100.00
+ AMD FX-9590  ,8,4.7 GHz,5 GHz,220 W,None,No,5, 29,$302.58
+ AMD Ryzen 3 1200 ,4,3.1 GHz,3.4 GHz,65 W,None,No,5, 4,$105.00
+ Intel Xeon E5-2667 V3  ,8,3.2 GHz,3.6 GHz,135 W,None,Yes,5, 1,$1038.27
+ AMD Ryzen 3 3200G  ,4,3.6 GHz,4 GHz,65 W,Radeon Vega 8,No,5, 1,
+ Intel Core i5-7500T  ,4,2.7 GHz,3.3 GHz,35 W,Intel HD Graphics 630,No,0, 0,$69.00
+ Intel Core i7-4770S  ,4,3.1 GHz,,65 W,Intel HD Graphics 4600,Yes,5, 5,$117.85
+ AMD Ryzen 5 2600  ,6,3.4 GHz,3.9 GHz,65 W,None,Yes,0, 0,
+ Intel Core i9-10920X  ,12,3.5 GHz,4.8 GHz,165 W,None,Yes,5, 1,$799.00
+ Intel Core i5-2500  ,4,3.3 GHz,,95 W,Intel HD Graphics 2000,No,5, 8,
+ AMD FX-6350  ,6,3.9 GHz,,125 W,None,No,5, 49,$100.00
+ Intel Core i7-5930K  ,6,3.5 GHz,3.7 GHz,140 W,None,Yes,5, 37,
+ Intel Xeon E5-2670 V3  ,12,2.3 GHz,3.1 GHz,120 W,None,Yes,5, 1,
+ Intel Core i5-8500T  ,6,2.1 GHz,3.5 GHz,35 W,Intel UHD Graphics 630,No,5, 2,
+ AMD Ryzen 7 3800X  ,8,3.9 GHz,4.5 GHz,105 W,None,Yes,5, 1,
+ Intel Core i9-7920X  ,12,2.9 GHz,4.4 GHz,140 W,None,Yes,0, 0,$586.20
+ Intel Core i3-4170  ,2,3.7 GHz,,54 W,Intel HD Graphics 4400,Yes,5, 22,
+ AMD Threadripper 2970WX  ,24,3 GHz,4.2 GHz,250 W,None,Yes,0, 0,$1150.00
+ Intel Core i7-9700  ,8,3 GHz,4.7 GHz,65 W,Intel HD Graphics 630,No,0, 0,$299.80
+ Intel Core i5-13600  ,14,2.7 GHz,5 GHz,65 W,Intel UHD Graphics 770,Yes,0, 0,
+ Intel Core i7-6700  ,4,3.4 GHz,4 GHz,65 W,Intel HD Graphics 530,Yes,0, 0,$394.98
+ AMD FX-8300  ,8,3.3 GHz,,95 W,None,No,4, 7,$120.00
+ AMD Ryzen 5 2600X  ,6,3.6 GHz,4.2 GHz,95 W,None,Yes,5, 2,
+ Intel Core i7-6700K  ,4,4 GHz,4.2 GHz,91 W,Intel HD Graphics 530,Yes,5, 2,
+ Intel Core i5-9600  ,6,3.1 GHz,4.6 GHz,65 W,Intel UHD Graphics 630,No,0, 0,$195.00
+ Intel Celeron G5905  ,2,3.5 GHz,,58 W,Intel UHD Graphics 610,No,0, 0,
+ Intel Pentium G4560  ,2,3.5 GHz,,54 W,Intel HD Graphics 610,Yes,5, 91,
+ AMD FX-6100  ,6,3.3 GHz,,95 W,None,No,5, 10,$72.80
+ Intel Core i7-5960X  ,8,3 GHz,3.5 GHz,140 W,None,Yes,5, 16,
+ Intel Xeon E5-2699 V3  ,18,2.3 GHz,3.6 GHz,145 W,None,Yes,0, 0,
+ Intel Core i5-13500T  ,14,1.6 GHz,4.6 GHz,35 W,Intel UHD Graphics 770,Yes,0, 0,
+ Intel Core i7-9700K  ,8,3.6 GHz,4.9 GHz,95 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Core i3-530  ,2,2.93 GHz,,73 W,Intel HD Graphics,Yes,3, 1,$45.00
+ Intel Core i5-4670  ,4,3.4 GHz,,84 W,Intel HD Graphics 4600,No,5, 42,$63.50
+ AMD Athlon II X4 640  ,4,3 GHz,,95 W,None,No,5, 1,$57.01
+ Intel Pentium Gold G5400  ,2,3.7 GHz,,58 W,Intel UHD Graphics 610,Yes,4, 1,$72.95
+ Intel Celeron G3900  ,2,2.8 GHz,,51 W,Intel HD Graphics 510,No,0, 0,$39.95
+ Intel Pentium G3258  ,2,3.2 GHz,,53 W,Intel HD Graphics,No,5, 155,$51.36
+ Intel Core i3-2120  ,2,3.3 GHz,,65 W,Intel HD Graphics 2000,Yes,5, 16,$170.00
+ Intel Core 2 Duo E8500  ,2,3.16 GHz,,65 W,None,No,0, 0,
+ Intel Core i7-4820K  ,4,3.7 GHz,3.9 GHz,130 W,None,Yes,5, 26,$120.00
+ AMD 5350  ,4,2.05 GHz,,25 W,Radeon HD 8400,No,5, 25,$120.00
+ Intel Core i3-3220  ,2,3.3 GHz,,55 W,Intel HD Graphics 2500,Yes,5, 34,
+ Intel Core i5-10600  ,6,3.3 GHz,4.8 GHz,65 W,Intel UHD Graphics 630,Yes,5, 3,$299.95
+ AMD Ryzen 9 3900  ,12,3.1 GHz,,65 W,None,Yes,0, 0,
+ Intel Core i9-10940X  ,14,3.3 GHz,4.8 GHz,165 W,None,Yes,0, 0,$819.98
+ Intel Core i7-7740X  ,4,4.3 GHz,4.5 GHz,112 W,None,Yes,5, 1,$250.00
+ Intel Core 2 Quad Q9550  ,4,2.83 GHz,,95 W,None,No,5, 1,$52.55
+ AMD A6-3670K  ,4,2.7 GHz,,100 W,Radeon HD 6530D,No,0, 0,
+ Intel Celeron G5920  ,2,3.5 GHz,,58 W,Intel UHD Graphics 610,No,0, 0,$42.99
+ Intel Pentium G2020  ,2,2.9 GHz,,55 W,Intel HD Graphics,No,5, 3,$34.99
+ Intel Core i5-3450  ,4,3.1 GHz,,77 W,Intel HD Graphics 2500,No,5, 7,$68.31
+ Intel Xeon E5-2630  ,6,2.3 GHz,,95 W,None,Yes,0, 0,$25.75
+ Intel Celeron G4900T  ,2,1.8 GHz,,35 W,Intel UHD Graphics 610,No,0, 0,$59.95
+ AMD Ryzen 5 3400G  ,4,3.7 GHz,4.2 GHz,65 W,Radeon Vega 11,Yes,0, 0,
+ Intel Core i9-7980XE  ,18,2.6 GHz,4.4 GHz,165 W,None,Yes,4, 1,$1106.20
+ Intel Core i7-980X Extreme Edition  ,6,3.33 GHz,,130 W,None,Yes,5, 3,$153.64
+ Intel Core i7-3930K  ,6,3.2 GHz,,130 W,None,Yes,5, 41,$250.00
+ AMD FX-6120  ,6,3.5 GHz,4.1 GHz,95 W,None,No,0, 0,$58.53
+ Intel Core i7-13700T  ,16,1.4 GHz,4.9 GHz,35 W,None,Yes,0, 0,
+ AMD FX-4300  ,4,3.8 GHz,,95 W,None,No,4, 35,
+ AMD FX-8370  ,8,4 GHz,4.3 GHz,125 W,None,No,5, 17,
+ AMD Athlon X4 750K  ,4,3.4 GHz,,100 W,None,No,5, 18,
+ Intel Xeon E5-2683 V4  ,16,2.1 GHz,3 GHz,120 W,None,Yes,0, 0,$189.95
+ Intel Core i9-9980XE  ,18,3 GHz,4.4 GHz,165 W,None,Yes,0, 0,$1504.51
+ Intel Core i7-7800X  ,6,3.5 GHz,4 GHz,140 W,None,Yes,0, 0,$277.00
+ Intel Core i7-7700T  ,4,2.9 GHz,3.8 GHz,35 W,Intel HD Graphics 630,Yes,4, 1,$489.95
+ AMD Ryzen 7 1700X  ,8,3.4 GHz,3.8 GHz,95 W,None,Yes,4, 1,
+ AMD FX-4350  ,4,4.2 GHz,,125 W,None,No,5, 16,$122.96
+ Intel Core i5-6402P  ,4,2.8 GHz,3.4 GHz,65 W,Intel HD Graphics 510,No,4, 2,$80.00
+ Intel Pentium E2220  ,2,2.4 GHz,,65 W,None,No,0, 0,$19.98
+ Intel Core i7-920  ,4,2.66 GHz,,130 W,None,Yes,5, 6,$90.00
+ Intel Core i5-9600K  ,6,3.7 GHz,4.6 GHz,95 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Core i7-4770K  ,4,3.5 GHz,3.9 GHz,84 W,Intel HD Graphics 4600,Yes,5, 4,$237.43
+ Intel Xeon E3-1231 V3  ,4,3.4 GHz,3.8 GHz,80 W,None,Yes,5, 34,
+ Intel Celeron G4930  ,2,3.2 GHz,,54 W,Intel UHD Graphics 610,No,0, 0,$63.20
+ Intel Core i7-860  ,4,2.8 GHz,,95 W,None,Yes,4, 6,$339.00
+ Intel Xeon E5-2650 V2  ,8,2.6 GHz,3.4 GHz,95 W,None,Yes,5, 2,
+ Intel Core i3-8350K  ,4,4 GHz,,91 W,Intel UHD Graphics 630,No,5, 14,
+ Intel Core i9-9980XE  ,18,3 GHz,4.4 GHz,165 W,None,Yes,0, 0,$1067.00
+ AMD FX-9370  ,8,4.4 GHz,4.7 GHz,220 W,None,No,4, 9,$187.00
+ Intel Core i5-4670S  ,4,3.1 GHz,3.8 GHz,65 W,Intel HD Graphics 4600,No,5, 1,$549.00
+ Intel Xeon E5-2697 V2  ,12,2.7 GHz,3.5 GHz,130 W,None,Yes,0, 0,
+ Intel Core i5-4430  ,4,3 GHz,,84 W,Intel HD Graphics 4600,No,5, 29,
+ Intel Core i3-10300  ,4,3.7 GHz,4.4 GHz,65 W,Intel UHD Graphics 630,Yes,5, 1,$120.66
+ Intel Core i5-8400T  ,6,1.7 GHz,3.3 GHz,35 W,Intel UHD Graphics 630,No,0, 0,$139.00
+ Intel Core i5-750  ,4,2.66 GHz,,95 W,None,No,5, 5,$75.00
+ Intel Core i7-3820  ,4,3.6 GHz,,130 W,None,Yes,5, 24,
+ Intel Core i5-3330  ,4,3 GHz,,77 W,Intel HD Graphics 2500,No,5, 6,
+ Intel Core i3-550  ,2,3.2 GHz,,73 W,Intel HD Graphics,Yes,5, 1,$115.27
+ Intel Core 2 Quad Q9300  ,4,2.5 GHz,,95 W,None,No,4, 1,$42.60
+ AMD A10-9700E  ,4,3 GHz,3.5 GHz,35 W,Radeon R7 (on-die),No,0, 0,
+ Intel Celeron G3930T  ,2,2.7 GHz,,35 W,Intel HD Graphics 610,No,0, 0,$39.00
+ Intel Core i7-6700T  ,4,2.8 GHz,3.6 GHz,35 W,Intel HD Graphics 530,Yes,0, 0,
+ Intel Core i3-7100  ,2,3.9 GHz,,51 W,Intel HD Graphics 630,Yes,0, 0,$72.80
+ Intel Xeon E5-2687W V4  ,12,3 GHz,3.5 GHz,160 W,None,Yes,0, 0,$1732.69
+ Intel Core i3-13100T  ,4,2.5 GHz,4.2 GHz,35 W,Intel UHD Graphics 730,Yes,0, 0,
+ AMD Ryzen 7 PRO 7745  ,8,3.8 GHz,5.3 GHz,65 W,Radeon,Yes,0, 0,
+ AMD A6-9500  ,2,3.5 GHz,3.8 GHz,65 W,Radeon R5 (on die),No,4, 3,$89.95
+ AMD FX-6300  ,6,3.5 GHz,,95 W,None,No,0, 0,$78.51
+ Intel Core 2 Duo E7600  ,2,3.06 GHz,,65 W,None,No,0, 0,$198.03
+ Intel Xeon E5-2630 V3  ,8,2.4 GHz,3.2 GHz,85 W,None,Yes,5, 1,$175.44
+ AMD A10-9700  ,4,3.5 GHz,3.8 GHz,65 W,Radeon R7 (on-die),No,0, 0,$120.00
+ Intel Xeon E5-2697 V4  ,18,2.3 GHz,3.6 GHz,145 W,None,Yes,0, 0,
+ Intel Core i7-3770S  ,4,3.1 GHz,,65 W,Intel HD Graphics 4000,Yes,5, 3,$75.00
+ Intel Xeon E5-2697 V3  ,14,2.6 GHz,3.6 GHz,145 W,None,Yes,5, 1,
+ Intel Core i3-4160  ,2,3.6 GHz,,54 W,Intel HD Graphics 4400,Yes,5, 28,
+ Intel Core i7-4960X Extreme Edition  ,6,3.6 GHz,4 GHz,130 W,None,Yes,5, 7,$295.00
+ Intel Core i7-6950X  ,10,3 GHz,3.5 GHz,140 W,None,Yes,5, 4,$651.07
+ Intel Pentium G4400  ,2,3.3 GHz,,54 W,Intel HD Graphics 510,No,4, 31,$85.00
+ Intel Core i7-4790S  ,4,3.2 GHz,4 GHz,65 W,Intel HD Graphics 4000,Yes,5, 2,
+ AMD A10-7850K  ,4,3.7 GHz,4 GHz,95 W,Radeon R7 (on-die),No,5, 52,$139.84
+ Intel Xeon E5-2698 V4  ,20,2.2 GHz,3.6 GHz,135 W,None,Yes,0, 0,
+ Intel Core i5-6400  ,4,2.7 GHz,3.3 GHz,65 W,Intel HD Graphics 530,No,5, 2,
+ Intel Core i7-9800X  ,8,3.8 GHz,4.5 GHz,165 W,None,Yes,0, 0,
+ Intel Core i5-8600K  ,6,3.6 GHz,4.3 GHz,95 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Core i7-4770K  ,4,3.5 GHz,3.9 GHz,84 W,Intel HD Graphics 4600,Yes,0, 0,$155.86
+ Intel Core i7-8700T  ,6,2.4 GHz,4 GHz,35 W,Intel UHD Graphics 630,Yes,0, 0,$199.00
+ AMD A6-6400K  ,2,3.9 GHz,,65 W,Radeon HD 8470D,No,5, 13,$75.00
+ Intel Core i7-870  ,4,2.93 GHz,,95 W,None,Yes,4, 3,$100.00
+ Intel Xeon E5-1650 V3  ,6,3.5 GHz,3.8 GHz,140 W,None,Yes,0, 0,
+ Intel Core i3-3240  ,2,3.4 GHz,,55 W,Intel HD Graphics 2500,Yes,4, 6,$106.51
+ Intel Xeon E5-2620 V3  ,6,2.4 GHz,3.2 GHz,85 W,None,Yes,0, 0,$68.07
+ Intel Core i5-4570T  ,2,2.9 GHz,,35 W,Intel HD Graphics 4600,Yes,3, 1,$79.00
+ Intel Pentium Gold G6500  ,2,4.1 GHz,,58 W,Intel UHD Graphics 630,Yes,0, 0,$70.98
+ AMD Phenom II X6 1090T Black  ,6,3.2 GHz,,125 W,None,No,4, 7,
+ Intel Core i5-7400  ,4,3 GHz,3.5 GHz,65 W,Intel HD Graphics 630,No,0, 0,$110.00
+ AMD Athlon II X4 630  ,4,2.8 GHz,,95 W,None,No,0, 0,$52.60
+ AMD A8-7600  ,4,3.1 GHz,3.8 GHz,65 W,Radeon R7 (on-die),No,5, 22,
+ Intel Core i5-9500F  ,6,3 GHz,4.4 GHz,65 W,None,No,0, 0,
+ Intel Xeon E5-1620 V4  ,4,3.5 GHz,3.8 GHz,140 W,None,Yes,0, 0,$157.66
+ Intel Core i5-2400S  ,4,2.5 GHz,,65 W,Intel HD Graphics 2000,No,0, 0,$70.00
+ Intel Xeon E5-2660  ,8,2.2 GHz,3 GHz,95 W,None,Yes,0, 0,
+ Intel Core i3-4370  ,2,3.8 GHz,,54 W,Intel HD Graphics 4600,Yes,5, 6,$60.00
+ Intel Core i5-2320  ,4,3 GHz,,95 W,Intel HD Graphics 2000,No,4, 6,
+ AMD A8-9600  ,4,3.1 GHz,3.4 GHz,65 W,Radeon R7 (on-die),No,0, 0,
+ AMD A8-6600K  ,4,3.9 GHz,,100 W,Radeon HD 8570D,No,5, 21,$92.86
+ Intel Core 2 Duo E7500  ,2,2.93 GHz,,65 W,None,No,5, 3,$99.63
+ Intel Xeon E5-1630 V4  ,4,3.7 GHz,4 GHz,140 W,None,Yes,0, 0,$229.95
+ Intel Celeron E3400  ,2,2.6 GHz,,65 W,None,No,0, 0,$18.98
+ AMD Athlon II 160u  ,1,1.8 GHz,,20 W,None,No,0, 0,
+ Intel Xeon E5-2680  ,8,2.7 GHz,3.5 GHz,130 W,None,Yes,5, 1,$80.00
+ Intel Core i3-6098P  ,2,3.6 GHz,,54 W,Intel HD Graphics 510,Yes,4, 1,$59.00
+ Intel Core i5-6500T  ,4,2.5 GHz,3.1 GHz,35 W,Intel HD Graphics 530,No,0, 0,
+ Intel Core i9-9900X  ,10,3.5 GHz,4.4 GHz,165 W,None,Yes,0, 0,$649.95
+ AMD Ryzen 5 PRO 7645  ,6,3.8 GHz,5.1 GHz,65 W,Radeon,Yes,0, 0,
+ AMD Ryzen 3 2200G  ,4,3.5 GHz,3.7 GHz,65 W,Radeon Vega 8,No,0, 0,
+ Intel Xeon E5-2695 V2  ,12,2.4 GHz,3.2 GHz,115 W,None,Yes,0, 0,$189.00
+ AMD Athlon X2 370K  ,2,4.2 GHz,,65 W,None,No,0, 0,
+ Intel Core i3-6100T  ,2,3.2 GHz,,35 W,Intel HD Graphics 530,Yes,0, 0,
+ Intel Core i5-4590S  ,4,3 GHz,3.7 GHz,65 W,Intel HD Graphics 4000,No,5, 8,
+ Intel Core i7-10700K Avengers Collector's Edition  ,8,3.8 GHz,5.1 GHz,125 W,Intel UHD Graphics 630,Yes,0, 0,$741.00
+ AMD FX-8320  ,8,3.5 GHz,,125 W,None,No,5, 1,$106.55
+ Intel Celeron G3930  ,2,2.9 GHz,,51 W,Intel HD Graphics 610,No,5, 3,$53.12
+ Intel Celeron G4900  ,2,3.1 GHz,,65 W,Intel UHD Graphics 610,No,5, 2,$50.00
+ AMD FX-8350  ,8,4 GHz,,125 W,None,No,5, 2,$192.57
+ Intel Core i7-950  ,4,3.06 GHz,,130 W,None,Yes,5, 5,$100.00
+ AMD Ryzen 7 PRO 7745  ,8,3.8 GHz,5.3 GHz,65 W,Radeon,Yes,0, 0,
+ Intel Xeon E5-2650  ,8,2 GHz,2.8 GHz,95 W,None,Yes,5, 1,$57.00
+ AMD 2650  ,2,1.45 GHz,,25 W,Radeon HD 8240,No,5, 2,$169.00
+ Intel Xeon E5-2690 V4  ,14,2.6 GHz,3.5 GHz,135 W,None,Yes,5, 1,
+ Intel Core 2 Quad Q9650  ,4,3 GHz,,95 W,None,No,5, 1,
+ Intel Core i3-10320  ,4,3.8 GHz,4.6 GHz,65 W,Intel UHD Graphics 630,Yes,0, 0,$123.49
+ AMD Athlon X4 950  ,4,3.5 GHz,3.8 GHz,65 W,None,No,4, 4,
+ Intel Celeron G3920  ,2,2.6 GHz,,35 W,Intel HD Graphics 510,No,0, 0,$495.09
+ AMD A10-6700  ,4,3.7 GHz,,65 W,Radeon HD 8670D,No,5, 3,$112.76
+ Intel Core i5-9500T  ,6,2.2 GHz,3.7 GHz,35 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Core i5-3550  ,4,3.3 GHz,,77 W,Intel HD Graphics 2500,No,4, 3,$335.00
+ Intel Xeon E5-1660 V3  ,8,3 GHz,3.5 GHz,140 W,None,Yes,5, 1,$204.44
+ AMD Phenom II X4 965 Black  ,4,3.4 GHz,,125 W,None,No,5, 34,
+ Intel Core i7-5775C  ,4,3.3 GHz,3.7 GHz,65 W,Iris Pro Graphics 6200,Yes,5, 3,$250.00
+ Intel Xeon E5-1620 V3  ,4,3.5 GHz,3.6 GHz,140 W,None,Yes,4, 1,$71.90
+ Intel Core i3-8100T  ,4,3.1 GHz,,35 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Core i5-9600KF  ,6,3.7 GHz,4.6 GHz,95 W,None,No,5, 2,$339.95
+ AMD A8-7680  ,4,3.5 GHz,3.8 GHz,65 W,Radeon R7 (on-die),No,0, 0,
+ Intel Xeon E3-1270 V3  ,4,3.5 GHz,3.9 GHz,80 W,None,Yes,0, 0,$420.00
+ Intel Core i7-940  ,4,2.93 GHz,,130 W,None,Yes,4, 1,$78.67
+ Intel Core i7-960  ,4,3.2 GHz,,130 W,None,Yes,5, 2,$299.00
+ Intel Core i5-650  ,2,3.2 GHz,,73 W,Intel HD Graphics,Yes,4, 1,$100.00
+ Intel Xeon E5-2687W V3  ,10,3.1 GHz,3.5 GHz,160 W,None,Yes,0, 0,
+ Intel Pentium Gold G6605  ,2,4.3 GHz,,58 W,Intel UHD Graphics 630,Yes,0, 0,$173.36
+ Intel Xeon E3-1230 V2  ,4,3.3 GHz,,69 W,None,Yes,5, 6,$271.85
+ Intel Xeon E5-2640 V4  ,10,2.4 GHz,3.4 GHz,90 W,None,Yes,0, 0,
+ AMD A10-7800  ,4,3.5 GHz,3.9 GHz,65 W,Radeon R7 (on-die),No,0, 0,
+ Intel Core i5-7600K  ,4,3.8 GHz,4.2 GHz,91 W,Intel HD Graphics 630,No,0, 0,
+ Intel Core i9-10850K  ,10,3.6 GHz,5.2 GHz,125 W,Intel UHD Graphics 630,Yes,5, 2,
+ Intel Core i3-7320  ,2,4.1 GHz,,51 W,Intel HD Graphics 630,Yes,0, 0,$66.81
+ AMD A6-7400K  ,2,3.5 GHz,3.9 GHz,65 W,Radeon R5 (on die),No,4, 7,$89.98
+ Intel Core i3-9350KF  ,4,4 GHz,4.6 GHz,91 W,None,No,4, 1,$206.00
+ AMD A4-5300  ,2,3.4 GHz,,65 W,Radeon HD 7480D,No,4, 8,
+ Intel Core i7-3970X Extreme Edition  ,6,3.5 GHz,,150 W,None,Yes,5, 4,$216.93
+ Intel Core i3-6100  ,2,3.7 GHz,,51 W,Intel HD Graphics 530,Yes,0, 0,$98.95
+ AMD Athlon X4 970  ,4,3.8 GHz,4 GHz,65 W,None,No,0, 0,
+ Intel Xeon E5-2680 V3  ,12,2.5 GHz,3.3 GHz,120 W,None,Yes,5, 1,
+ Intel Core i5-9400  ,6,2.9 GHz,4.1 GHz,65 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Core 2 Extreme QX9770  ,4,3.2 GHz,,136 W,None,No,5, 1,
+ AMD FX-8320E  ,8,3.2 GHz,4 GHz,95 W,None,No,5, 31,
+ Intel Xeon E3-1220 V3  ,4,3.1 GHz,3.5 GHz,80 W,None,No,5, 2,$106.30
+ Intel Core i9-9960X  ,16,3.1 GHz,4.4 GHz,165 W,None,Yes,0, 0,$998.95
+ Intel Xeon E-2278G  ,8,3.4 GHz,5 GHz,80 W,Intel HD Graphics P630,Yes,0, 0,
+ Intel Celeron G440  ,1,1.6 GHz,,35 W,Intel HD Graphics,No,0, 0,
+ Intel Core 2 Extreme QX9650  ,4,3 GHz,,130 W,None,No,0, 0,$152.52
+ Intel Xeon E5-2620  ,6,2 GHz,,95 W,None,Yes,0, 0,$36.75
+ Intel Pentium Gold G6600  ,2,4.2 GHz,,58 W,Intel UHD Graphics 630,Yes,0, 0,
+ Intel Core i5-3350P  ,4,3.1 GHz,,69 W,None,No,5, 12,
+ AMD A10-5800K  ,4,3.8 GHz,,100 W,Radeon HD 7660D,No,5, 39,
+ AMD Ryzen 7 2700  ,8,3.2 GHz,4.1 GHz,65 W,None,Yes,0, 0,
+ AMD FX-6350  ,6,3.9 GHz,,125 W,None,No,4, 1,
+ Intel Celeron G1610  ,2,2.6 GHz,,55 W,Intel HD Graphics,No,5, 3,$37.00
+ Intel Core i9-7900X  ,10,3.3 GHz,4.5 GHz,140 W,None,Yes,0, 0,$898.95
+ AMD A10-6800K  ,4,4.1 GHz,,100 W,Radeon HD 8670D,No,5, 41,
+ Intel Core i7-4771  ,4,3.5 GHz,3.9 GHz,84 W,Intel HD Graphics 4600,Yes,5, 7,
+ Intel Core i5-7400T  ,4,2.4 GHz,3 GHz,35 W,Intel HD Graphics 630,No,0, 0,$82.62
+ AMD A8-7650K  ,4,3.3 GHz,3.7 GHz,95 W,Radeon R7 (on-die),No,5, 4,
+ Intel Core i3-10100T  ,4,3 GHz,3.8 GHz,35 W,Intel UHD Graphics 630,Yes,0, 0,
+ AMD A10-7700K  ,4,3.4 GHz,3.8 GHz,95 W,Radeon R7 (on-die),No,5, 14,$132.86
+ Intel Core i7-990X Extreme Edition  ,6,3.467 GHz,,130 W,None,Yes,4, 1,
+ AMD FX-8350  ,8,4 GHz,,125 W,None,No,5, 8,$248.02
+ AMD FX-8150  ,8,3.6 GHz,,125 W,None,No,5, 16,
+ Intel Core i5-4690K  ,4,3.5 GHz,3.9 GHz,88 W,Intel HD Graphics 4600,No,5, 4,
+ Intel Core i5-8500  ,6,3 GHz,4.1 GHz,65 W,Intel UHD Graphics 630,No,0, 0,$159.99
+ Intel Core i5-2300  ,4,2.8 GHz,,95 W,Intel HD Graphics 2000,No,5, 2,
+ AMD Athlon X4 860K  ,4,3.7 GHz,4 GHz,95 W,None,No,5, 69,
+ Intel Core i3-540  ,2,3.06 GHz,,73 W,Intel HD Graphics,Yes,5, 2,$90.00
+ Intel Core i9-9960X  ,16,3.1 GHz,4.4 GHz,165 W,None,Yes,0, 0,
+ Intel Core i5-4570S  ,4,2.9 GHz,,65 W,Intel HD Graphics 4600,No,5, 3,
+ Intel Pentium G4600  ,2,3.6 GHz,,51 W,Intel HD Graphics 630,Yes,5, 23,
+ Intel Core i5-7500  ,4,3.4 GHz,3.8 GHz,65 W,Intel HD Graphics 630,No,0, 0,
+ Intel Core i7-3960X Extreme Edition  ,6,3.3 GHz,,130 W,None,Yes,5, 6,$274.85
+ Intel Pentium Gold G5400T  ,2,3.1 GHz,,35 W,Intel UHD Graphics 610,Yes,4, 1,$79.95
+ Intel Xeon E5-4620  ,8,2.2 GHz,2.6 GHz,95 W,None,Yes,0, 0,$52.00
+ Intel Pentium Gold G6405  ,2,4.1 GHz,,58 W,Intel UHD Graphics 610,Yes,0, 0,$90.52
+ Intel Core i3-4130T  ,2,2.9 GHz,,35 W,Intel HD Graphics 4400,Yes,5, 6,$60.00
+ Intel Core i5-760  ,4,2.8 GHz,,95 W,None,No,5, 3,$100.00
+ Intel Core i7-970  ,6,3.2 GHz,,130 W,None,Yes,5, 1,
+ AMD Phenom II X6 1100T Black  ,6,3.3 GHz,,125 W,None,No,4, 4,
+ Intel Xeon E3-1240L V5  ,4,2.1 GHz,3.2 GHz,25 W,None,Yes,0, 0,
+ Intel Xeon E5-2620 V4  ,8,2.1 GHz,3 GHz,85 W,None,Yes,5, 3,$429.95
+ Intel Core i7-2600S  ,4,2.8 GHz,,65 W,Intel HD Graphics 2000,Yes,5, 1,$235.00
+ Intel Xeon E5-2660 V3  ,10,2.6 GHz,3.3 GHz,105 W,None,Yes,0, 0,
+ Intel Core i7-7700T  ,4,2.9 GHz,3.8 GHz,35 W,Intel HD Graphics 630,Yes,0, 0,$380.00
+ Intel Xeon E3-1230 V3  ,4,3.3 GHz,3.7 GHz,80 W,None,Yes,5, 10,$315.86
+ Intel Pentium Gold G5400  ,2,3.7 GHz,,58 W,Intel UHD Graphics 610,Yes,5, 8,$50.00
+ Intel Core 2 Quad Q6600  ,4,2.4 GHz,,100 W,None,No,4, 5,$94.97
+ AMD A8-5600K  ,4,3.6 GHz,,100 W,Radeon HD 7560D,No,4, 16,$249.99
+ Intel Core 2 Duo E6400  ,2,2.13 GHz,,65 W,None,No,0, 0,$34.94
+ Intel Xeon E5-2690 V3  ,12,2.6 GHz,3.5 GHz,135 W,None,Yes,5, 1,
+ Intel Core i9-7940X  ,14,3.1 GHz,4.4 GHz,165 W,None,Yes,5, 2,
+ Intel Core i9-9900  ,8,3.1 GHz,5 GHz,65 W,Intel UHD Graphics 630,Yes,4, 1,
+ Intel Core i5-9400  ,6,2.9 GHz,4.1 GHz,65 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Xeon E-2288G  ,8,3.7 GHz,5 GHz,95 W,Intel HD Graphics P630,Yes,0, 0,
+ AMD Athlon II X4 640  ,4,3 GHz,,95 W,None,No,5, 3,$74.79
+ Intel Core i5-7600  ,4,3.5 GHz,4.1 GHz,65 W,Intel HD Graphics 630,No,0, 0,
+ AMD Phenom II X4 955  ,4,3.2 GHz,,125 W,None,No,5, 2,
+ Intel Core i5-4690K  ,4,3.5 GHz,3.9 GHz,88 W,Intel HD Graphics 4600,No,5, 3,
+ Intel Xeon E5-2667 V2  ,8,3.3 GHz,4 GHz,130 W,None,Yes,0, 0,
+ AMD A10-7890K  ,4,4.1 GHz,4.3 GHz,95 W,Radeon R7 (on-die),No,5, 6,
+ AMD Ryzen 3 1200 ,4,3.1 GHz,3.4 GHz,65 W,None,No,0, 0,
+ Intel Core i5-10600K  ,6,4.1 GHz,4.8 GHz,125 W,Intel UHD Graphics 630,Yes,0, 0,
+ Intel Core i3-3250  ,2,3.5 GHz,,55 W,Intel HD Graphics 2500,Yes,5, 1,$63.00
+ Intel Core i5-3470S  ,4,2.9 GHz,,65 W,Intel HD Graphics 2500,No,0, 0,
+ Intel Core i9-10900K  ,10,3.7 GHz,5.3 GHz,125 W,Intel UHD Graphics 630,Yes,0, 0,
+ Intel Xeon E3-1245 V6  ,4,3.7 GHz,4.1 GHz,73 W,Intel HD Graphics P630,Yes,5, 1,$604.29
+ AMD A12-9800  ,4,3.8 GHz,4.2 GHz,65 W,Radeon R7 (on-die),No,0, 0,$160.00
+ Intel Xeon E5-2630 V4  ,10,2.2 GHz,3.1 GHz,85 W,None,Yes,0, 0,$335.07
+ Intel Core i3-8100  ,4,3.6 GHz,,65 W,Intel UHD Graphics 630,No,0, 0,$124.90
+ Intel Xeon E-2286G  ,6,4 GHz,4.9 GHz,95 W,Intel HD Graphics P630,Yes,0, 0,$799.45
+ Intel Pentium E6600  ,2,3.06 GHz,,65 W,None,No,0, 0,$50.00
+ Intel Pentium G2030  ,2,3 GHz,,55 W,Intel HD Graphics,No,5, 1,
+ AMD Threadripper 2990WX  ,32,3 GHz,4.2 GHz,250 W,None,Yes,0, 0,
+ Intel Core i9-10850KA Avengers Limited Edition  ,10,3.6 GHz,5.2 GHz,125 W,Intel UHD Graphics 630,Yes,0, 0,
+ Intel Core i7-5930K  ,6,3.5 GHz,3.7 GHz,140 W,None,Yes,0, 0,$529.95
+ Intel Core i3-7100T  ,2,3.4 GHz,,35 W,Intel HD Graphics 630,Yes,0, 0,$72.80
+ Intel Celeron 440  ,1,2 GHz,,35 W,None,No,0, 0,$34.99
+ Intel Core i5-6600T  ,4,2.7 GHz,3.5 GHz,35 W,Intel HD Graphics 530,No,0, 0,$179.95
+ Intel Core i9-9940X  ,14,3.3 GHz,4.4 GHz,165 W,None,Yes,0, 0,
+ AMD FX-9590  ,8,4.7 GHz,5 GHz,220 W,None,No,5, 3,
+ Intel Core i5-6600  ,4,3.3 GHz,3.9 GHz,65 W,Intel HD Graphics 530,No,0, 0,
+ Intel Core i3-9300  ,4,3.7 GHz,4.3 GHz,62 W,Intel UHD Graphics 630,No,0, 0,$165.00
+ Intel Core i7-875K  ,4,2.93 GHz,,95 W,None,Yes,5, 1,$205.86
+ Intel Xeon E3-1265L V3  ,4,2.5 GHz,3.7 GHz,45 W,Intel HD Graphics,Yes,5, 2,$398.95
+ AMD FX-4100  ,4,3.6 GHz,,95 W,None,No,4, 16,
+ Intel Core i3-6300  ,2,3.8 GHz,,51 W,Intel HD Graphics 530,Yes,5, 3,
+ AMD A10-5700  ,4,3.4 GHz,,65 W,Radeon HD 7660D,No,0, 0,$68.02
+ Intel Core i3-2120T  ,2,2.6 GHz,,35 W,Intel HD Graphics 2000,Yes,5, 1,$60.00
+ Intel Pentium G3220  ,2,3 GHz,,54 W,Intel HD Graphics,No,5, 18,
+ AMD Opteron 6378  ,16,2.4 GHz,3.3 GHz,115 W,None,No,0, 0,
+ Intel Pentium Gold G5420  ,2,3.8 GHz,,54 W,Intel UHD Graphics 610,Yes,0, 0,
+ Intel Core i9-7980XE  ,18,2.6 GHz,4.4 GHz,165 W,None,Yes,0, 0,$1249.95
+ AMD Athlon 200GE  ,2,3.2 GHz,,35 W,Radeon Vega 3,Yes,0, 0,
+ Intel Core i7-980  ,6,3.333 GHz,,130 W,None,Yes,5, 1,$356.02
+ Intel Core i5-2310  ,4,2.9 GHz,,95 W,Intel HD Graphics 2000,No,5, 2,
+ Intel Xeon E5-2660 V3  ,10,2.6 GHz,3.3 GHz,105 W,None,Yes,0, 0,$149.94
+ Intel Core i5-7640X  ,4,4 GHz,4.2 GHz,112 W,None,No,0, 0,$250.00
+ Intel Xeon E-2274G  ,4,4 GHz,4.9 GHz,83 W,Intel HD Graphics P630,Yes,0, 0,$1064.00
+ AMD 3850  ,4,1.3 GHz,,25 W,Radeon HD 8280,No,3, 1,
+ Intel Xeon E5-1620  ,4,3.6 GHz,3.8 GHz,130 W,None,Yes,5, 2,
+ Intel Core i9-9900T  ,8,2.1 GHz,4.4 GHz,35 W,Intel UHD Graphics 630,Yes,0, 0,
+ AMD A10-6700  ,4,3.7 GHz,,65 W,Radeon HD 8670D,No,0, 0,$83.22
+ Intel Xeon E3-1220 V5  ,4,3 GHz,3.5 GHz,80 W,None,No,0, 0,$107.09
+ Intel Xeon E5-2650L  ,8,1.8 GHz,2.3 GHz,70 W,None,Yes,0, 0,$129.94
+ AMD A10-7870K  ,4,3.9 GHz,4.1 GHz,95 W,Radeon R7 (on-die),No,5, 8,$324.45
+ Intel Core i3-3225  ,2,3.3 GHz,,55 W,Intel HD Graphics 4000,Yes,5, 9,
+ Intel Xeon E-2136  ,6,3.3 GHz,4.5 GHz,80 W,None,Yes,0, 0,
+ Intel Xeon E5-1660 V2  ,6,3.7 GHz,4 GHz,130 W,None,Yes,5, 1,$189.95
+ Intel Core i3-4340  ,2,3.6 GHz,,54 W,Intel HD Graphics 4600,Yes,5, 3,$60.00
+ Intel Xeon E5-1650 V2  ,6,3.5 GHz,3.9 GHz,130 W,None,Yes,4, 1,$238.02
+ Intel Xeon E5-2690 V2  ,10,3 GHz,3.6 GHz,130 W,None,Yes,5, 1,
+ Intel Core i7-4790T  ,4,2.7 GHz,3.9 GHz,45 W,None,Yes,0, 0,$155.86
+ Intel Core 2 Quad Q8400  ,4,2.66 GHz,,95 W,None,No,0, 0,$155.97
+ Intel Core i7-5820K  ,6,3.3 GHz,3.6 GHz,140 W,None,Yes,0, 0,
+ Intel Core 2 Quad Q6600  ,4,2.4 GHz,,100 W,None,No,4, 6,
+ Intel Xeon E3-1246 V3  ,4,3.5 GHz,3.9 GHz,84 W,Intel HD Graphics P4600,Yes,5, 1,
+ Intel Core i5-5675C  ,4,3.1 GHz,3.6 GHz,65 W,Iris Pro Graphics 6200,No,5, 1,
+ AMD Athlon X4 880K  ,4,4 GHz,4.2 GHz,95 W,None,No,4, 5,
+ Intel Xeon E5-1620 V2  ,4,3.7 GHz,3.9 GHz,130 W,None,Yes,5, 3,
+ AMD Phenom II X6 1055T  ,6,2.8 GHz,,125 W,None,No,4, 3,
+ AMD FX-8120  ,8,3.1 GHz,,125 W,None,No,5, 10,
+ Intel Xeon E5-2670 V2  ,10,2.5 GHz,3.3 GHz,115 W,None,Yes,4, 1,
+ Intel Pentium G4500  ,2,3.5 GHz,,51 W,Intel HD Graphics 530,No,5, 2,$84.34
+ AMD A10-7860k  ,4,3.6 GHz,4 GHz,65 W,Radeon R7 (on-die),No,5, 5,
+ Intel Core i9-9820X  ,10,3.3 GHz,4.1 GHz,165 W,None,Yes,5, 2,
+ Intel Core i5-4590T  ,4,2 GHz,,35 W,Intel HD Graphics 4000,Yes,0, 0,
+ Intel Xeon E-2276G  ,6,3.8 GHz,4.9 GHz,80 W,Intel HD Graphics P630,Yes,4, 1,$522.50
+ Intel Celeron G3900  ,2,2.8 GHz,,51 W,Intel HD Graphics 510,No,4, 2,$61.39
+ Intel Xeon E3-1270 V2  ,4,3.5 GHz,,69 W,None,Yes,0, 0,
+ Intel Xeon E5-2695 V4  ,18,2.1 GHz,3.3 GHz,120 W,None,Yes,0, 0,
+ Intel Xeon E5-2470V2  ,10,2.4 GHz,3.2 GHz,95 W,None,Yes,0, 0,$229.95
+ AMD A8-3870K  ,4,3 GHz,,100 W,Radeon HD 6550D,No,3, 3,
+ Intel Core i5-8600T  ,6,2.3 GHz,3.7 GHz,35 W,Intel UHD Graphics 630,No,4, 1,
+ Intel Core i3-9100T  ,4,3.1 GHz,3.7 GHz,35 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Celeron G4920  ,2,3.2 GHz,,65 W,Intel UHD Graphics 610,No,0, 0,$71.94
+ Intel Core 2 Duo E4300  ,2,1.8 GHz,,65 W,None,No,0, 0,
+ Intel Core i7-930  ,4,2.8 GHz,,130 W,None,Yes,5, 3,$257.27
+ Intel Core i3-3210  ,2,3.2 GHz,,55 W,Intel HD Graphics 2500,Yes,0, 0,$70.00
+ Intel Celeron 420  ,1,1.6 GHz,,35 W,None,No,0, 0,
+ Intel Core i3-8300  ,4,3.7 GHz,,62 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Core i7-9700T  ,8,2 GHz,4.3 GHz,35 W,Intel HD Graphics 630,No,0, 0,
+ AMD FX-9370  ,8,4.4 GHz,4.7 GHz,220 W,None,No,5, 2,
+ Intel Xeon E5-2680 V2  ,10,2.8 GHz,3.6 GHz,115 W,None,Yes,0, 0,
+ Intel Pentium G630  ,2,2.7 GHz,,65 W,Intel HD Graphics,No,0, 0,$37.49
+ Intel Core i3-4330  ,2,3.5 GHz,,54 W,Intel HD Graphics 4600,Yes,5, 16,
+ AMD Athlon II X4 620  ,4,2.6 GHz,,95 W,None,No,5, 1,$59.49
+ AMD A8-5500  ,4,3.2 GHz,,65 W,Radeon HD 7560D,No,4, 5,
+ Intel Core i5-3570  ,4,3.4 GHz,,77 W,Intel HD Graphics 2500,No,4, 1,
+ Intel Xeon E3-1241 V3  ,4,3.5 GHz,3.9 GHz,80 W,None,Yes,5, 9,$298.00
+ Intel Xeon E3-1225 V6  ,4,3.3 GHz,3.7 GHz,73 W,Intel HD Graphics P630,No,0, 0,$349.95
+ Intel Core 2 Extreme QX9775  ,4,3.2 GHz,,150 W,None,No,0, 0,$1298.00
+ Intel Xeon E3-1230 V6  ,4,3.5 GHz,3.9 GHz,72 W,None,Yes,5, 1,
+ Intel Xeon E-2236  ,6,3.4 GHz,4.8 GHz,80 W,None,Yes,0, 0,$430.00
+ Intel Core i5-4440S  ,4,2.8 GHz,3.3 GHz,65 W,Intel HD Graphics 4600,No,0, 0,$50.00
+ Intel Core 2 Quad Q9400  ,4,2.66 GHz,,95 W,None,No,4, 1,
+ AMD A8-6500  ,4,3.5 GHz,,65 W,Radeon HD 8570D,No,0, 0,
+ Intel Xeon E3-1271 V3  ,4,3.6 GHz,4 GHz,80 W,None,Yes,5, 1,
+ AMD Ryzen 7 1800X  ,8,3.6 GHz,4 GHz,95 W,None,Yes,5, 1,
+ Intel Core i5-7640X  ,4,4 GHz,4.2 GHz,112 W,None,No,0, 0,$225.40
+ Intel Core 2 Duo E7300  ,2,2.66 GHz,,65 W,None,No,0, 0,$38.19
+ Intel Core 2 Quad Q9550  ,4,2.83 GHz,,95 W,None,No,5, 4,$165.51
+ AMD Phenom II X4 820  ,4,2.8 GHz,,95 W,None,No,0, 0,$56.64
+ Intel Core i5-2550K  ,4,3.4 GHz,,95 W,None,No,0, 0,
+ AMD Athlon X4 760K  ,4,3.8 GHz,4.1 GHz,100 W,None,No,4, 49,
+ Intel Xeon E5-2660 V2  ,10,2.2 GHz,3 GHz,95 W,None,Yes,0, 0,
+ Intel Core i7-3770T  ,4,2.5 GHz,3.7 GHz,45 W,Intel HD Graphics 4000,Yes,0, 0,
+ Intel Core i5-4460S  ,4,2.9 GHz,3.4 GHz,65 W,Intel HD Graphics 4000,No,0, 0,
+ Intel Xeon E5-2670  ,8,2.6 GHz,3.3 GHz,115 W,None,Yes,5, 5,
+ Intel Core i3-560  ,2,3.333 GHz,,73 W,Intel HD Graphics,Yes,4, 1,$60.00
+ Intel Core i5-660  ,2,3.33 GHz,,73 W,Intel HD Graphics,Yes,0, 0,$149.94
+ Intel Xeon E5-2680 V3  ,12,2.5 GHz,3.3 GHz,120 W,None,Yes,0, 0,
+ Intel Xeon E5-2643 V4  ,6,3.4 GHz,3.7 GHz,135 W,None,Yes,0, 0,$949.95
+ Intel Core i3-4160  ,2,3.6 GHz,,54 W,Intel HD Graphics 4400,Yes,3, 1,
+ AMD Ryzen 7 1800X  ,8,3.6 GHz,4 GHz,95 W,None,Yes,4, 1,
+ Intel Core i3-6320  ,2,3.9 GHz,,51 W,Intel HD Graphics 530,Yes,5, 1,$165.00
+ Intel Core i5-6400T  ,4,2.2 GHz,2.8 GHz,35 W,Intel HD Graphics 530,No,0, 0,
+ Intel Celeron G530  ,2,2.4 GHz,,65 W,Intel HD Graphics,No,4, 1,$55.86
+ Intel Celeron G1840  ,2,2.8 GHz,,53 W,Intel HD Graphics,No,5, 5,
+ Intel Xeon E5-2640 V3  ,8,2.6 GHz,3.4 GHz,90 W,None,Yes,0, 0,$329.95
+ Intel Core i7-6800K  ,6,3.4 GHz,3.6 GHz,140 W,None,Yes,0, 0,$329.11
+ AMD Athlon II X2 250  ,2,3 GHz,,65 W,None,No,4, 2,
+ AMD Athlon II X4 635  ,4,2.9 GHz,,95 W,None,No,0, 0,$58.02
+ Intel Core i3-2130  ,2,3.4 GHz,,65 W,Intel HD Graphics 2000,Yes,5, 1,
+ AMD A6-5400K  ,2,3.6 GHz,,65 W,Radeon HD 7540D,No,4, 9,
+ Intel Xeon E3-1220 V2  ,4,3.1 GHz,,69 W,None,No,0, 0,
+ Intel Pentium G3420  ,2,3.2 GHz,,54 W,Intel HD Graphics,No,5, 5,
+ Intel Core i7-4790K  ,4,4 GHz,4.4 GHz,88 W,Intel HD Graphics 4600,Yes,5, 3,
+ AMD FX-4100  ,4,3.6 GHz,,95 W,None,No,0, 0,
+ Intel Core i7-7800X  ,6,3.5 GHz,4 GHz,140 W,None,Yes,0, 0,
+ Intel Core i5-8500  ,6,3 GHz,4.1 GHz,65 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Core i9-9900X  ,10,3.5 GHz,4.4 GHz,165 W,None,Yes,5, 1,
+ Intel Core i3-10325  ,4,3.9 GHz,4.7 GHz,65 W,Intel UHD Graphics 630,Yes,0, 0,
+ Intel Xeon E5-2695 V3  ,14,2.3 GHz,3.3 GHz,120 W,None,Yes,0, 0,$498.95
+ Intel Xeon E5-1650 V4  ,6,3.6 GHz,4 GHz,140 W,None,Yes,0, 0,
+ Intel Core 2 Duo E6700  ,2,2.66 GHz,,65 W,None,No,4, 1,$69.95
+ AMD FX-4350  ,4,4.2 GHz,,125 W,None,No,0, 0,$113.51
+ AMD Athlon 220GE  ,2,3.4 GHz,,35 W,Radeon Vega 3,Yes,5, 3,
+ AMD Phenom II X4 955 Black  ,4,3.2 GHz,,125 W,None,No,5, 12,
+ Intel Xeon E5-1630 V3  ,4,3.7 GHz,3.8 GHz,140 W,None,Yes,5, 1,
+ Intel Xeon E3-1245 V5  ,4,3.5 GHz,3.9 GHz,80 W,Intel HD Graphics P530,Yes,0, 0,
+ AMD A6-9500E  ,2,3 GHz,3.4 GHz,35 W,Radeon R5 (on die),No,0, 0,
+ Intel Core i5-3570S  ,4,3.1 GHz,3.8 GHz,65 W,Intel HD Graphics 2500,No,0, 0,
+ Intel Core i5-9500  ,6,3 GHz,4.4 GHz,65 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Core i3-9350K  ,4,4 GHz,4.6 GHz,91 W,Intel HD Graphics 630,No,0, 0,
+ Intel Core i5-9600K  ,6,3.7 GHz,4.6 GHz,95 W,Intel UHD Graphics 630,No,0, 0,
+ AMD Athlon 3000G ,2,3.5 GHz,,35 W,Radeon Vega 3,Yes,0, 0,
+ Intel Xeon E3-1245 V2  ,4,3.4 GHz,,77 W,Intel HD Graphics P4000,Yes,4, 1,$367.50
+ Intel Core i5-3330S  ,4,2.7 GHz,3.2 GHz,65 W,Intel HD Graphics 2500,No,0, 0,$149.94
+ Intel Xeon E5-2687W V2  ,8,3.4 GHz,4 GHz,150 W,None,Yes,0, 0,
+ Intel Xeon E5-2643 V3  ,6,3.4 GHz,3.7 GHz,135 W,None,Yes,0, 0,$229.95
+ Intel Pentium E2140  ,2,1.6 GHz,,65 W,None,No,0, 0,$79.95
+ AMD Phenom II X4 830  ,4,2.8 GHz,,95 W,None,No,4, 3,$55.05
+ Intel Xeon E3-1240 V2  ,4,3.4 GHz,,69 W,None,Yes,4, 1,$345.00
+ Intel Xeon E5-2643 V2  ,6,3.5 GHz,3.8 GHz,130 W,None,Yes,0, 0,$398.95
+ Intel Pentium G4620  ,2,3.7 GHz,,51 W,Intel HD Graphics 630,Yes,0, 0,$224.12
+ Intel Core 2 Quad Q8200  ,4,2.33 GHz,,95 W,None,No,4, 3,
+ Intel Xeon E3-1240 V3  ,4,3.4 GHz,3.8 GHz,80 W,None,Yes,5, 6,
+ Intel Celeron G1820  ,2,2.7 GHz,,53 W,Intel HD Graphics,No,5, 2,
+ Intel Xeon E3-1275 V2  ,4,3.5 GHz,,77 W,Intel HD Graphics P4000,Yes,0, 0,$374.00
+ Intel Xeon E5-2620 V3  ,6,2.4 GHz,3.2 GHz,85 W,None,Yes,0, 0,$95.07
+ Intel Core i9-9940X  ,14,3.3 GHz,4.4 GHz,165 W,None,Yes,0, 0,$998.95
+ Intel Xeon E3-1225 V5  ,4,3.3 GHz,3.7 GHz,80 W,Intel HD Graphics P530,No,0, 0,$295.00
+ Intel Core 2 Duo E8600  ,2,3.33 GHz,,65 W,None,No,5, 2,
+ Intel Xeon E5-2687W  ,8,3.1 GHz,3.8 GHz,150 W,None,Yes,0, 0,
+ Intel Core i7-5960X  ,8,3 GHz,3.5 GHz,140 W,None,Yes,0, 0,
+ Intel Core i5-4690  ,4,3.5 GHz,3.9 GHz,84 W,Intel HD Graphics 4600,No,0, 0,
+ AMD A6-7470K  ,2,3.7 GHz,4 GHz,65 W,Radeon R5 (on die),No,5, 1,$89.00
+ Intel Core i3-8350K  ,4,4 GHz,,91 W,Intel UHD Graphics 630,No,5, 1,
+ Intel Xeon E5-2660  ,8,2.2 GHz,3 GHz,95 W,None,Yes,0, 0,
+ Intel Celeron 440  ,1,2 GHz,,35 W,None,No,0, 0,$49.99
+ AMD Phenom II X4 975  ,4,3.6 GHz,,125 W,None,No,0, 0,$168.02
+ Intel Pentium G3250  ,2,3.2 GHz,,53 W,Intel HD Graphics,No,5, 2,$61.00
+ Intel Xeon E5-2630L V3  ,8,1.8 GHz,2.9 GHz,55 W,None,Yes,0, 0,$410.00
+ Intel Core i7-870  ,4,2.93 GHz,,95 W,None,Yes,5, 1,$195.02
+ Intel Xeon E5-2650 V3  ,10,2.3 GHz,3 GHz,105 W,None,Yes,0, 0,
+ Intel Core i7-6900K  ,8,3.2 GHz,3.7 GHz,140 W,None,Yes,0, 0,$295.06
+ AMD Phenom II X4 945  ,4,3 GHz,,125 W,None,No,0, 0,
+ Intel Core i7-880  ,4,3.06 GHz,,95 W,None,Yes,0, 0,
+ AMD Phenom II X4 940 Black  ,4,3 GHz,,125 W,None,No,0, 0,
+ AMD A4-3400  ,2,2.7 GHz,,65 W,Radeon HD 6410D,No,0, 0,$134.09
+ AMD FX-8300  ,8,3.3 GHz,,95 W,None,No,0, 0,
+ AMD FX-9590  ,8,4.7 GHz,5 GHz,220 W,None,No,5, 1,
+ Intel Xeon E5-2690  ,8,2.9 GHz,3.8 GHz,135 W,None,Yes,0, 0,
+ Intel Xeon E5-1650  ,6,3.2 GHz,3.8 GHz,130 W,None,Yes,4, 1,
+ Intel Xeon E3-1270 V5  ,4,3.6 GHz,4 GHz,80 W,None,Yes,0, 0,
+ AMD FX-8370  ,8,4 GHz,4.3 GHz,125 W,None,No,5, 6,
+ Intel Core i7-6850K  ,6,3.6 GHz,3.8 GHz,140 W,None,Yes,0, 0,
+ Intel Xeon E3-1220  ,4,3.1 GHz,,80 W,None,No,0, 0,$115.00
+ AMD A12-9800E  ,4,3.1 GHz,3.8 GHz,35 W,Radeon R7 (on-die),No,0, 0,$138.02
+ Intel Core i3-2105  ,2,3.1 GHz,,65 W,Intel HD Graphics 3000,Yes,0, 0,$60.00
+ Intel Core i7-7820X  ,8,3.6 GHz,4.5 GHz,140 W,None,Yes,0, 0,$489.05
+ Intel Core i7-7740X  ,4,4.3 GHz,4.5 GHz,112 W,None,Yes,0, 0,$504.57
+ Intel Core i7-860  ,4,2.8 GHz,,95 W,None,Yes,4, 1,$189.95
+ Intel Core i5-3450S  ,4,2.8 GHz,,65 W,Intel HD Graphics 2500,No,5, 1,$95.00
+ Intel Pentium G3240  ,2,3.1 GHz,,53 W,Intel HD Graphics,No,4, 6,
+ AMD Athlon 240GE  ,2,3.5 GHz,,35 W,Radeon Vega 3,Yes,0, 0,
+ Intel Pentium E5200  ,2,2.5 GHz,,65 W,None,No,4, 1,
+ Intel Core i7-965 Extreme Edition  ,4,3.2 GHz,,130 W,None,Yes,0, 0,
+ Intel Pentium E6800  ,2,3.333 GHz,,65 W,None,No,0, 0,
+ AMD A6-3650  ,4,2.6 GHz,,100 W,Radeon HD 6530D,No,4, 1,
+ AMD Phenom II X6 1045T  ,6,2.7 GHz,,95 W,None,No,4, 3,
+ AMD FX-6200  ,6,3.8 GHz,,125 W,None,No,5, 5,
+ AMD FX-4130  ,4,3.8 GHz,,125 W,None,No,4, 12,
+ Intel Xeon E3-1240 V5  ,4,3.5 GHz,3.9 GHz,80 W,None,Yes,0, 0,
+ AMD Athlon 5370  ,4,2.2 GHz,,25 W,Radeon R3 (on die),No,0, 0,
+ Intel Core i3-7300  ,2,4 GHz,,51 W,Intel HD Graphics 630,Yes,4, 2,
+ Intel Core i5-9600T  ,6,2.3 GHz,3.9 GHz,35 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Core i7-860S  ,4,2.53 GHz,,82 W,None,Yes,0, 0,$100.00
+ Intel Xeon E3-1225 V2  ,4,3.2 GHz,,77 W,Intel HD Graphics P4000,No,0, 0,$199.99
+ Intel Core i5-3340  ,4,3.1 GHz,3.3 GHz,77 W,Intel HD Graphics 2500,No,4, 1,$278.02
+ Intel Core i5-4690S  ,4,3.2 GHz,3.9 GHz,65 W,Intel HD Graphics 4600,No,5, 2,
+ Intel Xeon E3-1285 V6  ,4,4.1 GHz,4.5 GHz,79 W,Intel HD Graphics 630,Yes,0, 0,$929.95
+ Intel Celeron 430  ,1,1.8 GHz,,35 W,None,No,0, 0,$59.95
+ Intel Core 2 Duo E8600  ,2,3.33 GHz,,65 W,None,No,0, 0,
+ Intel Core i3-3220T  ,2,2.8 GHz,,35 W,Intel HD Graphics 2500,Yes,0, 0,$120.00
+ Intel Core i5-3340S  ,4,2.8 GHz,3.3 GHz,65 W,Intel HD Graphics 2500,No,0, 0,
+ Intel Xeon E5-2650L V2  ,10,1.7 GHz,2.1 GHz,70 W,None,Yes,0, 0,
+ Intel Xeon E5-1680 V3  ,8,3.2 GHz,3.8 GHz,140 W,None,Yes,0, 0,
+ Intel Xeon E5-2695 V3  ,14,2.3 GHz,3.3 GHz,120 W,None,Yes,0, 0,
+ Intel Xeon E3-1230 V5  ,4,3.4 GHz,3.8 GHz,80 W,None,Yes,5, 1,
+ Intel Xeon E5-2683 V3  ,14,2 GHz,3 GHz,120 W,None,Yes,0, 0,
+ Intel Xeon E5-2650L V4  ,14,1.7 GHz,2.5 GHz,65 W,None,Yes,0, 0,
+ AMD Threadripper 2970WX  ,24,3 GHz,4.2 GHz,250 W,None,Yes,0, 0,
+ Intel Xeon E3-1275  ,4,3.4 GHz,,95 W,Intel HD Graphics,Yes,0, 0,$376.99
+ Intel Xeon E3-1275 V6  ,4,3.8 GHz,4.2 GHz,73 W,Intel HD Graphics P630,Yes,0, 0,$415.40
+ Intel Core i5-750  ,4,2.66 GHz,,95 W,None,No,0, 0,$403.00
+ Intel Core i5-2380P  ,4,3.1 GHz,,95 W,None,No,0, 0,$70.00
+ Intel Xeon E-2174G  ,4,3.8 GHz,4.7 GHz,71 W,Intel HD Graphics P630,Yes,0, 0,$655.27
+ Intel Pentium E5300  ,2,2.6 GHz,,65 W,None,No,4, 2,$59.49
+ AMD Sempron 140  ,1,2.7 GHz,,45 W,None,No,0, 0,
+ AMD A8-3850  ,4,2.9 GHz,,100 W,Radeon HD 6550D,No,4, 5,
+ Intel Xeon E3-1225 V3  ,4,3.2 GHz,3.6 GHz,84 W,Intel HD Graphics P4600,No,0, 0,
+ Intel Xeon E5-2670  ,8,2.6 GHz,3.3 GHz,115 W,None,Yes,0, 0,
+ AMD FX-8370  ,8,4 GHz,4.3 GHz,125 W,None,No,0, 0,
+ AMD A4-7300  ,2,3.8 GHz,4 GHz,65 W,Radeon HD 8470D,No,0, 0,
+ Intel Pentium Gold G5600  ,2,3.9 GHz,,54 W,Intel UHD Graphics 630,Yes,5, 1,
+ Intel Xeon E3-1245  ,4,3.3 GHz,,95 W,Intel HD Graphics,Yes,5, 2,$245.00
+ Intel Core 2 Duo E7200  ,2,2.53 GHz,,65 W,None,No,0, 0,$80.98
+ Intel Core i3-7350K  ,2,4.2 GHz,,60 W,Intel HD Graphics 630,Yes,0, 0,
+ Intel Core 2 Quad Q9300  ,4,2.5 GHz,,95 W,None,No,0, 0,$172.00
+ AMD A4-3300  ,2,2.5 GHz,,65 W,Radeon HD 6410D,No,0, 0,$89.95
+ Intel Pentium G2140  ,2,3.3 GHz,,55 W,Intel HD Graphics,No,0, 0,$45.00
+ Intel Core i5-8600  ,6,3.1 GHz,4.3 GHz,65 W,Intel UHD Graphics 630,No,0, 0,$269.95
+ Intel Core i5-9400T  ,6,1.8 GHz,3.4 GHz,35 W,Intel UHD Graphics 630,No,0, 0,
+ AMD Athlon II X2 240e  ,2,2.8 GHz,,45 W,None,No,0, 0,
+ Intel Celeron E1200  ,2,1.6 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Quad Q6700  ,4,2.66 GHz,,100 W,None,No,5, 2,
+ AMD Phenom II X4 840  ,4,3.2 GHz,,95 W,None,No,0, 0,
+ Intel Pentium G850  ,2,2.9 GHz,,65 W,Intel HD Graphics,No,5, 1,
+ AMD FX-8120  ,8,3.1 GHz,,125 W,None,No,4, 1,
+ AMD A4-4000  ,2,3 GHz,,65 W,Radeon HD 7480D,No,4, 3,
+ AMD A10-5800K  ,4,3.8 GHz,,100 W,Radeon HD 7660D,No,0, 0,$78.02
+ AMD Opteron 6328  ,8,3.2 GHz,3.8 GHz,115 W,None,No,0, 0,$499.99
+ AMD Athlon X4 870K  ,4,3.9 GHz,4.1 GHz,95 W,None,No,4, 1,
+ Intel Core i9-7920X  ,12,2.9 GHz,4.4 GHz,140 W,None,Yes,0, 0,
+ AMD Threadripper 2950X  ,16,3.5 GHz,4.4 GHz,180 W,None,Yes,0, 0,
+ AMD A6-7480  ,2,3.5 GHz,3.8 GHz,65 W,Radeon R5 (on die),No,0, 0,
+ Intel Xeon E-2146G  ,6,3.5 GHz,4.5 GHz,80 W,Intel HD Graphics P630,Yes,0, 0,$777.00
+ Intel Core i9-9920X  ,12,3.5 GHz,4.4 GHz,165 W,None,Yes,0, 0,
+ Intel Xeon E-2236  ,6,3.4 GHz,4.8 GHz,80 W,None,Yes,0, 0,$408.87
+ Intel Xeon E-2124  ,4,3.3 GHz,4.3 GHz,71 W,None,No,0, 0,$110.00
+ Intel Core 2 Quad Q8300  ,4,2.5 GHz,,95 W,None,No,0, 0,
+ AMD Phenom II X6 1075T  ,6,3 GHz,,95 W,None,No,5, 2,
+ AMD Phenom II X4 965  ,4,3.4 GHz,,125 W,None,No,4, 1,
+ AMD Phenom II X4 980 Black  ,4,3.7 GHz,,125 W,None,No,5, 1,
+ Intel Pentium G620  ,2,2.6 GHz,,65 W,Intel HD Graphics,No,5, 4,
+ AMD A6-3500  ,3,2.1 GHz,,65 W,Radeon HD 6530D,No,3, 1,
+ Intel Xeon E3-1275 V3  ,4,3.5 GHz,3.9 GHz,84 W,Intel HD Graphics P4600,Yes,0, 0,
+ Intel Xeon E5-4650  ,8,2.7 GHz,3.3 GHz,130 W,None,Yes,0, 0,
+ Intel Core i3-6300T  ,2,3.3 GHz,,35 W,Intel HD Graphics 530,Yes,0, 0,
+ AMD Threadripper 2920X  ,12,3.5 GHz,4.3 GHz,180 W,None,Yes,0, 0,
+ Intel Core i7-9800X  ,8,3.8 GHz,4.5 GHz,165 W,None,Yes,0, 0,
+ Intel Core i5-9400  ,6,2.9 GHz,4.1 GHz,65 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Xeon E-2246G  ,6,3.6 GHz,4.8 GHz,80 W,Intel HD Graphics P630,Yes,0, 0,
+ Intel Core i7-5775C  ,4,3.3 GHz,3.7 GHz,65 W,Iris Pro Graphics 6200,Yes,0, 0,$932.00
+ Intel Xeon E3-1280 V6  ,4,3.9 GHz,4.2 GHz,72 W,None,Yes,0, 0,$562.00
+ Intel Core i5-661  ,2,3.33 GHz,,87 W,Intel HD Graphics,Yes,0, 0,$80.00
+ AMD A4-6300B  ,2,3.7 GHz,3.9 GHz,65 W,Radeon HD 8370D,No,0, 0,$54.44
+ Intel Xeon E3-1270 V6  ,4,3.8 GHz,4.2 GHz,72 W,None,Yes,0, 0,$725.37
+ Intel Core 2 Duo E8400  ,2,3 GHz,,65 W,None,No,4, 1,$178.24
+ Intel Xeon E5-1650 V3  ,6,3.5 GHz,3.8 GHz,140 W,None,Yes,0, 0,
+ Intel Xeon E5-2623 V3  ,4,3 GHz,3.5 GHz,105 W,None,Yes,5, 1,$229.95
+ AMD Athlon II X2 220  ,2,2.8 GHz,,65 W,None,No,3, 1,
+ Intel Core 2 Duo E4600  ,2,2.4 GHz,,65 W,None,No,4, 1,
+ Intel Core 2 Duo E7400  ,2,2.8 GHz,,65 W,None,No,0, 0,
+ Intel Core i5-670  ,2,3.46 GHz,,73 W,Intel HD Graphics,Yes,0, 0,$127.01
+ Intel Core i7-975 Extreme Edition  ,4,3.33 GHz,,130 W,None,Yes,5, 2,
+ AMD Phenom II X4 960T Black  ,4,3 GHz,,95 W,None,No,5, 3,
+ Intel Celeron G1620  ,2,2.7 GHz,,55 W,Intel HD Graphics,No,5, 1,
+ Intel Xeon E3-1245 V3  ,4,3.4 GHz,3.8 GHz,84 W,Intel HD Graphics P4600,Yes,5, 1,
+ Intel Xeon E5-2650L V3  ,12,1.8 GHz,2.5 GHz,65 W,None,Yes,0, 0,
+ Intel Pentium G4400  ,2,3.3 GHz,,54 W,Intel HD Graphics 510,No,0, 0,
+ Intel Xeon E3-1275 V5  ,4,3.6 GHz,4 GHz,80 W,Intel HD Graphics P530,Yes,0, 0,
+ Intel Xeon E3-1260L V5  ,4,2.9 GHz,3.9 GHz,45 W,None,Yes,0, 0,
+ Intel Pentium G4560  ,2,3.5 GHz,,54 W,Intel HD Graphics 610,Yes,0, 0,
+ Intel Core i7-7700T  ,4,2.9 GHz,3.8 GHz,35 W,Intel HD Graphics 630,Yes,0, 0,
+ Intel Xeon E5-2420V2  ,6,2.2 GHz,2.7 GHz,80 W,None,Yes,0, 0,
+ Intel Core i9-9920X  ,12,3.5 GHz,4.4 GHz,165 W,None,Yes,0, 0,
+ Intel Core i5-9600  ,6,3.1 GHz,4.6 GHz,65 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Xeon E5-2630 V3  ,8,2.4 GHz,3.2 GHz,85 W,None,Yes,0, 0,$459.00
+ Intel Xeon E-2104G  ,4,3.2 GHz,,65 W,Intel HD Graphics P630,No,0, 0,$550.00
+ Intel Core 2 Duo E6850  ,2,3 GHz,,65 W,None,No,0, 0,$89.95
+ AMD Phenom II X6 1035T  ,6,2.6 GHz,,95 W,None,No,5, 2,
+ AMD Opteron 6344  ,12,2.6 GHz,3.2 GHz,115 W,None,No,0, 0,$349.99
+ Intel Core i5-7600T  ,4,2.8 GHz,3.7 GHz,35 W,Intel HD Graphics 630,No,0, 0,$229.95
+ Intel Xeon E3-1240 V6  ,4,3.7 GHz,4.1 GHz,72 W,None,Yes,0, 0,$440.60
+ AMD Athlon II X2 250  ,2,3 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E4400  ,2,2 GHz,,65 W,None,No,0, 0,$108.00
+ Intel Core 2 Duo E4500  ,2,2.2 GHz,,65 W,None,No,0, 0,
+ AMD Athlon II X3 450  ,3,3.2 GHz,,95 W,None,No,5, 3,
+ Intel Core i3-2100T  ,2,2.5 GHz,,35 W,Intel HD Graphics 2000,Yes,4, 1,
+ Intel Pentium E5500  ,2,2.8 GHz,,65 W,None,No,0, 0,
+ AMD Athlon II X2 270  ,2,3.4 GHz,,65 W,None,No,4, 5,
+ Intel Xeon E3-1280  ,4,3.5 GHz,,95 W,None,Yes,0, 0,
+ Intel Xeon E5-2620 V2  ,6,2.1 GHz,2.6 GHz,80 W,None,Yes,0, 0,
+ AMD FX-4300  ,4,3.8 GHz,,95 W,None,No,5, 1,
+ Intel Xeon E5-2690  ,8,2.9 GHz,3.8 GHz,135 W,None,Yes,5, 2,
+ AMD FX-8370E  ,8,3.3 GHz,4.3 GHz,95 W,None,No,0, 0,
+ Intel Core i7-4770T  ,4,2.5 GHz,,45 W,Intel HD Graphics 4600,Yes,0, 0,
+ Intel Core i5-6400T  ,4,2.2 GHz,2.8 GHz,35 W,Intel HD Graphics 530,No,0, 0,
+ AMD Opteron 6378  ,16,2.4 GHz,3.3 GHz,115 W,None,No,0, 0,
+ Intel Core i7-6950X  ,10,3 GHz,3.5 GHz,140 W,None,Yes,0, 0,
+ AMD Athlon X4 860K  ,4,3.7 GHz,4 GHz,95 W,None,No,5, 7,
+ Intel Xeon E3-1270 V6  ,4,3.8 GHz,4.2 GHz,72 W,None,Yes,0, 0,
+ Intel Core i5-9500F  ,6,3 GHz,4.4 GHz,65 W,None,No,0, 0,
+ Intel Pentium G645  ,2,2.9 GHz,,65 W,Intel HD Graphics 2500,No,0, 0,$83.00
+ Intel Xeon E5-2609  ,4,2.4 GHz,,80 W,None,No,0, 0,$95.07
+ AMD Athlon II X3 435  ,3,2.9 GHz,,95 W,None,No,0, 0,$159.94
+ Intel Celeron E3400  ,2,2.6 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E6550  ,2,2.33 GHz,,65 W,None,No,0, 0,$89.95
+ Intel Pentium G6950  ,2,2.8 GHz,,73 W,Intel HD Graphics,No,0, 0,$55.01
+ Intel Pentium G640T  ,2,2.4 GHz,,35 W,Intel HD Graphics,No,0, 0,$84.88
+ Intel Xeon E5-2620  ,6,2 GHz,,95 W,None,Yes,0, 0,$77.00
+ Intel Xeon E3-1245 V5  ,4,3.5 GHz,3.9 GHz,80 W,Intel HD Graphics P530,Yes,0, 0,$399.00
+ AMD Opteron 6320  ,8,2.8 GHz,3.3 GHz,115 W,None,No,0, 0,$246.96
+ Intel Xeon E3-1220 V6  ,4,3 GHz,3.5 GHz,72 W,None,No,0, 0,$389.95
+ Intel Celeron G5905T  ,2,3.3 GHz,,35 W,Intel UHD Graphics 610,No,0, 0,
+ Intel Pentium E2160  ,2,1.8 GHz,,65 W,None,No,0, 0,$49.00
+ Intel Pentium E2200  ,2,2.2 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E6320  ,2,1.86 GHz,,65 W,None,No,3, 1,
+ Intel Core 2 Duo E8500  ,2,3.16 GHz,,65 W,None,No,5, 1,
+ Intel Core i7-920  ,4,2.66 GHz,,130 W,None,Yes,3, 1,
+ Intel Core 2 Extreme X6800  ,2,2.93 GHz,,75 W,None,No,0, 0,
+ AMD Athlon II X4 651K  ,4,3 GHz,,100 W,None,No,0, 0,
+ Intel Xeon E3-1265L V2  ,4,2.5 GHz,,45 W,Intel HD Graphics 2500,Yes,0, 0,
+ AMD 5150  ,4,1.6 GHz,,25 W,Radeon HD 8400,No,3, 3,
+ AMD E2-3200  ,2,2.4 GHz,,65 W,Radeon HD 6370D,No,0, 0,
+ Intel Xeon E3-1226 V3  ,4,3.3 GHz,3.7 GHz,84 W,Intel HD Graphics P4600,No,0, 0,
+ AMD Pro A10-7800B  ,4,3.5 GHz,3.9 GHz,65 W,Radeon R7 (on-die),No,0, 0,
+ Intel Core i5-6500T  ,4,2.5 GHz,3.1 GHz,35 W,Intel HD Graphics 530,No,0, 0,
+ Intel Core i5-7500T  ,4,2.7 GHz,3.3 GHz,35 W,Intel HD Graphics 630,No,0, 0,
+ Intel Pentium Gold G5500  ,2,3.8 GHz,,54 W,Intel UHD Graphics 630,Yes,0, 0,
+ Intel Core 2 Duo E6420  ,2,2.13 GHz,,65 W,None,No,0, 0,$69.95
+ Intel Xeon E5-2603 V3  ,6,1.6 GHz,,85 W,None,No,0, 0,$135.00
+ Intel Xeon E3-1275 V5  ,4,3.6 GHz,4 GHz,80 W,Intel HD Graphics P530,Yes,0, 0,
+ Intel Pentium G4600  ,2,3.6 GHz,,51 W,Intel HD Graphics 630,Yes,0, 0,$169.95
+ Intel Celeron G3930  ,2,2.9 GHz,,51 W,Intel HD Graphics 610,No,0, 0,$102.81
+ Intel Celeron 430  ,1,1.8 GHz,,35 W,None,No,0, 0,$59.95
+ Intel Core 2 Duo E6320  ,2,1.86 GHz,,65 W,None,No,0, 0,$89.95
+ Intel Pentium G840  ,2,2.8 GHz,,65 W,Intel HD Graphics,No,0, 0,$45.00
+ Intel Core i3-3245  ,2,3.4 GHz,,55 W,Intel HD Graphics 4000,Yes,5, 1,$80.00
+ Intel Core i3-6100T  ,2,3.2 GHz,,35 W,Intel HD Graphics 530,Yes,0, 0,$149.94
+ Intel Xeon E-2134  ,4,3.5 GHz,4.5 GHz,71 W,None,Yes,0, 0,$697.00
+ Intel Core 2 Quad Q9505  ,4,2.83 GHz,,95 W,None,No,0, 0,
+ Intel Core 2 Quad Q9550S  ,4,2.83 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Extreme QX6700  ,4,2.66 GHz,,100 W,None,No,4, 1,
+ Intel Core 2 Extreme QX6850  ,4,3 GHz,,130 W,None,No,0, 0,
+ AMD Phenom II X4 970 Black  ,4,3.5 GHz,,125 W,None,No,5, 2,
+ AMD Phenom II X3 720 Black  ,3,2.8 GHz,,95 W,None,No,5, 1,
+ Intel Pentium G620T  ,2,2.2 GHz,,35 W,Intel HD Graphics,No,0, 0,
+ AMD FX-4170  ,4,4.2 GHz,,125 W,None,No,5, 5,
+ Intel Xeon E3-1240  ,4,3.3 GHz,,80 W,None,Yes,0, 0,
+ Intel Pentium G2010  ,2,2.8 GHz,,55 W,Intel HD Graphics,No,0, 0,
+ AMD A10-7700K  ,4,3.4 GHz,3.8 GHz,95 W,Radeon R7 (on-die),No,0, 0,
+ AMD Pro A10-7850B  ,4,3.7 GHz,4 GHz,95 W,Radeon R7 (on-die),No,0, 0,$152.77
+ AMD Athlon X4 840  ,4,3.1 GHz,3.8 GHz,65 W,None,No,0, 0,
+ Intel Xeon E3-1230 V5  ,4,3.4 GHz,3.8 GHz,80 W,None,Yes,0, 0,
+ Intel Pentium G3260  ,2,3.3 GHz,,53 W,Intel HD Graphics,No,5, 1,
+ Intel Xeon E5-1620 V4  ,4,3.5 GHz,3.8 GHz,140 W,None,Yes,0, 0,$148.94
+ Intel Core i3-7100T  ,2,3.4 GHz,,35 W,Intel HD Graphics 630,Yes,0, 0,
+ Intel Core i3-7300T  ,2,3.5 GHz,,35 W,Intel HD Graphics 630,Yes,0, 0,
+ Intel Core i5-7600T  ,4,2.8 GHz,3.7 GHz,35 W,Intel HD Graphics 630,No,0, 0,
+ Intel Core i9-7960X  ,16,2.8 GHz,4.4 GHz,165 W,None,Yes,0, 0,
+ Intel Core i5-3550S  ,4,3 GHz,3.7 GHz,65 W,Intel HD Graphics 2500,No,0, 0,
+ Intel Core i5-9500F  ,6,3 GHz,4.4 GHz,65 W,None,No,0, 0,
+ Intel Celeron G5925  ,2,3.6 GHz,,58 W,Intel UHD Graphics 610,No,0, 0,
+ Intel Xeon E-2136  ,6,3.3 GHz,4.5 GHz,80 W,None,Yes,0, 0,$410.96
+ Intel Core 2 Duo E4300  ,2,1.8 GHz,,65 W,None,No,0, 0,$70.00
+ Intel Pentium E6500  ,2,2.93 GHz,,65 W,None,No,0, 0,$88.56
+ Intel Core 2 Quad Q9400  ,4,2.66 GHz,,95 W,None,No,0, 0,
+ Intel Core 2 Extreme X6800  ,2,2.93 GHz,,75 W,None,No,0, 0,$98.95
+ Intel Core i3-4350  ,2,3.6 GHz,,54 W,Intel HD Graphics 4600,Yes,5, 2,
+ Intel Xeon E3-1230 V2  ,4,3.3 GHz,,69 W,None,Yes,0, 0,$249.95
+ AMD Phenom II X2 555 Black  ,2,3.2 GHz,,80 W,None,No,5, 1,
+ AMD Phenom II X4 920  ,4,2.8 GHz,,125 W,None,No,0, 0,
+ AMD Phenom II X4 925  ,4,2.8 GHz,,95 W,None,No,5, 1,
+ AMD Athlon II X2 250u  ,2,1.6 GHz,,25 W,None,No,0, 0,
+ Intel Celeron E1600  ,2,2.4 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E2180  ,2,2 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E2220  ,2,2.4 GHz,,65 W,None,No,0, 0,
+ Intel Celeron E3200  ,2,2.4 GHz,,65 W,None,No,0, 0,
+ Intel Core i5-655K  ,2,3.2 GHz,,73 W,Intel HD Graphics,Yes,0, 0,
+ Intel Core i5-680  ,2,3.6 GHz,,73 W,Intel HD Graphics,Yes,0, 0,
+ Intel Core 2 Quad Q8400  ,4,2.66 GHz,,95 W,None,No,0, 0,
+ Intel Core 2 Quad Q9450  ,4,2.66 GHz,,95 W,None,No,5, 1,
+ Intel Core 2 Extreme QX6800  ,4,2.93 GHz,,100 W,None,No,4, 1,
+ AMD Athlon II X4 645  ,4,3.1 GHz,,95 W,None,No,4, 1,
+ Intel Pentium E5800  ,2,3.2 GHz,,65 W,None,No,0, 0,
+ AMD FX-6100  ,6,3.3 GHz,,95 W,None,No,0, 0,
+ Intel Xeon E3-1270  ,4,3.4 GHz,,80 W,None,Yes,0, 0,
+ AMD Athlon X4 740  ,4,3.2 GHz,,65 W,None,No,4, 3,
+ AMD FX-9370  ,8,4.4 GHz,4.7 GHz,220 W,None,No,0, 0,
+ Intel Xeon E5-1660  ,6,3.3 GHz,3.9 GHz,130 W,None,Yes,5, 1,
+ AMD Pro A8-7600B  ,4,3.1 GHz,3.8 GHz,65 W,Radeon R7 (on-die),No,0, 0,
+ AMD Phenom II X2 B59  ,2,3.4 GHz,,80 W,None,No,3, 1,
+ Intel Core i3-3240  ,2,3.4 GHz,,55 W,Intel HD Graphics 2500,Yes,0, 0,
+ Intel Pentium G4520  ,2,3.6 GHz,,51 W,Intel HD Graphics 530,No,5, 2,
+ Intel Core i7-6800K  ,6,3.4 GHz,3.6 GHz,140 W,None,Yes,0, 0,
+ Intel Core i7-6850K  ,6,3.6 GHz,3.8 GHz,140 W,None,Yes,0, 0,
+ Intel Core i7-6900K  ,8,3.2 GHz,3.7 GHz,140 W,None,Yes,5, 1,
+ Intel Core i3-7300  ,2,4 GHz,,51 W,Intel HD Graphics 630,Yes,0, 0,
+ Intel Core i3-8300T  ,4,3.2 GHz,,35 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Core i9-7940X  ,14,3.1 GHz,4.4 GHz,165 W,None,Yes,0, 0,
+ Intel Xeon E-2176G  ,6,3.7 GHz,4.7 GHz,80 W,Intel HD Graphics P630,Yes,0, 0,
+ Intel Pentium Gold G6600  ,2,4.2 GHz,,58 W,Intel UHD Graphics 630,Yes,0, 0,
+ Intel Core 2 Duo E6400  ,2,2.13 GHz,,65 W,None,No,4, 1,$89.95
+ Intel Xeon E5-2665  ,8,2.4 GHz,3.1 GHz,115 W,None,Yes,0, 0,$149.94
+ Intel Xeon E5-2609 V4  ,8,1.7 GHz,,85 W,None,No,0, 0,$312.00
+ Intel Core 2 Duo E8300  ,2,2.83 GHz,,65 W,None,No,0, 0,$99.95
+ Intel Core i5-750S  ,4,2.4 GHz,,82 W,None,No,0, 0,$125.00
+ Intel Core i3-2125  ,2,3.3 GHz,,65 W,Intel HD Graphics 3000,Yes,0, 0,$152.00
+ Intel Pentium G630T  ,2,2.3 GHz,,35 W,Intel HD Graphics,No,0, 0,$75.00
+ Intel Pentium G870  ,2,3.1 GHz,,65 W,Intel HD Graphics,No,0, 0,$77.00
+ Intel Pentium G2120  ,2,3.1 GHz,,55 W,Intel HD Graphics,No,4, 2,$52.00
+ Intel Xeon E5-2603 V2  ,4,1.8 GHz,,80 W,None,No,0, 0,
+ Intel Pentium G3460  ,2,3.5 GHz,,53 W,Intel HD Graphics,No,0, 0,$77.45
+ Intel Pentium G3470  ,2,3.6 GHz,,53 W,Intel HD Graphics,No,5, 2,$153.10
+ Intel Xeon E5-2603 V4  ,6,1.7 GHz,,85 W,None,No,0, 0,$449.95
+ Intel Xeon E3-1225 V6  ,4,3.3 GHz,3.7 GHz,73 W,Intel HD Graphics P630,No,0, 0,$369.95
+ AMD Athlon II X2 215  ,2,2.7 GHz,,65 W,None,No,0, 0,
+ Intel Celeron 420  ,1,1.6 GHz,,35 W,None,No,0, 0,
+ Intel Celeron 450  ,1,2.2 GHz,,35 W,None,No,0, 0,
+ AMD Phenom II X2 550 Black  ,2,3.1 GHz,,80 W,None,No,5, 1,
+ AMD Athlon II X4 620  ,4,2.6 GHz,,95 W,None,No,3, 1,
+ AMD Phenom II X4 810  ,4,2.6 GHz,,95 W,None,No,5, 1,
+ AMD Athlon II X2 235e  ,2,2.7 GHz,,45 W,None,No,3, 1,
+ Intel Celeron E3300  ,2,2.5 GHz,,65 W,None,No,5, 1,
+ Intel Core 2 Duo E8200  ,2,2.66 GHz,,65 W,None,No,0, 0,
+ Intel Core i7-930  ,4,2.8 GHz,,130 W,None,Yes,0, 0,
+ Intel Core 2 Quad Q9505  ,4,2.83 GHz,,95 W,None,No,4, 1,
+ AMD FX-8100  ,8,2.8 GHz,,95 W,None,No,0, 0,
+ Intel Core i5-2450P  ,4,3.2 GHz,,95 W,None,No,0, 0,
+ AMD Athlon II X2 260  ,2,3.2 GHz,,65 W,None,No,0, 0,
+ AMD FX-8150  ,8,3.6 GHz,,125 W,None,No,5, 3,
+ AMD Athlon II X4 641  ,4,2.8 GHz,,100 W,None,No,0, 0,
+ Intel Xeon E3-1230  ,4,3.2 GHz,,80 W,None,Yes,0, 0,
+ Intel Xeon E3-1270  ,4,3.4 GHz,,80 W,None,Yes,0, 0,
+ Intel Xeon E3-1275 V2  ,4,3.5 GHz,,77 W,Intel HD Graphics P4000,Yes,0, 0,
+ Intel Pentium G2130  ,2,3.2 GHz,,55 W,Intel HD Graphics,No,0, 0,
+ AMD A10-6790K  ,4,4 GHz,4.3 GHz,100 W,Radeon HD 8670D,No,5, 4,
+ AMD A10-7800  ,4,3.5 GHz,3.9 GHz,65 W,Radeon R7 (on-die),No,0, 0,
+ Intel Xeon E3-1276 V3  ,4,3.6 GHz,4 GHz,84 W,Intel HD Graphics P4600,Yes,0, 0,
+ Intel Xeon E5-2687W  ,8,3.1 GHz,3.8 GHz,150 W,None,Yes,0, 0,
+ Intel Xeon E5-2630L V2  ,6,2.4 GHz,,60 W,None,Yes,0, 0,
+ AMD Athlon X4 860K  ,4,3.7 GHz,4 GHz,95 W,None,No,5, 3,
+ AMD FX-8320E  ,8,3.2 GHz,4 GHz,95 W,None,No,0, 0,
+ AMD Pro A4-7300B  ,2,3.8 GHz,4 GHz,65 W,Radeon HD 8470D,No,0, 0,
+ Intel Xeon E5-2609 V3  ,6,1.9 GHz,,85 W,None,No,0, 0,
+ Intel Xeon E5-2697 V3  ,14,2.6 GHz,3.6 GHz,145 W,None,Yes,0, 0,
+ Intel Xeon E5-2685 V3  ,12,2.6 GHz,3.3 GHz,120 W,None,Yes,0, 0,
+ AMD Phenom II X6 1065T  ,6,2.7 GHz,,95 W,None,No,0, 0,
+ Intel Core i3-6300T  ,2,3.3 GHz,,35 W,Intel HD Graphics 530,Yes,0, 0,
+ Intel Core i7-6700T  ,4,2.8 GHz,3.6 GHz,35 W,Intel HD Graphics 530,Yes,0, 0,
+ Intel Pentium G4400T  ,2,2.9 GHz,,35 W,Intel HD Graphics 510,No,0, 0,
+ Intel Pentium G4500T  ,2,3 GHz,,35 W,Intel HD Graphics 530,No,0, 0,
+ AMD Athlon X4 845  ,4,3.5 GHz,3.8 GHz,65 W,None,No,0, 0,
+ AMD A10-7860k  ,4,3.6 GHz,4 GHz,65 W,Radeon R7 (on-die),No,0, 0,
+ Intel Core i3-7320  ,2,4.1 GHz,,51 W,Intel HD Graphics 630,Yes,0, 0,
+ Intel Pentium G4560T  ,2,2.9 GHz,,35 W,Intel HD Graphics 610,Yes,0, 0,
+ Intel Pentium G4600T  ,2,3 GHz,,35 W,Intel HD Graphics 630,Yes,0, 0,
+ Intel Core i5-7400T  ,4,2.4 GHz,3 GHz,35 W,Intel HD Graphics 630,No,0, 0,
+ Intel Xeon E5-2450V2  ,8,2.5 GHz,3.3 GHz,95 W,None,Yes,0, 0,
+ Intel Pentium Gold G5500T  ,2,3.2 GHz,,35 W,Intel UHD Graphics 630,Yes,0, 0,
+ Intel Core i9-9820X  ,10,3.3 GHz,4.1 GHz,165 W,None,Yes,0, 0,
+ AMD Athlon 220GE  ,2,3.4 GHz,,35 W,Radeon Vega 3,Yes,0, 0,
+ Intel Xeon E-2124G  ,4,3.4 GHz,4.5 GHz,71 W,Intel HD Graphics P630,No,0, 0,
+ Intel Xeon E3-1235  ,4,3.2 GHz,,95 W,Intel HD Graphics,Yes,0, 0,$219.00
+ Intel Celeron E3300  ,2,2.5 GHz,,65 W,None,No,0, 0,$64.79
+ Intel Pentium E5300  ,2,2.6 GHz,,65 W,None,No,0, 0,$79.40
+ Intel Pentium E5300  ,2,2.6 GHz,,65 W,None,No,0, 0,$79.40
+ Intel Core 2 Duo E6750  ,2,2.66 GHz,,65 W,None,No,0, 0,$89.95
+ Intel Core 2 Duo E7600  ,2,3.06 GHz,,65 W,None,No,0, 0,$98.95
+ AMD A4-3400  ,2,2.7 GHz,,65 W,Radeon HD 6410D,No,0, 0,
+ Intel Pentium G3450  ,2,3.4 GHz,,53 W,Intel HD Graphics,No,5, 1,
+ Intel Core i5-4570S  ,4,2.9 GHz,,65 W,Intel HD Graphics 4600,No,0, 0,
+ Intel Xeon E3-1220 V5  ,4,3 GHz,3.5 GHz,80 W,None,No,0, 0,$107.09
+ Intel Core i5-7500T  ,4,2.7 GHz,3.3 GHz,35 W,Intel HD Graphics 630,No,0, 0,$195.15
+ Intel Xeon E3-1220 V6  ,4,3 GHz,3.5 GHz,72 W,None,No,0, 0,$398.95
+ Intel Xeon E3-1230 V6  ,4,3.5 GHz,3.9 GHz,72 W,None,Yes,0, 0,$449.95
+ Intel Xeon E-2144G  ,4,3.6 GHz,4.5 GHz,71 W,Intel HD Graphics P630,Yes,0, 0,$806.00
+ Intel Xeon E-2126G  ,6,3.3 GHz,4.5 GHz,80 W,Intel HD Graphics P630,No,0, 0,$832.00
+ Intel Xeon E-2146G  ,6,3.5 GHz,4.5 GHz,80 W,Intel HD Graphics P630,Yes,0, 0,$949.69
+ AMD Athlon II X3 425  ,3,2.7 GHz,,95 W,None,No,0, 0,
+ AMD Phenom II X4 945  ,4,3 GHz,,125 W,None,No,4, 4,
+ AMD Phenom II X6 1055T  ,6,2.8 GHz,,125 W,None,No,0, 0,
+ AMD Phenom II X4 955 Black  ,4,3.2 GHz,,125 W,None,No,5, 2,
+ Intel Celeron E1400  ,2,2 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E4400  ,2,2 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E6600  ,2,3.06 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E6750  ,2,2.66 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E7300  ,2,2.66 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E7500  ,2,2.93 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E8400  ,2,3 GHz,,65 W,None,No,5, 1,
+ Intel Core 2 Quad Q9450  ,4,2.66 GHz,,95 W,None,No,0, 0,
+ Intel Core 2 Extreme QX9770  ,4,3.2 GHz,,136 W,None,No,0, 0,
+ AMD Phenom II X2 565 Black  ,2,3.4 GHz,,80 W,None,No,0, 0,
+ AMD Sempron 145  ,1,2.8 GHz,,45 W,None,No,4, 3,
+ Intel Pentium E6700  ,2,3.2 GHz,,65 W,None,No,0, 0,
+ AMD Phenom II X4 975  ,4,3.6 GHz,,125 W,None,No,5, 1,
+ Intel Core i5-2405S  ,4,2.5 GHz,,65 W,Intel HD Graphics 3000,No,0, 0,
+ AMD Athlon II X4 631  ,4,2.6 GHz,,100 W,None,No,0, 0,
+ AMD A6-3650  ,4,2.6 GHz,,100 W,Radeon HD 6530D,No,0, 0,
+ Intel Pentium G550  ,2,2.6 GHz,,65 W,Intel HD Graphics,No,4, 2,
+ Intel Xeon E3-1225  ,4,3.1 GHz,,95 W,Intel HD Graphics,No,0, 0,
+ Intel Xeon E5-2640 V2  ,8,2 GHz,2.5 GHz,95 W,None,Yes,0, 0,
+ AMD 5150  ,4,1.6 GHz,,25 W,Radeon HD 8400,No,0, 0,
+ AMD 5350  ,4,2.05 GHz,,25 W,Radeon HD 8400,No,0, 0,
+ Intel Celeron G1850  ,2,2.9 GHz,,53 W,Intel HD Graphics,No,0, 0,
+ AMD A10-6790K  ,4,4 GHz,4.3 GHz,100 W,Radeon HD 8670D,No,0, 0,
+ AMD A10-6800B  ,4,4.1 GHz,4.4 GHz,100 W,Radeon HD 8670D,No,0, 0,
+ AMD A10-7850K  ,4,3.7 GHz,4 GHz,95 W,Radeon R7 (on-die),No,0, 0,
+ AMD A4-6320  ,2,3.8 GHz,4 GHz,65 W,Radeon HD 8370D,No,5, 1,
+ AMD A6-7400K  ,2,3.5 GHz,3.9 GHz,65 W,Radeon R5 (on die),No,0, 0,
+ Intel Celeron G470  ,1,2 GHz,,35 W,Intel HD Graphics,Yes,0, 0,
+ AMD FX-4150  ,4,4 GHz,4.1 GHz,125 W,None,No,0, 0,
+ AMD FX-6200  ,6,3.8 GHz,,125 W,None,No,0, 0,
+ Intel Xeon E3-1230 V3  ,4,3.3 GHz,3.7 GHz,80 W,None,Yes,0, 0,
+ AMD FX-8370E  ,8,3.3 GHz,4.3 GHz,95 W,None,No,0, 0,
+ Intel Xeon E5-1620 V3  ,4,3.5 GHz,3.6 GHz,140 W,None,Yes,0, 0,
+ Intel Pentium G3460  ,2,3.5 GHz,,53 W,Intel HD Graphics,No,0, 0,
+ Intel Xeon E5-2637 V3  ,4,3.5 GHz,3.7 GHz,135 W,None,Yes,0, 0,
+ Intel Xeon E5-2670 V3  ,12,2.3 GHz,3.1 GHz,120 W,None,Yes,0, 0,
+ Intel Xeon E3-1270 V3  ,4,3.5 GHz,3.9 GHz,80 W,None,Yes,0, 0,
+ AMD FX-8310  ,8,3.4 GHz,4.3 GHz,95 W,None,No,4, 1,
+ Intel Core i5-5675C  ,4,3.1 GHz,3.6 GHz,65 W,Iris Pro Graphics 6200,No,0, 0,
+ Intel Pentium G4500  ,2,3.5 GHz,,51 W,Intel HD Graphics 530,No,0, 0,
+ Intel Xeon E3-1235L V5  ,4,2 GHz,3 GHz,25 W,Intel HD Graphics P530,No,0, 0,
+ AMD A6-7470K  ,2,3.7 GHz,4 GHz,65 W,Radeon R5 (on die),No,0, 0,
+ AMD A10-7890K  ,4,4.1 GHz,4.3 GHz,95 W,Radeon R7 (on-die),No,0, 0,
+ AMD Athlon X4 880K  ,4,4 GHz,4.2 GHz,95 W,None,No,0, 0,
+ Intel Celeron G3950  ,2,3 GHz,,51 W,Intel HD Graphics 610,No,0, 0,
+ Intel Core i3-7100T  ,2,3.4 GHz,,35 W,Intel HD Graphics 630,Yes,0, 0,
+ Intel Core i3-7300T  ,2,3.5 GHz,,35 W,Intel HD Graphics 630,Yes,0, 0,
+ Intel Core i3-7300T  ,2,3.5 GHz,,35 W,Intel HD Graphics 630,Yes,0, 0,
+ AMD A8-7650K  ,4,3.3 GHz,3.7 GHz,95 W,Radeon R7 (on-die),No,0, 0,
+ Intel Core i7-870S  ,4,2.667 GHz,,82 W,None,Yes,0, 0,
+ Intel Core i3-4360  ,2,3.7 GHz,,54 W,Intel HD Graphics 4600,Yes,0, 0,
+ Intel Core i3-9320  ,4,3.7 GHz,4.4 GHz,62 W,None,No,0, 0,
+ Intel Core i3-9320  ,4,3.7 GHz,4.4 GHz,62 W,None,No,0, 0,
+ Intel Xeon E-2174G  ,4,3.8 GHz,4.7 GHz,71 W,Intel HD Graphics P630,Yes,0, 0,
+ AMD Phenom II X4 960T Black  ,4,3 GHz,,95 W,None,No,4, 1,
+ Intel Celeron G540  ,2,2.5 GHz,,65 W,Intel HD Graphics,No,4, 2,$69.98
+ Intel Xeon E5-2603  ,4,1.8 GHz,,80 W,None,No,0, 0,$98.95
+ Intel Pentium G3440  ,2,3.3 GHz,,53 W,Intel HD Graphics,No,0, 0,
+ AMD Opteron 6320  ,8,2.8 GHz,3.3 GHz,115 W,None,No,0, 0,$246.96
+ Intel Xeon E3-1240 V6  ,4,3.7 GHz,4.1 GHz,72 W,None,Yes,0, 0,$429.95
+ Intel Xeon E3-1245 V6  ,4,3.7 GHz,4.1 GHz,73 W,Intel HD Graphics P630,Yes,0, 0,$449.95
+ Intel Xeon E5-2620  ,6,2 GHz,,95 W,None,Yes,0, 0,$139.94
+ Intel Xeon E-2244G  ,4,3.8 GHz,4.8 GHz,71 W,Intel HD Graphics P630,Yes,0, 0,
+ AMD Athlon II X2 260  ,2,3.2 GHz,,65 W,None,No,0, 0,
+ AMD Athlon II X3 440  ,3,3 GHz,,95 W,None,No,4, 1,
+ AMD Athlon II X3 445  ,3,3.1 GHz,,95 W,None,No,0, 0,
+ AMD Phenom II X2 550  ,2,3.1 GHz,,80 W,None,No,4, 2,
+ AMD Phenom II X4 805  ,4,2.5 GHz,,95 W,None,No,0, 0,
+ AMD Athlon II X3 400e  ,3,2.2 GHz,,45 W,None,No,0, 0,
+ AMD Athlon II X4 600e  ,4,2.2 GHz,,45 W,None,No,0, 0,
+ AMD Athlon II X4 605e  ,4,2.3 GHz,,45 W,None,No,0, 0,
+ AMD Phenom II X3 720 Black  ,3,2.8 GHz,,95 W,None,No,0, 0,
+ Intel Celeron E1200  ,2,1.6 GHz,,65 W,None,No,0, 0,
+ Intel Celeron E1500  ,2,2.2 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E2140  ,2,1.6 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E4500  ,2,2.2 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E6300  ,2,2.8 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E6550  ,2,2.33 GHz,,65 W,None,No,5, 1,
+ Intel Core 2 Duo E7400  ,2,2.8 GHz,,65 W,None,No,0, 0,
+ Intel Core i7-940  ,4,2.93 GHz,,130 W,None,Yes,0, 0,
+ Intel Core i7-965 Extreme Edition  ,4,3.2 GHz,,130 W,None,Yes,0, 0,
+ Intel Core 2 Quad Q8200  ,4,2.33 GHz,,95 W,None,No,0, 0,
+ Intel Core 2 Quad Q8400S  ,4,2.66 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Extreme QX9775  ,4,3.2 GHz,,150 W,None,No,0, 0,
+ AMD Athlon II X2 255  ,2,3.1 GHz,,65 W,None,No,0, 0,
+ AMD Athlon II X2 265  ,2,3.2 GHz,,65 W,None,No,0, 0,
+ AMD Phenom II X4 840  ,4,3.2 GHz,,95 W,None,No,4, 3,
+ AMD Phenom II X4 955  ,4,3.2 GHz,,125 W,None,No,0, 0,
+ AMD Athlon II X3 460  ,3,3.4 GHz,,95 W,None,No,0, 0,
+ AMD Sempron 130  ,1,2.6 GHz,,45 W,None,No,0, 0,
+ Intel Pentium G860  ,2,3 GHz,,65 W,Intel HD Graphics,No,5, 7,
+ AMD FX-8150  ,8,3.6 GHz,,125 W,None,No,0, 0,
+ Intel Celeron G555  ,2,2.7 GHz,,65 W,Intel HD Graphics,No,0, 0,
+ Intel Celeron G465  ,2,1.9 GHz,,35 W,Intel HD Graphics,No,0, 0,
+ AMD A10-5700  ,4,3.4 GHz,,65 W,Radeon HD 7660D,No,5, 1,
+ Intel Xeon E3-1280  ,4,3.5 GHz,,95 W,None,Yes,0, 0,
+ AMD A6-6420K  ,2,4 GHz,4.2 GHz,65 W,Radeon HD 8000 Series,No,5, 1,
+ AMD FX-4130  ,4,3.8 GHz,,125 W,None,No,4, 6,
+ Intel Core i3-4360  ,2,3.7 GHz,,54 W,Intel HD Graphics 4600,Yes,5, 6,
+ AMD Sempron 145  ,1,2.8 GHz,,45 W,None,No,0, 0,
+ AMD Sempron 150  ,1,2.9 GHz,,45 W,None,No,0, 0,
+ AMD A10-6800K  ,4,4.1 GHz,,100 W,Radeon HD 8670D,No,0, 0,
+ AMD A4-6300  ,2,3.7 GHz,3.9 GHz,65 W,Radeon HD 8370D,No,0, 0,
+ AMD A4-5300  ,2,3.4 GHz,,65 W,Radeon HD 7480D,No,0, 0,
+ Intel Celeron G470  ,1,2 GHz,,35 W,Intel HD Graphics,Yes,0, 0,
+ AMD FX-6350  ,6,3.9 GHz,,125 W,None,No,0, 0,
+ AMD FX-8120  ,8,3.1 GHz,,125 W,None,No,0, 0,
+ AMD Athlon II X2 221  ,2,2.8 GHz,,65 W,None,No,0, 0,
+ AMD Athlon II X4 638  ,4,2.7 GHz,,65 W,None,No,0, 0,
+ AMD E2-3200  ,2,2.4 GHz,,65 W,Radeon HD 6370D,No,0, 0,
+ Intel Core i3-4360T  ,2,3.2 GHz,,35 W,Intel HD Graphics 4600,Yes,0, 0,
+ Intel Core i3-4370  ,2,3.8 GHz,,54 W,Intel HD Graphics 4600,Yes,0, 0,
+ Intel Xeon E5-1660 V2  ,6,3.7 GHz,4 GHz,130 W,None,Yes,0, 0,
+ AMD A8-7600  ,4,3.1 GHz,3.8 GHz,65 W,Radeon R7 (on-die),No,0, 0,
+ AMD Pro A6-7400B  ,2,3.5 GHz,3.9 GHz,65 W,Radeon R5 (on die),No,0, 0,
+ AMD Athlon X2 450  ,2,3.5 GHz,3.9 GHz,65 W,None,No,0, 0,
+ AMD Sempron X2 250  ,2,3.2 GHz,3.6 GHz,65 W,None,No,0, 0,
+ Intel Pentium G3250T  ,2,2.8 GHz,,35 W,Intel HD Graphics,No,0, 0,
+ Intel Xeon E5-2609 V3  ,6,1.9 GHz,,85 W,None,No,0, 0,
+ Intel Xeon E5-2603 V3  ,6,1.6 GHz,,85 W,None,No,0, 0,
+ Intel Xeon E5-2622 V3  ,8,2.4 GHz,,85 W,None,Yes,0, 0,
+ Intel Xeon E3-1245 V3  ,4,3.4 GHz,3.8 GHz,84 W,Intel HD Graphics P4600,Yes,0, 0,
+ AMD FX-8310  ,8,3.4 GHz,4.3 GHz,95 W,None,No,0, 0,
+ Intel Xeon E5-2630 V2  ,6,2.6 GHz,3.1 GHz,80 W,None,Yes,0, 0,
+ Intel Core i3-6320  ,2,3.9 GHz,,51 W,Intel HD Graphics 530,Yes,0, 0,
+ Intel Core i3-6300  ,2,3.8 GHz,,51 W,Intel HD Graphics 530,Yes,4, 1,
+ Intel Core i5-6600T  ,4,2.7 GHz,3.5 GHz,35 W,Intel HD Graphics 530,No,0, 0,
+ Intel Pentium G4520  ,2,3.6 GHz,,51 W,Intel HD Graphics 530,No,0, 0,
+ Intel Xeon E3-1225 V5  ,4,3.3 GHz,3.7 GHz,80 W,Intel HD Graphics P530,No,0, 0,
+ Intel Xeon E3-1280 V5  ,4,3.7 GHz,4 GHz,80 W,None,Yes,0, 0,
+ Intel Xeon E3-1270 V5  ,4,3.6 GHz,4 GHz,80 W,None,Yes,0, 0,
+ Intel Xeon E3-1240 V5  ,4,3.5 GHz,3.9 GHz,80 W,None,Yes,0, 0,
+ Intel Xeon E5-2658 V3  ,12,2.2 GHz,2.9 GHz,105 W,None,Yes,5, 1,
+ AMD Athlon 5370  ,4,2.2 GHz,,25 W,Radeon R3 (on die),No,0, 0,
+ Intel Celeron G3950  ,2,3 GHz,,51 W,Intel HD Graphics 610,No,0, 0,
+ Intel Core i3-7101TE  ,2,3.4 GHz,,35 W,Intel HD Graphics 610,Yes,0, 0,
+ Intel Core i5-7600T  ,4,2.8 GHz,3.7 GHz,35 W,Intel HD Graphics 630,No,0, 0,
+ Intel Core i7-7820X  ,8,3.6 GHz,4.5 GHz,140 W,None,Yes,0, 0,
+ Intel Core i7-7740X  ,4,4.3 GHz,4.5 GHz,112 W,None,Yes,0, 0,
+ AMD A8-7670K  ,4,3.6 GHz,3.9 GHz,95 W,Radeon R7 (on-die),No,0, 0,
+ Intel Xeon E5-2430V2  ,6,2.5 GHz,3 GHz,80 W,None,Yes,5, 1,
+ Intel Xeon E3-1275 V6  ,4,3.8 GHz,4.2 GHz,73 W,Intel HD Graphics P630,Yes,0, 0,
+ AMD Athlon X4 940  ,4,3.2 GHz,3.6 GHz,65 W,None,No,0, 0,
+ Intel Core i7-870S  ,4,2.667 GHz,,82 W,None,Yes,0, 0,
+ Intel Core i3-8300  ,4,3.7 GHz,,62 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Pentium Gold G5500  ,2,3.8 GHz,,54 W,Intel UHD Graphics 630,Yes,0, 0,
+ Intel Pentium Gold G5600  ,2,3.9 GHz,,54 W,Intel UHD Graphics 630,Yes,0, 0,
+ AMD Athlon 240GE  ,2,3.5 GHz,,35 W,Radeon Vega 3,Yes,5, 1,
+ Intel Core i3-9300  ,4,3.7 GHz,4.3 GHz,62 W,Intel UHD Graphics 630,No,0, 0,
+ Intel Core i3-9350K  ,4,4 GHz,4.6 GHz,91 W,Intel HD Graphics 630,No,0, 0,
+ Intel Xeon E-2134  ,4,3.5 GHz,4.5 GHz,71 W,None,Yes,0, 0,
+ Intel Xeon E-2274G  ,4,4 GHz,4.9 GHz,83 W,Intel HD Graphics P630,Yes,0, 0,
+ Intel Xeon E-2124  ,4,3.3 GHz,4.3 GHz,71 W,None,No,0, 0,
+ Intel Pentium G3240  ,2,3.1 GHz,,53 W,Intel HD Graphics,No,0, 0,
+ Intel Pentium G3420  ,2,3.2 GHz,,54 W,Intel HD Graphics,No,0, 0,
+ Intel Core 2 Duo E4600  ,2,2.4 GHz,,65 W,None,No,0, 0,$98.95
+ Intel Pentium G3430  ,2,3.3 GHz,,54 W,Intel HD Graphics,No,0, 0,
+ Intel Xeon E5-2660  ,8,2.2 GHz,3 GHz,95 W,None,Yes,0, 0,
+ AMD Athlon II X2 245  ,2,2.9 GHz,,65 W,None,No,0, 0,
+ AMD Athlon II X2 255  ,2,3.1 GHz,,65 W,None,No,0, 0,
+ Intel Celeron 430  ,1,1.8 GHz,,35 W,None,No,0, 0,
+ AMD Athlon II X3 440  ,3,3 GHz,,95 W,None,No,0, 0,
+ AMD Phenom II X2 545  ,2,3 GHz,,80 W,None,No,0, 0,
+ AMD Athlon II X4 630  ,4,2.8 GHz,,95 W,None,No,5, 1,
+ AMD Athlon II X4 635  ,4,2.9 GHz,,95 W,None,No,0, 0,
+ AMD Phenom II X3 720  ,3,2.8 GHz,,95 W,None,No,5, 1,
+ AMD Phenom II X4 910  ,4,2.6 GHz,,95 W,None,No,4, 2,
+ AMD Athlon II X2 260u  ,2,1.8 GHz,,25 W,None,No,0, 0,
+ AMD Athlon II X3 405e  ,3,2.3 GHz,,45 W,None,No,0, 0,
+ AMD Athlon II X4 610e  ,4,2.4 GHz,,45 W,None,No,0, 0,
+ AMD Phenom II X3 705e  ,3,2.5 GHz,,65 W,None,No,0, 0,
+ AMD Phenom II X4 940 Black  ,4,3 GHz,,125 W,None,No,0, 0,
+ Intel Pentium E2140  ,2,1.6 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E2160  ,2,1.8 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E2160  ,2,1.8 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E2180  ,2,2 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E2180  ,2,2 GHz,,65 W,None,No,0, 0,
+ Intel Celeron E3200  ,2,2.4 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E5500  ,2,2.8 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E6300  ,2,2.8 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E6400  ,2,2.13 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E6700  ,2,2.66 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E6850  ,2,3 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E8200  ,2,2.66 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E8400  ,2,3 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E8500  ,2,3.16 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Quad Q8200S  ,4,2.33 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Quad Q8300  ,4,2.5 GHz,,95 W,None,No,0, 0,
+ Intel Core 2 Quad Q8300  ,4,2.5 GHz,,95 W,None,No,0, 0,
+ Intel Core 2 Quad Q8400S  ,4,2.66 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Quad Q9400S  ,4,2.66 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Quad Q9550  ,4,2.83 GHz,,95 W,None,No,5, 2,
+ Intel Core 2 Quad Q9550S  ,4,2.83 GHz,,65 W,None,No,4, 1,
+ Intel Core 2 Quad Q9650  ,4,3 GHz,,95 W,None,No,0, 0,
+ Intel Core 2 Extreme QX6800  ,4,2.93 GHz,,100 W,None,No,0, 0,
+ Intel Core 2 Extreme QX6800  ,4,2.93 GHz,,100 W,None,No,0, 0,
+ Intel Core 2 Extreme QX9775  ,4,3.2 GHz,,150 W,None,No,0, 0,
+ AMD Athlon II X4 630  ,4,2.8 GHz,,95 W,None,No,0, 0,
+ AMD Athlon II X3 455  ,3,3.3 GHz,,95 W,None,No,4, 1,
+ AMD Phenom II X2 560 Black  ,2,3.3 GHz,,80 W,None,No,0, 0,
+ AMD Phenom II X4 955  ,4,3.2 GHz,,125 W,None,No,0, 0,
+ AMD Athlon II X2 245  ,2,2.9 GHz,,65 W,None,No,0, 0,
+ AMD Athlon II X2 245  ,2,2.9 GHz,,65 W,None,No,0, 0,
+ AMD Athlon II X4 630  ,4,2.8 GHz,,95 W,None,No,0, 0,
+ AMD Athlon II X3 440  ,3,3 GHz,,95 W,None,No,5, 1,
+ AMD A8-3850  ,4,2.9 GHz,,100 W,Radeon HD 6550D,No,0, 0,
+ AMD Phenom II X4 970  ,4,3.5 GHz,,125 W,None,No,0, 0,
+ AMD Phenom II X4 980 Black  ,4,3.7 GHz,,125 W,None,No,0, 0,
+ AMD Phenom II X6 1100T Black  ,6,3.3 GHz,,125 W,None,No,0, 0,
+ AMD Athlon II X2 250  ,2,3 GHz,,65 W,None,No,0, 0,
+ Intel Celeron G1630  ,2,2.8 GHz,,55 W,Intel HD Graphics,No,0, 0,
+ Intel Celeron G1830  ,2,2.8 GHz,,53 W,Intel HD Graphics,No,0, 0,
+ Intel Xeon E5-2640  ,6,2.5 GHz,3 GHz,95 W,None,Yes,0, 0,
+ Intel Xeon E5-2609 V2  ,4,2.5 GHz,,80 W,None,No,0, 0,
+ Intel Pentium G3258  ,2,3.2 GHz,,53 W,Intel HD Graphics,No,0, 0,
+ AMD Sempron X2 198  ,2,2.5 GHz,,65 W,None,No,0, 0,
+ AMD Sempron X2 190  ,2,2.5 GHz,,45 W,None,No,0, 0,
+ AMD A10-6790B  ,4,4 GHz,,100 W,Radeon HD 8670D,No,0, 0,
+ AMD A4-6320  ,2,3.8 GHz,4 GHz,65 W,Radeon HD 8370D,No,0, 0,
+ AMD A4-3300  ,2,2.5 GHz,,65 W,Radeon HD 6410D,No,0, 0,
+ AMD A4-4020  ,2,3.2 GHz,3.4 GHz,65 W,Radeon HD 7480D,No,0, 0,
+ AMD A4-3450  ,2,2.9 GHz,,65 W,None,No,0, 0,
+ AMD FX-4200  ,4,3.3 GHz,,125 W,None,No,4, 2,
+ AMD Athlon II X4 651  ,4,3 GHz,,100 W,None,No,0, 0,
+ AMD Athlon II X4 638  ,4,2.7 GHz,,65 W,None,No,0, 0,
+ Intel Core i3-4160T  ,2,3.1 GHz,,35 W,Intel HD Graphics 4400,Yes,0, 0,
+ Intel Xeon E5-2630  ,6,2.3 GHz,,95 W,None,Yes,0, 0,
+ Intel Xeon E5-2637 V2  ,4,3.5 GHz,3.8 GHz,130 W,None,Yes,0, 0,
+ AMD Athlon X4 530  ,4,2 GHz,,25 W,None,No,0, 0,
+ AMD Athlon X4 550  ,4,2.2 GHz,,25 W,None,No,0, 0,
+ AMD Athlon X2 350  ,2,3.5 GHz,3.9 GHz,65 W,None,No,0, 0,
+ AMD Phenom II X4 B99  ,4,3.3 GHz,,95 W,None,No,0, 0,
+ Intel Pentium G3250  ,2,3.2 GHz,,53 W,Intel HD Graphics,No,0, 0,
+ Intel Pentium G3250  ,2,3.2 GHz,,53 W,Intel HD Graphics,No,0, 0,
+ Intel Pentium G3450  ,2,3.4 GHz,,53 W,Intel HD Graphics,No,0, 0,
+ Intel Xeon E5-2650 V3  ,10,2.3 GHz,3 GHz,105 W,None,Yes,0, 0,
+ Intel Xeon E5-2687W V3  ,10,3.1 GHz,3.5 GHz,160 W,None,Yes,0, 0,
+ Intel Xeon E5-2609  ,4,2.4 GHz,,80 W,None,No,0, 0,
+ AMD Phenom II X6 1065T  ,6,2.7 GHz,,95 W,None,No,0, 0,
+ Intel Xeon E5-2603 V2  ,4,1.8 GHz,,80 W,None,No,0, 0,
+ Intel Core i5-4570S  ,4,2.9 GHz,,65 W,Intel HD Graphics 4600,No,0, 0,
+ AMD A10-7870K  ,4,3.9 GHz,4.1 GHz,95 W,Radeon R7 (on-die),No,0, 0,
+ Intel Pentium G3470  ,2,3.6 GHz,,53 W,Intel HD Graphics,No,0, 0,
+ AMD A8-7670K  ,4,3.6 GHz,3.9 GHz,95 W,Radeon R7 (on-die),No,0, 0,
+ AMD A8-7670K  ,4,3.6 GHz,3.9 GHz,95 W,Radeon R7 (on-die),No,0, 0,
+ AMD Opteron 6328  ,8,3.2 GHz,3.8 GHz,115 W,None,No,0, 0,$499.99
+ AMD Opteron 6344  ,12,2.6 GHz,3.2 GHz,115 W,None,No,0, 0,
+ Intel Pentium G3260  ,2,3.3 GHz,,53 W,Intel HD Graphics,No,0, 0,
+ Intel Pentium G4620  ,2,3.7 GHz,,51 W,Intel HD Graphics 630,Yes,5, 6,
+ Intel Core i9-7900X  ,10,3.3 GHz,4.5 GHz,140 W,None,Yes,0, 0,
+ Intel Xeon E5-2440V2  ,8,1.9 GHz,2.4 GHz,95 W,None,Yes,0, 0,
+ AMD Athlon X4 970  ,4,3.8 GHz,4 GHz,65 W,None,No,0, 0,
+ AMD A6-9550  ,2,3.8 GHz,4 GHz,65 W,Radeon R5 (on die),No,0, 0,
+ AMD A6-9550  ,2,3.8 GHz,4 GHz,65 W,Radeon R5 (on die),No,0, 0,
+ AMD Athlon X4 940  ,4,3.2 GHz,3.6 GHz,65 W,None,No,0, 0,
+ Intel Celeron G4920  ,2,3.2 GHz,,65 W,Intel UHD Graphics 610,No,0, 0,
+ Intel Xeon E5-2665  ,8,2.4 GHz,3.1 GHz,115 W,None,Yes,0, 0,
+ Intel Xeon E-2176G  ,6,3.7 GHz,4.7 GHz,80 W,Intel HD Graphics P630,Yes,0, 0,
+ Intel Xeon E-2124G  ,4,3.4 GHz,4.5 GHz,71 W,Intel HD Graphics P630,No,0, 0,
+ AMD Athlon II X2 240  ,2,2.8 GHz,,65 W,None,No,5, 1,
+ AMD Athlon II X3 435  ,3,2.9 GHz,,95 W,None,No,0, 0,
+ AMD Athlon II X4 635  ,4,2.9 GHz,,95 W,None,No,0, 0,
+ AMD Phenom II X3 710  ,3,2.6 GHz,,95 W,None,No,0, 0,
+ AMD Phenom II X4 925  ,4,2.8 GHz,,95 W,None,No,0, 0,
+ AMD Phenom II X4 945  ,4,3 GHz,,125 W,None,No,4, 1,
+ AMD Athlon II X2 245e  ,2,2.9 GHz,,45 W,None,No,0, 0,
+ AMD Athlon II X3 405e  ,3,2.3 GHz,,45 W,None,No,0, 0,
+ AMD Athlon II X3 415e  ,3,2.5 GHz,,45 W,None,No,0, 0,
+ AMD Phenom II X3 740 Black  ,3,3 GHz,,95 W,None,No,5, 1,
+ AMD Phenom II X4 905e  ,4,2.5 GHz,,65 W,None,No,0, 0,
+ AMD Phenom II X4 910e  ,4,2.6 GHz,,65 W,None,No,0, 0,
+ AMD Phenom II X4 965 Black ,4,3.4 GHz,,140 W,None,No,0, 0,
+ Intel Celeron E1500  ,2,2.2 GHz,,65 W,None,No,0, 0,
+ Intel Celeron E1600  ,2,2.4 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E2200  ,2,2.2 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E5400  ,2,2.7 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E5400  ,2,2.7 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E6420  ,2,2.13 GHz,,65 W,None,No,0, 0,
+ Intel Pentium E6500  ,2,2.93 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E6540  ,2,2.33 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E6550  ,2,2.33 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E6700  ,2,2.66 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E7200  ,2,2.53 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E7400  ,2,2.8 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E7500  ,2,2.93 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E8190  ,2,2.66 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E8200  ,2,2.66 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Duo E8500  ,2,3.16 GHz,,65 W,None,No,0, 0,
+ Intel Core i5-750S  ,4,2.4 GHz,,82 W,None,No,0, 0,
+ Intel Core i7-860S  ,4,2.53 GHz,,82 W,None,Yes,0, 0,
+ Intel Core 2 Quad Q6700  ,4,2.66 GHz,,100 W,None,No,0, 0,
+ Intel Core 2 Quad Q8200  ,4,2.33 GHz,,95 W,None,No,0, 0,
+ Intel Core 2 Quad Q8200S  ,4,2.33 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Quad Q9400S  ,4,2.66 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Quad Q9505S  ,4,2.83 GHz,,65 W,None,No,0, 0,
+ Intel Core 2 Extreme QX6700  ,4,2.66 GHz,,100 W,None,No,0, 0,
+ Intel Core 2 Extreme QX6800  ,4,2.93 GHz,,100 W,None,No,0, 0,
+ Intel Core 2 Extreme QX6850  ,4,3 GHz,,130 W,None,No,0, 0,
+ Intel Core 2 Extreme QX9650  ,4,3 GHz,,130 W,None,No,0, 0,
+ Intel Core 2 Extreme QX9775  ,4,3.2 GHz,,150 W,None,No,0, 0,
+ AMD Athlon II X4 610e  ,4,2.4 GHz,,45 W,None,No,0, 0,
+ AMD Phenom II X3 715 Black  ,3,2.8 GHz,,95 W,None,No,0, 0,
+ AMD Athlon II X3 425  ,3,2.7 GHz,,95 W,None,No,0, 0,
+ AMD Phenom II X2 545  ,2,3 GHz,,80 W,None,No,5, 1,
+ AMD Phenom II X4 925  ,4,2.8 GHz,,95 W,None,No,0, 0,
+ AMD Sempron 130  ,1,2.6 GHz,,45 W,None,No,0, 0,
+ AMD Athlon II X4 645  ,4,3.1 GHz,,95 W,None,No,5, 2,
+ AMD A6-6420K  ,2,4 GHz,4.2 GHz,65 W,Radeon HD 8000 Series,No,0, 0,
+ AMD A4-4020  ,2,3.2 GHz,3.4 GHz,65 W,Radeon HD 7480D,No,0, 0,
+ AMD Sempron X2 198  ,2,2.5 GHz,,65 W,None,No,0, 0,
+ AMD A10-6700T  ,4,2.5 GHz,3.5 GHz,45 W,Radeon HD 8650D,No,0, 0,
+ AMD A4-3300  ,2,2.5 GHz,,65 W,Radeon HD 6410D,No,0, 0,
+ AMD A4-3400  ,2,2.7 GHz,,65 W,Radeon HD 6410D,No,0, 0,
+ AMD A4-3400  ,2,2.7 GHz,,65 W,Radeon HD 6410D,No,0, 0,
+ AMD A4-4000  ,2,3 GHz,,65 W,Radeon HD 7480D,No,0, 0,
+ AMD A4-3420  ,2,2.8 GHz,,65 W,Radeon HD 6410D,No,0, 0,
+ AMD FX-4170  ,4,4.2 GHz,,125 W,None,No,0, 0,
+ AMD FX-4320  ,4,4 GHz,4.2 GHz,95 W,None,No,0, 0,
+ AMD FX-6130  ,6,3.6 GHz,3.9 GHz,125 W,None,No,0, 0,
+ AMD FX-8140  ,8,3.2 GHz,4.1 GHz,95 W,None,No,0, 0,
+ AMD Athlon II X2 221  ,2,2.8 GHz,,65 W,None,No,0, 0,
+ AMD Athlon II X4 651  ,4,3 GHz,,100 W,None,No,4, 1,
+ AMD Athlon X2 370K  ,2,4.2 GHz,,65 W,None,No,0, 0,
+ Intel Core i5-7640X  ,4,4 GHz,4.2 GHz,112 W,None,No,0, 0,
