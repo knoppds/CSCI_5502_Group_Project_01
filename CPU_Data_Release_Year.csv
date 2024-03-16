@@ -129,7 +129,6 @@ Intel,Core i9-13900F  ,24,2 GHz,5.6 GHz,65 W,,Yes,0,0,$469.99,2022.0
 Intel,Core i5-7600K  ,4,3.8 GHz,4.2 GHz,91 W,Intel HD Graphics 630,No,5,137,$210.00,2016.0
 AMD,Ryzen 5 1600X  ,6,3.6 GHz,4 GHz,95 W,,Yes,5,75,$125.00,2017.0
 Intel,Core i7-11700KF  ,8,3.6 GHz,5 GHz,125 W,,Yes,5,3,$249.68,2020.0
-Intel,Core i3-8100  ,4,3.6 GHz,,65 W,Intel UHD Graphics 630,No,4,42,$110.00,2017.0
 Intel,Core i5-12500  ,6,3 GHz,4.6 GHz,65 W,Intel UHD Graphics 770,Yes,5,3,$195.99,2021.0
 Intel,Core i5-11600KF  ,6,3.9 GHz,4.9 GHz,125 W,,Yes,5,4,$160.68,2020.0
 AMD,Ryzen 9 3900XT  ,12,3.8 GHz,4.7 GHz,105 W,,Yes,5,15,$450.00,2019.0
@@ -190,7 +189,6 @@ Intel,Core i7-7800X  ,6,3.5 GHz,4 GHz,140 W,,Yes,0,0,$277.00,2016.0
 Intel,Core i7-7700T  ,4,2.9 GHz,3.8 GHz,35 W,Intel HD Graphics 630,Yes,4,1,$489.95,2016.0
 Intel,Core i3-10300  ,4,3.7 GHz,4.4 GHz,65 W,Intel UHD Graphics 630,Yes,5,1,$120.66,2023.0
 Intel,Core i5-8400T  ,6,1.7 GHz,3.3 GHz,35 W,Intel UHD Graphics 630,No,0,0,$139.00,2017.0
-Intel,Core 2 Quad Q9300  ,4,2.5 GHz,,95 W,,No,4,1,$42.60,2023.0
 Intel,Core i7-8700T  ,6,2.4 GHz,4 GHz,35 W,Intel UHD Graphics 630,Yes,0,0,$199.00,2017.0
 Intel,Core i5-7400  ,4,3 GHz,3.5 GHz,65 W,Intel HD Graphics 630,No,0,0,$110.00,2016.0
 Intel,Core i9-9900X  ,10,3.5 GHz,4.4 GHz,165 W,,Yes,0,0,$649.95,2018.0
@@ -202,15 +200,12 @@ Intel,Core i9-7900X  ,10,3.3 GHz,4.5 GHz,140 W,,Yes,0,0,$898.95,2016.0
 Intel,Core i5-7400T  ,4,2.4 GHz,3 GHz,35 W,Intel HD Graphics 630,No,0,0,$82.62,2016.0
 Intel,Core i5-8500  ,6,3 GHz,4.1 GHz,65 W,Intel UHD Graphics 630,No,0,0,$159.99,2017.0
 Intel,Core i7-7700T  ,4,2.9 GHz,3.8 GHz,35 W,Intel HD Graphics 630,Yes,0,0,$380.00,2016.0
-Intel,Core i3-8100  ,4,3.6 GHz,,65 W,Intel UHD Graphics 630,No,0,0,$124.90,2017.0
 Intel,Core i3-9300  ,4,3.7 GHz,4.3 GHz,62 W,Intel UHD Graphics 630,No,0,0,$165.00,2023.0
 Intel,Core i9-7980XE  ,18,2.6 GHz,4.4 GHz,165 W,,Yes,0,0,$1249.95,2016.0
 Intel,Core i5-7640X  ,4,4 GHz,4.2 GHz,112 W,,No,0,0,$250.00,2016.0
-Intel,Core 2 Quad Q8400  ,4,2.66 GHz,,95 W,,No,0,0,$155.97,2017.0
 Intel,Core i5-7640X  ,4,4 GHz,4.2 GHz,112 W,,No,0,0,$225.40,2016.0
 Intel,Core i7-7820X  ,8,3.6 GHz,4.5 GHz,140 W,,Yes,0,0,$489.05,2016.0
 Intel,Core i7-7740X  ,4,4.3 GHz,4.5 GHz,112 W,,Yes,0,0,$504.57,2016.0
-Intel,Core 2 Quad Q9300  ,4,2.5 GHz,,95 W,,No,0,0,$172.00,2023.0
 Intel,Core i5-8600  ,6,3.1 GHz,4.3 GHz,65 W,Intel UHD Graphics 630,No,0,0,$269.95,2017.0
 Intel,Core i5-7600T  ,4,2.8 GHz,3.7 GHz,35 W,Intel HD Graphics 630,No,0,0,$229.95,2016.0
 Intel,Core i5-7500T  ,4,2.7 GHz,3.3 GHz,35 W,Intel HD Graphics 630,No,0,0,$195.15,2016.0
