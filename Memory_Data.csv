@@ -1,4 +1,4 @@
-Memory Name,Memory Speed,Memory Modules,Memory Price/GB,Memory First Word Latency,Memory CAS Latency,Memory Rating,Memory Rating Count,Memory Price
+Name,Speed,Modules,Price/GB,First Word Latency,CAS Latency,Rating,Rating Count,Price
  Corsair Vengeance LPX 16 GB  ,DDR4-3200,2 x 8GB,$2.562,10 ns,16,5, 483,$40.99
  Corsair Vengeance 32 GB  ,DDR5-5600,2 x 16GB,$3.625,12.857 ns,36,5, 57,$115.99
  G.Skill Trident Z5 RGB 32 GB  ,DDR5-6000,2 x 16GB,$3.687,12 ns,36,5, 39,$117.99
