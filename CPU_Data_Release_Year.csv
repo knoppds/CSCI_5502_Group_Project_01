@@ -1,4 +1,4 @@
-Brand,Model,Core Count,Performance Core Clock,Boost Clock,TDP,Integrated Graphics,Sockets Supported,Raiting,Raiting Count,Price,Release Year
+Brand,Model,Core Count,Performance Core Clock,Boost Clock,TDP,Integrated Graphics,Sockets Supported,Rating,Rating Count,Price,Release Year
 AMD,Ryzen 7 7800X3D  ,8,4.2 GHz,5 GHz,120 W,Radeon,Yes,5,208,$369.00,2022.0
 AMD,Ryzen 5 7600X  ,6,4.7 GHz,5.3 GHz,105 W,Radeon,Yes,5,113,$218.46,2022.0
 AMD,Ryzen 5 5600X  ,6,3.7 GHz,4.6 GHz,65 W,,Yes,5,609,$151.24,2021.0
