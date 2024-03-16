@@ -1,101 +1,101 @@
-rank,name,min_req_os,min_req_proc,min_req_mem,min_req_graph,min_req_dirX,min_req_stor,rec_req_os,rec_req_proc,rec_req_mem,rec_req_graph,rec_req_dirX,rec_req_stor
-1,Counter-Strike 2,windows 10 32,intel core i5 750,8 GB,,version 11,85 GB,windows 10 32,,,,,
-2,Dota 2,windows 10 32,,4 GB,nvidia geforce 8600 gt | amd radeon hd 2600,version 11,60 GB,windows 10 32,,,,,
-3,PUBG: BATTLEGROUNDS,windows 10 64,intel core i5 4430 | amd fx 6300,8 GB,nvidia geforce gtx 960 | amd radeon r7 370,version 11,40 GB,windows 10 64,intel core i5 6600 k | amd ryzen 5 1600,16 GB,nvidia geforce gtx 1060 | amd radeon rx 580,version 11,50 GB
-4,Apex Legends,windows 10 64,intel core i3 6300 | amd fx 4350,6 GB,nvidia geforce gt 640 | amd radeon hd 7730,version 11,75 GB,windows 10 64,,8 GB,nvidia geforce gtx 970 | amd radeon r9 290,version 11,75 GB
-5,HELLDIVERS 2,windows 10 32,,8 GB,nvidia geforce gtx 1050 ti | amd radeon rx 470,,100 GB,windows 10 32,intel core i7 9700 k | amd ryzen 7 3700 x,16 GB,nvidia geforce rtx 2060 | amd radeon rx 6600 xt,,100 GB
-6,NARAKA: BLADEPOINT,windows 7 64,amd fx 6300,8 GB,nvidia geforce gtx 750 ti,version 11,35 GB,windows 10 64,,16 GB,nvidia geforce gtx 1060,version 11,35 GB
-7,Grand Theft Auto V,windows 10 64,amd phenom 9850,4 GB,nvidia geforce 9800 gt | amd radeon hd 4870,version 10,110 GB,windows 10 64,intel core i5 3470 | amd fx 8350,8 GB,nvidia geforce gtx 660 | amd radeon hd 7870,version 10,110 GB
-8,Tom Clancy's Rainbow Six Siege,windows 7 32,intel core i3 560 | amd phenom ii x4 945,6 GB,nvidia geforce gtx 460 | amd radeon hd 5870,version 11,61 GB,windows 7 32,intel core i5 2500 k | amd fx 8120,8 GB,nvidia geforce gtx 670 | amd radeon hd 7970,version 9.0c,61 GB
-9,Palworld,windows 10 64,intel core i5 3570 k,16 GB,nvidia geforce gtx 1050,version 11,40 GB,windows 10 64,intel core i9 9900 k,32 GB,nvidia geforce rtx 2070,version 11,40 GB
-10,Rust,windows 10 32,,,,,,windows 11 64,intel core i7 4790 k | amd ryzen 5 1600,16 GB,nvidia geforce gtx 980 | amd radeon r9,version 12,25 GB
-11,Last Epoch,windows 10 32,,,,,,windows 10 32,intel core i5 6500 | amd ryzen 3 1200,16 GB,nvidia geforce rtx 3060 | amd radeon rx 6600,version 11,22 GB
-12,Baldur's Gate 3,windows 10 64,intel core i5 4690 | amd fx 8350,8 GB,nvidia geforce gtx 970 | amd radeon rx 480 ,version 11,150 GB,windows 10 64,intel core i7 8700 k | amd r5 3600,16 GB,nvidia geforce rtx 2060 | amd radeon rx 5700 xt,version 11,150 GB
-13,Wallpaper Engine,windows 7 32,,1024 MB,,version 10,512 MB,windows 10 32,,2048 MB,nvidia geforce gtx 660 | amd radeon hd 7870,version 11,1024 MB
-14,Monster Hunter: World,windows 10 64,intel core i5 4460 | amd fx 6300,8 GB,nvidia geforce gtx 1050 | amd radeon r7 260 x,version 11,52 GB,windows 10 64,intel core i7 3770 | amd ryzen 5 1500 x,8 GB,nvidia geforce gtx 1060 | amd radeon rx 480,version 11,52 GB
-15,War Thunder,windows 10 64,,4 GB,nvidia geforce gtx 660 | amd radeon hd 7700 xx,version 10.1,17 GB,windows 10 64,amd ryzen 5 3600,16 GB,nvidia geforce gtx 1060 | amd radeon rx 570 ,version 11,95 GB
-16,ELDEN RING,windows 10 32,intel core i5 8400 | amd ryzen 3 3300 x,12 GB,nvidia geforce gtx 1060 | amd radeon rx 580,version 12,60 GB,windows 10 32,intel core i7 8700 k | amd ryzen 5 3600 x,16 GB,nvidia geforce gtx 1070 | amd radeon rx,version 12,60 GB
-17,Call of Duty,windows 10 64,,8 GB,nvidia geforce gtx 960 | amd radeon rx 470,version 12,,windows 10 32,intel core i7 6700 k | amd ryzen 5 1600 x,16 GB,nvidia geforce gtx 1080 ti | amd radeon rx 6600 xt,version 12,
-18,Sid Meier’s Civilization VI,windows 7 64,,4 GB,nvidia geforce gtx 450 | amd radeon 5570,version 11,17 GB,windows 7 64,amd fx 8350,8 GB,nvidia geforce gtx 770 | amd radeon 7970,version 11,23 GB
-19,Football Manager 2024,windows 10 64,,4 GB,nvidia geforce 9600 gt | amd radeon hd 3650 ,version 11,7 GB,windows 10 32,,,,,
-20,Crab Game,windows 10 32,,2 GB,,,200 MB,windows 10 32,intel core i5 4440,,nvidia geforce gtx 650,,200 MB
-21,EA SPORTS FC 24,windows 10 64,intel core i5 6600 k | amd ryzen 5 1600,8 GB,nvidia geforce gtx 1050 ti | amd radeon rx 570,version 12,100 GB,windows 10 64,intel core i7 6700 | amd ryzen 7 2700 x,12 GB,nvidia geforce gtx 1660 | amd radeon rx 5600 xt,version 12,100 GB
-22,Warframe,windows 7 64,intel core i7 860 | amd fx 4100,4 GB,,version 11,50 GB,windows 10 32,,,,,
-23,Hearts of Iron IV,windows 10 64,intel core i5 750 | amd fx 4300,4 GB,nvidia geforce gtx 470 | amd radeon hd 5850,version 9.0c,2 GB,windows 10 64,intel core i5 2500 k | amd ryzen 3 2200 g,6 GB,nvidia geforce gtx 570 | amd radeon hd 7970,version 9.0c,2 GB
-24,Team Fortress 2,windows XP 32,,512 MB,,version 8.1,15 GB,windows 10 32,,1 GB,,version 9.0c,15 GB
-25,Dead by Daylight,windows 10 32,,,,,,windows 10 64,intel core i3 4170 | amd fx 8300,8 GB,nvidia geforce gtx 760 | amd radeon hd 8800,version 11,50 GB
-26,Stardew Valley,windows Vista 32,,2 GB,,version 10,500 MB,windows 10 32,,,,,
-27,Granblue Fantasy: Relink,windows 10 32,,,,,,windows 10 64,intel core i7 8700 | amd ryzen 5 3600,16 GB,nvidia geforce rtx 2080 | amd radeon rx 6700 xt,version 11,90 GB
-28,DayZ,windows 10 64,intel core i5 4430,8 GB,nvidia geforce gtx 760 | amd radeon r9 270 x,version 11,25 GB,windows 10 64,intel core i5 6600 k | amd r5 1600 x,12 GB,nvidia geforce gtx 1060 | amd radeon rx 580,version 11,30 GB
-29,Destiny 2,windows 7 64,,6 GB,nvidia geforce gtx 660 | amd radeon hd 7850,,105 GB,windows 10 32,intel core i5 2400 | amd ryzen r5 1600 x,8 GB,nvidia geforce gtx 970 | amd radeon r9 390,,105 GB
-30,Left 4 Dead 2,windows XP 32,,2 GB,nvidia geforce 6600,version 9.0c,13 GB,windows XP 32,,2 GB,nvidia geforce 7600 gt,version 9.0c,13 GB
-31,Lethal Company,windows 10 32,,,nvidia geforce gtx 1050,version 11,1 GB,windows 10 32,,,,,
-32,Don't Starve Together,windows Vista 32,,1 GB,amd radeon hd 5450 ,version 9.0c,3 GB,windows 10 32,,,,,
-33,Red Dead Redemption 2,windows 8 32,,12 GB,nvidia geforce gtx 1060 | amd radeon rx 480,,150 GB,windows 10 32,intel core i7 4770 k | amd ryzen 5 1500 x,12 GB,nvidia geforce gtx 1060 | amd radeon rx 480,,150 GB
-34,Supermarket Simulator,windows 10 64,intel core i5 3550 | amd ryzen 5 2500 x,4 GB,nvidia geforce gtx 1050 | amd radeon r9 270 x,version 11,5 GB,windows 10 64,intel core i5 7600 k,8 GB,nvidia geforce gtx 1060 | amd radeon rx 480,version 11,5 GB
-35,Unturned,windows 10 32,,8 GB,,version 10,4 GB,windows 10 32,,16 GB,,version 11,6 GB
-36,Terraria,windows 10 32,,,,,,windows 10 32,,4 GB,,,
-37,Euro Truck Simulator 2,windows 10 32,,8 GB,nvidia geforce gtx 660 | amd radeon rx 460,,,windows 10 32,intel core i5 9600 | amd ryzen 5 3600,12 GB,nvidia geforce gtx 1660 | amd radeon rx 590,,
-38,Cyberpunk 2077,windows 10 64,intel core i7 6700 | amd ryzen 5 1600,12 GB,nvidia geforce gtx 1060 | amd radeon rx 580 ,version 12,70 GB,windows 10 64,intel core i7 12700 | amd ryzen 7 7800 x,16 GB,nvidia geforce rtx 2060 | amd radeon rx 5700 xt,version 12,70 GB
-39,The Sims 4,windows 10 64,intel core i3 3220 | amd ryzen 3 1200,4 GB,nvidia geforce 6600 | amd radeon x 1300 ,version 11,26 GB,windows 10 64,,8 GB,nvidia geforce gtx 650 | amd radeon hd 7750,version 11,51 GB
-40,Overwatch 2,windows 10 64,amd phenom x3 8650,6 GB,nvidia geforce gtx 600 | amd radeon hd 7000,version 11,50 GB,windows 10 64,,8 GB,nvidia geforce gtx 1060 | amd radeon r9 380,version 11,50 GB
-41,7 Days to Die,windows 7 64,,8 GB,,version 11,15 GB,windows 7 64,,12 GB,,version 11,15 GB
-42,THE FINALS,windows 10 64,,12 GB,nvidia geforce gtx 1050 ti | amd radeon rx 580,version 12,,windows 10 32,intel core i5 9600 k | amd ryzen 5 3600,16 GB,nvidia geforce rtx 2070 | amd radeon rx 5700 xt,version 12,
-43,tModLoader,windows 7 64,,6 GB,,version 11,500 MB,windows 10 32,,16 GB,,version 11,20000 MB
-44,Lost Ark,windows 10 64,,8 GB,nvidia geforce gtx 460 | amd radeon hd 6850,version 11,60 GB,windows 10 64,,16 GB,nvidia geforce gtx 1050 | amd radeon rx 560,version 11,60 GB
-45,Battlefield V,windows 10 64,intel core i5 6600 k | amd fx 8350,8 GB,nvidia geforce gtx 1050 | amd radeon rx 560,version 11,50 GB,windows 10 64,intel core i7 4790 | amd ryzen 3 1300 x,12 GB,nvidia geforce gtx 1060 | amd radeon rx 580,version 11,50 GB
-46,Project Zomboid,windows 10 64,,8 Gb,,,,windows 10 32,,,,,
-47,Balatro,windows 7 64,,1 GB,,,150 MB,windows 10 32,,,,,
-48,ARK: Survival Evolved,windows 7 64,intel core i5 2400 | amd fx 8320,8 GB,nvidia geforce gtx 670 | amd radeon hd 7870,version 10,60 GB,windows 10 32,,,,,
-49,Yu-Gi-Oh! Master Duel,windows 10 64,intel core i5 7300 u,8 GB,,version 11,16 GB,windows 10 64,intel core i5 9400 f,8 GB,nvidia geforce gtx 1650,version 11,16 GB
-50,Sons Of The Forest,windows 10 64,intel core i5 8400 | amd ryzen 3 3300 x,12 GB,nvidia geforce gtx 1060 | amd radeon rx 570,version 11,20 GB,windows 10 64,intel core i7 8700 k | amd ryzen 5 3600 x,16 GB,nvidia geforce gtx 1080 ti | amd radeon rx 5700 xt,version 11,20 GB
-51,Garry's Mod,windows XP 32,,4 GB,,version 9.0c,5 GB,windows 7 32,,8 GB,,version 9.0c,20 GB
-52,Farming Simulator 22,windows 10 64,intel core i5 3330 | amd fx 8320,8 GB,nvidia geforce gtx 660 | amd radeon r7 265,version 11,35 GB,windows 10 64,intel core i5 5675 c | amd ryzen 5 1600,8 GB,nvidia geforce gtx 1060 | amd radeon rx 570 ,version 11,35 GB
-53,Mount & Blade II: Bannerlord,windows 7 64,,6 GB,nvidia geforce gtx 660 | amd radeon hd 7850,,60 GB,windows 10 32,intel core i5 9600 k | amd ryzen 5 3600 x,8 GB,nvidia geforce gtx 1060 | amd radeon rx 580,,60 GB
-54,Backpack Battles,windows 10 32,,,,,,windows 10 32,,,,,
-55,Myth of Empires,windows 7 64,intel core i5 4430 | amd fx 6300,8 GB,nvidia geforce gtx 960 | amd radeon r7 370,version 11,85 GB,windows 7 64,intel core i5 6600 k | amd ryzen 5 1600,16 GB,nvidia geforce gtx 1060 | amd radeon rx 580,version 11,85 GB
-56,Hunt: Showdown,windows 10 64,intel core i5 4590 | amd ryzen 3 1200,8 GB,nvidia geforce gtx 660 ti | amd radeon r7 370,version 11,50 GB,windows 10 32,,,,,
-57,Total War: WARHAMMER III,windows 7 64,,6 GB,nvidia geforce gtx 900 | amd radeon rx 400,version 11,120 GB,windows 10 64,,8 GB,nvidia geforce gtx 1660 ti | amd radeon rx 5600,version 11,120 GB
-58,Valheim,windows 10 32,,8 GB,nvidia geforce gtx 950 | amd radeon hd 7970 ,version 11,1 GB,windows 10 32,,16 GB,nvidia geforce gtx 1060 | amd radeon rx 580 ,version 11,1 GB
-59,Age of Empires II: Definitive Edition,windows 10 64,,4 GB,nvidia geforce gt 420 | amd radeon hd 6850 ,version 11,15 GB,windows 10 64,,8 GB,nvidia geforce gtx 650 | amd radeon hd 5850,version 11,15 GB
-60,RimWorld,windows 10 32,,4 GB,,,1 GB,windows 10 32,,,,,
-61,Crusader Kings III,windows 10 64,,6 GB,nvidia geforce gtx 660 | amd radeon hd 7870,,8 GB,windows 10 32,intel core i5 4670 k | amd ryzen 5 2400 g,8 GB,nvidia geforce gtx 1650 | amd radeon r9 390 x,,8 GB
-62,Forza Horizon 5,windows 10 32,intel core i5 4460 | amd ryzen 3 1200,8 GB,nvidia geforce gtx 970 | amd radeon rx 470,version 12,110 GB,windows 10 32,intel core i5 8400 | amd ryzen 5 1500 x,16 GB,nvidia geforce gtx 1070 | amd radeon rx 590,version 12,110 GB
-63,VRChat,windows 8.1 32,intel core i5 4590 | amd fx 8350,4 GB,nvidia geforce gtx 970 | amd radeon r9 290,version 11,1 GB,windows 10 32,,,,,
-64,Enshrouded,windows 10 32,,16 GB,nvidia geforce gtx 1060 | amd radeon rx 580,,60 GB,windows 10 32,intel core i7 8700 | amd ryzen 7 2700 x,16 GB,nvidia geforce rtx 2070 | amd radeon rx 6700 xt,,60 GB
-65,Governor of Poker 3,windows 7 64,,1 GB,,,500 MB,windows 10 64,,2 GB,,version 11,750 MB
-66,The Elder Scrolls V: Skyrim Special Edition,windows 7 64,,8 GB,nvidia geforce gtx 470 | amd radeon hd 7870,,12 GB,windows 10 32,intel core i5 2400 | amd fx 8320,8 GB,nvidia geforce gtx 780 | amd radeon r9 290,,12 GB
-67,The Binding of Isaac: Rebirth,windows 10 32,,,,,,windows 10 32,,8 GB,nvidia geforce gtx 2 | amd radeon hd ,,449 MB
-68,MONSTER HUNTER RISE,windows 10 64,intel core i3 4130 | amd fx 6100,8 GB,nvidia geforce gt 1030 | amd radeon rx 550,version 12,36 GB,windows 10 64,intel core i5 4460 | amd fx 8300,8 GB,nvidia geforce gtx 1060 | amd radeon rx 570,version 12,36 GB
-69,Hero's Land,windows 10 32,,,,,,windows 10 32,,,,,
-70,The Forest,windows 10 32,,4 GB,nvidia geforce 8800 gt,version 9.0,5 GB,windows 10 32,,4 GB,nvidia geforce gtx 560,version 9.0,5 GB
-71,MIR4,windows 8.1 64,intel core i5 5200 u,4 GB,nvidia geforce gtx 650 | amd radeon 530,version 11,10 GB,windows 10 64,intel core i5 6200 u,16 GB,nvidia geforce gtx 950 | amd radeon 560,version 11,10 GB
-72,NBA 2K24,windows 10 32,,,,,,windows 10 64,intel core i5 4430 | amd fx 8370,8 GB,nvidia geforce gtx 770 | amd radeon r9 270 ,version 11,150 GB
-73,Deep Rock Galactic,windows 7 64,,6 GB,nvidia geforce gtx 660 | amd radeon hd 7870,version 11,3 GB,windows 10 64,,8 GB,nvidia geforce gtx 970 | amd radeon 290,version 11,3 GB
-74,Geometry Dash,windows XP 32,,512 MB,,,100 MB,windows 10 32,,,,,
-75,Rocket League,windows 7 64,,4 GB,nvidia geforce gtx 760 | amd radeon r7 270 x,version 11,20 GB,windows 7 64,,8 GB,nvidia geforce gtx 1060 | amd radeon rx 470,version 11,20 GB
-76,Battlefield 2042,windows 10 64,intel core i5 6600 k | amd ryzen 5 1600,8 GB,nvidia geforce gtx 1050 ti | amd radeon rx 560,version 12,100 GB,windows 10 64,intel core i7 4790 | amd ryzen 7 2700 x,16 GB,nvidia geforce rtx 3060 | amd radeon rx 6600 xt,version 12,100 GB
-77,Europa Universalis IV,windows 10 64,,4 GB,nvidia geforce gtx 460 | amd radeon hd 5850,,,windows 10 32,intel core i3 3240 | amd fx 8120,8 GB,nvidia geforce gtx 560 ti,,
-78,SCUM,windows 10 64,intel core i5 4430 | amd fx 6300,16 GB,nvidia geforce gtx 1060 | amd radeon rx 480,version 11,70 GB,windows 10 64,intel core i5 6600 k | amd ryzen 5 1600,16 GB,nvidia geforce gtx 1070 | amd radeon rx 580,version 11,70 GB
-79,Street Fighter 6,windows 10 64,intel core i5 7500 | amd ryzen 3 1200,8 GB,nvidia geforce gtx 1060 | amd radeon rx 580 ,version 12,60 GB,windows 10 64,intel core i7 8700 | amd ryzen 5 3600,16 GB,nvidia geforce rtx 2070 | amd radeon rx 5700 xt,version 12,60 GB
-80,Black Desert,windows 10 64,,4 GB,nvidia geforce 9800 gt | amd radeon hd 3870 ,,39 GB,windows 10 32,intel core i5 650,8 GB,nvidia geforce gtx 970 | amd radeon rx 480,,39 GB
-81,Goose Goose Duck,windows 10 32,,2 GB,,version 9.0,400 MB,windows 10 32,,4 GB,nvidia geforce gtx 600,version 11,500 MB
-82,The Witcher 3: Wild Hunt,windows 7 64,intel core i5 2500 k,6 GB,nvidia geforce gtx 660 | amd radeon hd 7870,version 11,50 GB,windows 10 64,intel core i5 7400 | amd ryzen 5 1600,8 GB,nvidia geforce gtx 1070 | amd radeon rx 480 ,version 12,50 GB
-83,PAYDAY 2,windows 10 32,,4 GB,,version 9.0c,83 GB,windows 10 32,,8 GB,,version 9.0c,83 GB
-84,FINAL FANTASY XIV Online,windows 10 64,,4 GB,nvidia geforce gtx 750 | amd radeon r7 260 x,version 11,80 GB,windows 10 64,,8 GB,nvidia geforce gtx 970 | amd radeon rx 480,version 11,80 GB
-85,雀魂麻將(MahjongSoul)(not available in your region),windows 10 32,,,,,,windows 10 32,,,,,
-86,Fallout 4,windows 7 64,,8 GB,nvidia geforce gtx 550 ti | amd radeon hd 7870,,30 GB,windows 10 32,intel core i7 4790 | amd fx 9590,8 GB,nvidia geforce gtx 780 | amd radeon r9 290 x,,30 GB
-87,Sid Meier's Civilization V,windows Vista 32,,2 GB,nvidia geforce 7900 gs,version 9.0c,,windows 10 32,,4 GB,nvidia geforce 9800 gt,version 11,
-88,TEKKEN 8,windows 10 32,,,,,,windows 10 32,,,,,
-89,Stellaris,windows 10 64,intel core i3 530 | amd fx 6350,4 GB,nvidia geforce gtx 460,version 9.0c,10 GB,windows 10 64,intel core i5 3570 k | amd ryzen 5 2400 g,4 GB,nvidia geforce gtx 560 ti | amd radeon r7 370,version 12,10 GB
-90,Slay the Spire,windows XP 32,,2 GB,,,1 GB,windows 10 32,,,,,
-91,ARK: Survival Ascended,windows 10 32,intel core i7 6800 k | amd ryzen 5 2600 x,16 GB,nvidia geforce gtx 1080 | amd radeon rx 5600 xt,version 12,70 GB,windows 10 32,intel core i5 10600 k | amd ryzen 5 3600 x,32 GB,nvidia geforce rtx 3080 | amd radeon rx 6800,version 12,70 GB
-92,BeamNG.drive,windows 7 64,intel core i3 6300 | amd fx 6300,16 GB,nvidia geforce gtx 550 ti | amd radeon hd 7750 ,version 11,45 GB,windows 10 64,intel core i7 6700 | amd ryzen 7 1700,32 GB,nvidia geforce gtx 970 | amd radeon r9 290,version 11,50 GB
-93,Age of Empires IV: Anniversary Edition,windows 10 64,intel core i5 6300 u | amd ryzen 5 2400 g,8 GB,amd radeon rx,version 12,50 GB,windows 10 64,amd ryzen 5 1600,16 GB,nvidia geforce gtx 970 | amd radeon rx 570,version 12,50 GB
-94,Crosshair X,windows 10 32,,,,,,windows 10 32,,,,,
-95,The Elder Scrolls Online,windows 10 64,intel core i5 2300 | amd fx 4350,4 GB,nvidia geforce gtx 560 | amd radeon 6870,version 11,105 GB,windows 10 64,intel core i5 2300 | amd fx 4350,8 GB,nvidia geforce gtx 970 | amd radeon rx 570,version 11,105 GB
-96,Factorio,windows Vista 64,,4 GB,nvidia geforce gtx 260 | amd radeon hd 4850 ,version 10.1,3 GB,windows 7 64,,8 GB,nvidia geforce gtx 750 ti | amd radeon r7 360 ,version 11,3 GB
-97,Russian Fishing 4,windows 7 64,,8 GB,nvidia geforce gtx 760,version 11,40 GB,windows 7 64,,8 GB,nvidia geforce gtx 1060,version 11,40 GB
-98,Squad,windows 10 64,,8 GB,nvidia geforce gtx 960 | amd radeon hd 7970,version 11,80 GB,windows 10 64,,16 GB,nvidia geforce gtx 1060 | amd radeon 570,version 12,80 GB
-99,It Takes Two,windows 8.1 64,intel core i3 2100 t | amd fx 6100,8 GB,nvidia geforce gtx 660 | amd radeon r7 260 x,version 11,50 GB,windows 8.1 64,intel core i5 3570 k | amd ryzen 3 1300 x,16 GB,nvidia geforce gtx 980 | amd radeon r9 290 x,version 11,50 GB
-100,Phasmophobia,windows 10 64,intel core i5 4590 | amd ryzen 5 2600,8 GB,nvidia geforce gtx 970 | amd radeon r9 390,version 11,21 GB,windows 10 64,intel core i5 10600 | amd ryzen 5 3600,8 GB,nvidia geforce rtx 2060 | amd radeon rx 5700,version 11,21 GB
+rank,name,min_req_dirX,min_req_graph_amd,min_req_graph_nvidia,min_req_mem,min_req_os,min_req_proc_amd,min_req_proc_intel,min_req_stor,rec_req_dirX,rec_req_graph_amd,rec_req_graph_nvidia,rec_req_mem,rec_req_os,rec_req_proc_amd,rec_req_proc_intel,rec_req_stor
+1,Counter-Strike 2,version 11,,,8 GB,windows 10 32,,intel core i5 750,85 GB,,,,,windows 10 32,,,
+2,Dota 2,version 11,amd radeon hd 2600,nvidia geforce 8600 gt,4 GB,windows 10 32,,,60 GB,,,,,windows 10 32,,,
+3,PUBG: BATTLEGROUNDS,version 11,amd radeon r7 370,nvidia geforce gtx 960,8 GB,windows 10 64,amd fx 6300,intel core i5 4430,40 GB,version 11,amd radeon rx 580,nvidia geforce gtx 1060,16 GB,windows 10 64,amd ryzen 5 1600,intel core i5 6600 k,50 GB
+4,Apex Legends,version 11,amd radeon hd 7730,nvidia geforce gt 640,6 GB,windows 10 64,amd fx 4350,intel core i3 6300,75 GB,version 11,amd radeon r9 290,nvidia geforce gtx 970,8 GB,windows 10 64,,,75 GB
+5,HELLDIVERS 2,,amd radeon rx 470,nvidia geforce gtx 1050 ti,8 GB,windows 10 32,,,100 GB,,amd radeon rx 6600 xt,nvidia geforce rtx 2060,16 GB,windows 10 32,amd ryzen 7 3700 x,intel core i7 9700 k,100 GB
+6,NARAKA: BLADEPOINT,version 11,,nvidia geforce gtx 750 ti,8 GB,windows 7 64,amd fx 6300,,35 GB,version 11,,nvidia geforce gtx 1060,16 GB,windows 10 64,,,35 GB
+7,Grand Theft Auto V,version 10,amd radeon hd 4870,nvidia geforce 9800 gt,4 GB,windows 10 64,amd phenom 9850,,110 GB,version 10,amd radeon hd 7870,nvidia geforce gtx 660,8 GB,windows 10 64,amd fx 8350,intel core i5 3470,110 GB
+8,Tom Clancy's Rainbow Six Siege,version 11,amd radeon hd 5870,nvidia geforce gtx 460,6 GB,windows 7 32,amd phenom ii x4 945,intel core i3 560,61 GB,version 9.0c,amd radeon hd 7970,nvidia geforce gtx 670,8 GB,windows 7 32,amd fx 8120,intel core i5 2500 k,61 GB
+9,Palworld,version 11,,nvidia geforce gtx 1050,16 GB,windows 10 64,,intel core i5 3570 k,40 GB,version 11,,nvidia geforce rtx 2070,32 GB,windows 10 64,,intel core i9 9900 k,40 GB
+10,Rust,,,,,windows 10 32,,,,version 12,amd radeon r9,nvidia geforce gtx 980,16 GB,windows 11 64,amd ryzen 5 1600,intel core i7 4790 k,25 GB
+11,Last Epoch,,,,,windows 10 32,,,,version 11,amd radeon rx 6600,nvidia geforce rtx 3060,16 GB,windows 10 32,amd ryzen 3 1200,intel core i5 6500,22 GB
+12,Baldur's Gate 3,version 11,amd radeon rx 480 ,nvidia geforce gtx 970,8 GB,windows 10 64,amd fx 8350,intel core i5 4690,150 GB,version 11,amd radeon rx 5700 xt,nvidia geforce rtx 2060,16 GB,windows 10 64,amd r5 3600,intel core i7 8700 k,150 GB
+13,Wallpaper Engine,version 10,,,1024 MB,windows 7 32,,,512 MB,version 11,amd radeon hd 7870,nvidia geforce gtx 660,2048 MB,windows 10 32,,,1024 MB
+14,Monster Hunter: World,version 11,amd radeon r7 260 x,nvidia geforce gtx 1050,8 GB,windows 10 64,amd fx 6300,intel core i5 4460,52 GB,version 11,amd radeon rx 480,nvidia geforce gtx 1060,8 GB,windows 10 64,amd ryzen 5 1500 x,intel core i7 3770,52 GB
+15,War Thunder,version 10.1,amd radeon hd 7700 xx,nvidia geforce gtx 660,4 GB,windows 10 64,,,17 GB,version 11,amd radeon rx 570 ,nvidia geforce gtx 1060,16 GB,windows 10 64,amd ryzen 5 3600,,95 GB
+16,ELDEN RING,version 12,amd radeon rx 580,nvidia geforce gtx 1060,12 GB,windows 10 32,amd ryzen 3 3300 x,intel core i5 8400,60 GB,version 12,amd radeon rx,nvidia geforce gtx 1070,16 GB,windows 10 32,amd ryzen 5 3600 x,intel core i7 8700 k,60 GB
+17,Call of Duty,version 12,amd radeon rx 470,nvidia geforce gtx 960,8 GB,windows 10 64,,,,version 12,amd radeon rx 6600 xt,nvidia geforce gtx 1080 ti,16 GB,windows 10 32,amd ryzen 5 1600 x,intel core i7 6700 k,
+18,Sid Meier’s Civilization VI,version 11,amd radeon 5570,nvidia geforce gtx 450,4 GB,windows 7 64,,,17 GB,version 11,amd radeon 7970,nvidia geforce gtx 770,8 GB,windows 7 64,amd fx 8350,,23 GB
+19,Football Manager 2024,version 11,amd radeon hd 3650 ,nvidia geforce 9600 gt,4 GB,windows 10 64,,,7 GB,,,,,windows 10 32,,,
+20,Crab Game,,,,2 GB,windows 10 32,,,200 MB,,,nvidia geforce gtx 650,,windows 10 32,,intel core i5 4440,200 MB
+21,EA SPORTS FC 24,version 12,amd radeon rx 570,nvidia geforce gtx 1050 ti,8 GB,windows 10 64,amd ryzen 5 1600,intel core i5 6600 k,100 GB,version 12,amd radeon rx 5600 xt,nvidia geforce gtx 1660,12 GB,windows 10 64,amd ryzen 7 2700 x,intel core i7 6700,100 GB
+22,Warframe,version 11,,,4 GB,windows 7 64,amd fx 4100,intel core i7 860,50 GB,,,,,windows 10 32,,,
+23,Hearts of Iron IV,version 9.0c,amd radeon hd 5850,nvidia geforce gtx 470,4 GB,windows 10 64,amd fx 4300,intel core i5 750,2 GB,version 9.0c,amd radeon hd 7970,nvidia geforce gtx 570,6 GB,windows 10 64,amd ryzen 3 2200 g,intel core i5 2500 k,2 GB
+24,Team Fortress 2,version 8.1,,,512 MB,windows XP 32,,,15 GB,version 9.0c,,,1 GB,windows 10 32,,,15 GB
+25,Dead by Daylight,,,,,windows 10 32,,,,version 11,amd radeon hd 8800,nvidia geforce gtx 760,8 GB,windows 10 64,amd fx 8300,intel core i3 4170,50 GB
+26,Stardew Valley,version 10,,,2 GB,windows Vista 32,,,500 MB,,,,,windows 10 32,,,
+27,Granblue Fantasy: Relink,,,,,windows 10 32,,,,version 11,amd radeon rx 6700 xt,nvidia geforce rtx 2080,16 GB,windows 10 64,amd ryzen 5 3600,intel core i7 8700,90 GB
+28,DayZ,version 11,amd radeon r9 270 x,nvidia geforce gtx 760,8 GB,windows 10 64,,intel core i5 4430,25 GB,version 11,amd radeon rx 580,nvidia geforce gtx 1060,12 GB,windows 10 64,amd r5 1600 x,intel core i5 6600 k,30 GB
+29,Destiny 2,,amd radeon hd 7850,nvidia geforce gtx 660,6 GB,windows 7 64,,,105 GB,,amd radeon r9 390,nvidia geforce gtx 970,8 GB,windows 10 32,amd ryzen r5 1600 x,intel core i5 2400,105 GB
+30,Left 4 Dead 2,version 9.0c,,nvidia geforce 6600,2 GB,windows XP 32,,,13 GB,version 9.0c,,nvidia geforce 7600 gt,2 GB,windows XP 32,,,13 GB
+31,Lethal Company,version 11,,nvidia geforce gtx 1050,,windows 10 32,,,1 GB,,,,,windows 10 32,,,
+32,Don't Starve Together,version 9.0c,amd radeon hd 5450 ,,1 GB,windows Vista 32,,,3 GB,,,,,windows 10 32,,,
+33,Red Dead Redemption 2,,amd radeon rx 480,nvidia geforce gtx 1060,12 GB,windows 8 32,,,150 GB,,amd radeon rx 480,nvidia geforce gtx 1060,12 GB,windows 10 32,amd ryzen 5 1500 x,intel core i7 4770 k,150 GB
+34,Supermarket Simulator,version 11,amd radeon r9 270 x,nvidia geforce gtx 1050,4 GB,windows 10 64,amd ryzen 5 2500 x,intel core i5 3550,5 GB,version 11,amd radeon rx 480,nvidia geforce gtx 1060,8 GB,windows 10 64,,intel core i5 7600 k,5 GB
+35,Unturned,version 10,,,8 GB,windows 10 32,,,4 GB,version 11,,,16 GB,windows 10 32,,,6 GB
+36,Terraria,,,,,windows 10 32,,,,,,,4 GB,windows 10 32,,,
+37,Euro Truck Simulator 2,,amd radeon rx 460,nvidia geforce gtx 660,8 GB,windows 10 32,,,,,amd radeon rx 590,nvidia geforce gtx 1660,12 GB,windows 10 32,amd ryzen 5 3600,intel core i5 9600,
+38,Cyberpunk 2077,version 12,amd radeon rx 580 ,nvidia geforce gtx 1060,12 GB,windows 10 64,amd ryzen 5 1600,intel core i7 6700,70 GB,version 12,amd radeon rx 5700 xt,nvidia geforce rtx 2060,16 GB,windows 10 64,amd ryzen 7 7800 x,intel core i7 12700,70 GB
+39,The Sims 4,version 11,amd radeon x 1300 ,nvidia geforce 6600,4 GB,windows 10 64,amd ryzen 3 1200,intel core i3 3220,26 GB,version 11,amd radeon hd 7750,nvidia geforce gtx 650,8 GB,windows 10 64,,,51 GB
+40,Overwatch 2,version 11,amd radeon hd 7000,nvidia geforce gtx 600,6 GB,windows 10 64,amd phenom x3 8650,,50 GB,version 11,amd radeon r9 380,nvidia geforce gtx 1060,8 GB,windows 10 64,,,50 GB
+41,7 Days to Die,version 11,,,8 GB,windows 7 64,,,15 GB,version 11,,,12 GB,windows 7 64,,,15 GB
+42,THE FINALS,version 12,amd radeon rx 580,nvidia geforce gtx 1050 ti,12 GB,windows 10 64,,,,version 12,amd radeon rx 5700 xt,nvidia geforce rtx 2070,16 GB,windows 10 32,amd ryzen 5 3600,intel core i5 9600 k,
+43,tModLoader,version 11,,,6 GB,windows 7 64,,,500 MB,version 11,,,16 GB,windows 10 32,,,20000 MB
+44,Lost Ark,version 11,amd radeon hd 6850,nvidia geforce gtx 460,8 GB,windows 10 64,,,60 GB,version 11,amd radeon rx 560,nvidia geforce gtx 1050,16 GB,windows 10 64,,,60 GB
+45,Battlefield V,version 11,amd radeon rx 560,nvidia geforce gtx 1050,8 GB,windows 10 64,amd fx 8350,intel core i5 6600 k,50 GB,version 11,amd radeon rx 580,nvidia geforce gtx 1060,12 GB,windows 10 64,amd ryzen 3 1300 x,intel core i7 4790,50 GB
+46,Project Zomboid,,,,8 Gb,windows 10 64,,,,,,,,windows 10 32,,,
+47,Balatro,,,,1 GB,windows 7 64,,,150 MB,,,,,windows 10 32,,,
+48,ARK: Survival Evolved,version 10,amd radeon hd 7870,nvidia geforce gtx 670,8 GB,windows 7 64,amd fx 8320,intel core i5 2400,60 GB,,,,,windows 10 32,,,
+49,Yu-Gi-Oh! Master Duel,version 11,,,8 GB,windows 10 64,,intel core i5 7300 u,16 GB,version 11,,nvidia geforce gtx 1650,8 GB,windows 10 64,,intel core i5 9400 f,16 GB
+50,Sons Of The Forest,version 11,amd radeon rx 570,nvidia geforce gtx 1060,12 GB,windows 10 64,amd ryzen 3 3300 x,intel core i5 8400,20 GB,version 11,amd radeon rx 5700 xt,nvidia geforce gtx 1080 ti,16 GB,windows 10 64,amd ryzen 5 3600 x,intel core i7 8700 k,20 GB
+51,Garry's Mod,version 9.0c,,,4 GB,windows XP 32,,,5 GB,version 9.0c,,,8 GB,windows 7 32,,,20 GB
+52,Farming Simulator 22,version 11,amd radeon r7 265,nvidia geforce gtx 660,8 GB,windows 10 64,amd fx 8320,intel core i5 3330,35 GB,version 11,amd radeon rx 570 ,nvidia geforce gtx 1060,8 GB,windows 10 64,amd ryzen 5 1600,intel core i5 5675 c,35 GB
+53,Mount & Blade II: Bannerlord,,amd radeon hd 7850,nvidia geforce gtx 660,6 GB,windows 7 64,,,60 GB,,amd radeon rx 580,nvidia geforce gtx 1060,8 GB,windows 10 32,amd ryzen 5 3600 x,intel core i5 9600 k,60 GB
+54,Backpack Battles,,,,,windows 10 32,,,,,,,,windows 10 32,,,
+55,Myth of Empires,version 11,amd radeon r7 370,nvidia geforce gtx 960,8 GB,windows 7 64,amd fx 6300,intel core i5 4430,85 GB,version 11,amd radeon rx 580,nvidia geforce gtx 1060,16 GB,windows 7 64,amd ryzen 5 1600,intel core i5 6600 k,85 GB
+56,Hunt: Showdown,version 11,amd radeon r7 370,nvidia geforce gtx 660 ti,8 GB,windows 10 64,amd ryzen 3 1200,intel core i5 4590,50 GB,,,,,windows 10 32,,,
+57,Total War: WARHAMMER III,version 11,amd radeon rx 400,nvidia geforce gtx 900,6 GB,windows 7 64,,,120 GB,version 11,amd radeon rx 5600,nvidia geforce gtx 1660 ti,8 GB,windows 10 64,,,120 GB
+58,Valheim,version 11,amd radeon hd 7970 ,nvidia geforce gtx 950,8 GB,windows 10 32,,,1 GB,version 11,amd radeon rx 580 ,nvidia geforce gtx 1060,16 GB,windows 10 32,,,1 GB
+59,Age of Empires II: Definitive Edition,version 11,amd radeon hd 6850 ,nvidia geforce gt 420,4 GB,windows 10 64,,,15 GB,version 11,amd radeon hd 5850,nvidia geforce gtx 650,8 GB,windows 10 64,,,15 GB
+60,RimWorld,,,,4 GB,windows 10 32,,,1 GB,,,,,windows 10 32,,,
+61,Crusader Kings III,,amd radeon hd 7870,nvidia geforce gtx 660,6 GB,windows 10 64,,,8 GB,,amd radeon r9 390 x,nvidia geforce gtx 1650,8 GB,windows 10 32,amd ryzen 5 2400 g,intel core i5 4670 k,8 GB
+62,Forza Horizon 5,version 12,amd radeon rx 470,nvidia geforce gtx 970,8 GB,windows 10 32,amd ryzen 3 1200,intel core i5 4460,110 GB,version 12,amd radeon rx 590,nvidia geforce gtx 1070,16 GB,windows 10 32,amd ryzen 5 1500 x,intel core i5 8400,110 GB
+63,VRChat,version 11,amd radeon r9 290,nvidia geforce gtx 970,4 GB,windows 8.1 32,amd fx 8350,intel core i5 4590,1 GB,,,,,windows 10 32,,,
+64,Enshrouded,,amd radeon rx 580,nvidia geforce gtx 1060,16 GB,windows 10 32,,,60 GB,,amd radeon rx 6700 xt,nvidia geforce rtx 2070,16 GB,windows 10 32,amd ryzen 7 2700 x,intel core i7 8700,60 GB
+65,Governor of Poker 3,,,,1 GB,windows 7 64,,,500 MB,version 11,,,2 GB,windows 10 64,,,750 MB
+66,The Elder Scrolls V: Skyrim Special Edition,,amd radeon hd 7870,nvidia geforce gtx 470,8 GB,windows 7 64,,,12 GB,,amd radeon r9 290,nvidia geforce gtx 780,8 GB,windows 10 32,amd fx 8320,intel core i5 2400,12 GB
+67,The Binding of Isaac: Rebirth,,,,,windows 10 32,,,,,amd radeon hd ,nvidia geforce gtx 2,8 GB,windows 10 32,,,449 MB
+68,MONSTER HUNTER RISE,version 12,amd radeon rx 550,nvidia geforce gt 1030,8 GB,windows 10 64,amd fx 6100,intel core i3 4130,36 GB,version 12,amd radeon rx 570,nvidia geforce gtx 1060,8 GB,windows 10 64,amd fx 8300,intel core i5 4460,36 GB
+69,Hero's Land,,,,,windows 10 32,,,,,,,,windows 10 32,,,
+70,The Forest,version 9.0,,nvidia geforce 8800 gt,4 GB,windows 10 32,,,5 GB,version 9.0,,nvidia geforce gtx 560,4 GB,windows 10 32,,,5 GB
+71,MIR4,version 11,amd radeon 530,nvidia geforce gtx 650,4 GB,windows 8.1 64,,intel core i5 5200 u,10 GB,version 11,amd radeon 560,nvidia geforce gtx 950,16 GB,windows 10 64,,intel core i5 6200 u,10 GB
+72,NBA 2K24,,,,,windows 10 32,,,,version 11,amd radeon r9 270 ,nvidia geforce gtx 770,8 GB,windows 10 64,amd fx 8370,intel core i5 4430,150 GB
+73,Deep Rock Galactic,version 11,amd radeon hd 7870,nvidia geforce gtx 660,6 GB,windows 7 64,,,3 GB,version 11,amd radeon 290,nvidia geforce gtx 970,8 GB,windows 10 64,,,3 GB
+74,Geometry Dash,,,,512 MB,windows XP 32,,,100 MB,,,,,windows 10 32,,,
+75,Rocket League,version 11,amd radeon r7 270 x,nvidia geforce gtx 760,4 GB,windows 7 64,,,20 GB,version 11,amd radeon rx 470,nvidia geforce gtx 1060,8 GB,windows 7 64,,,20 GB
+76,Battlefield 2042,version 12,amd radeon rx 560,nvidia geforce gtx 1050 ti,8 GB,windows 10 64,amd ryzen 5 1600,intel core i5 6600 k,100 GB,version 12,amd radeon rx 6600 xt,nvidia geforce rtx 3060,16 GB,windows 10 64,amd ryzen 7 2700 x,intel core i7 4790,100 GB
+77,Europa Universalis IV,,amd radeon hd 5850,nvidia geforce gtx 460,4 GB,windows 10 64,,,,,,nvidia geforce gtx 560 ti,8 GB,windows 10 32,amd fx 8120,intel core i3 3240,
+78,SCUM,version 11,amd radeon rx 480,nvidia geforce gtx 1060,16 GB,windows 10 64,amd fx 6300,intel core i5 4430,70 GB,version 11,amd radeon rx 580,nvidia geforce gtx 1070,16 GB,windows 10 64,amd ryzen 5 1600,intel core i5 6600 k,70 GB
+79,Street Fighter 6,version 12,amd radeon rx 580 ,nvidia geforce gtx 1060,8 GB,windows 10 64,amd ryzen 3 1200,intel core i5 7500,60 GB,version 12,amd radeon rx 5700 xt,nvidia geforce rtx 2070,16 GB,windows 10 64,amd ryzen 5 3600,intel core i7 8700,60 GB
+80,Black Desert,,amd radeon hd 3870 ,nvidia geforce 9800 gt,4 GB,windows 10 64,,,39 GB,,amd radeon rx 480,nvidia geforce gtx 970,8 GB,windows 10 32,,intel core i5 650,39 GB
+81,Goose Goose Duck,version 9.0,,,2 GB,windows 10 32,,,400 MB,version 11,,nvidia geforce gtx 600,4 GB,windows 10 32,,,500 MB
+82,The Witcher 3: Wild Hunt,version 11,amd radeon hd 7870,nvidia geforce gtx 660,6 GB,windows 7 64,,intel core i5 2500 k,50 GB,version 12,amd radeon rx 480 ,nvidia geforce gtx 1070,8 GB,windows 10 64,amd ryzen 5 1600,intel core i5 7400,50 GB
+83,PAYDAY 2,version 9.0c,,,4 GB,windows 10 32,,,83 GB,version 9.0c,,,8 GB,windows 10 32,,,83 GB
+84,FINAL FANTASY XIV Online,version 11,amd radeon r7 260 x,nvidia geforce gtx 750,4 GB,windows 10 64,,,80 GB,version 11,amd radeon rx 480,nvidia geforce gtx 970,8 GB,windows 10 64,,,80 GB
+85,雀魂麻將(MahjongSoul)(not available in your region),,,,,windows 10 32,,,,,,,,windows 10 32,,,
+86,Fallout 4,,amd radeon hd 7870,nvidia geforce gtx 550 ti,8 GB,windows 7 64,,,30 GB,,amd radeon r9 290 x,nvidia geforce gtx 780,8 GB,windows 10 32,amd fx 9590,intel core i7 4790,30 GB
+87,Sid Meier's Civilization V,version 9.0c,,nvidia geforce 7900 gs,2 GB,windows Vista 32,,,,version 11,,nvidia geforce 9800 gt,4 GB,windows 10 32,,,
+88,TEKKEN 8,,,,,windows 10 32,,,,,,,,windows 10 32,,,
+89,Stellaris,version 9.0c,,nvidia geforce gtx 460,4 GB,windows 10 64,amd fx 6350,intel core i3 530,10 GB,version 12,amd radeon r7 370,nvidia geforce gtx 560 ti,4 GB,windows 10 64,amd ryzen 5 2400 g,intel core i5 3570 k,10 GB
+90,Slay the Spire,,,,2 GB,windows XP 32,,,1 GB,,,,,windows 10 32,,,
+91,ARK: Survival Ascended,version 12,amd radeon rx 5600 xt,nvidia geforce gtx 1080,16 GB,windows 10 32,amd ryzen 5 2600 x,intel core i7 6800 k,70 GB,version 12,amd radeon rx 6800,nvidia geforce rtx 3080,32 GB,windows 10 32,amd ryzen 5 3600 x,intel core i5 10600 k,70 GB
+92,BeamNG.drive,version 11,amd radeon hd 7750 ,nvidia geforce gtx 550 ti,16 GB,windows 7 64,amd fx 6300,intel core i3 6300,45 GB,version 11,amd radeon r9 290,nvidia geforce gtx 970,32 GB,windows 10 64,amd ryzen 7 1700,intel core i7 6700,50 GB
+93,Age of Empires IV: Anniversary Edition,version 12,amd radeon rx,,8 GB,windows 10 64,amd ryzen 5 2400 g,intel core i5 6300 u,50 GB,version 12,amd radeon rx 570,nvidia geforce gtx 970,16 GB,windows 10 64,amd ryzen 5 1600,,50 GB
+94,Crosshair X,,,,,windows 10 32,,,,,,,,windows 10 32,,,
+95,The Elder Scrolls Online,version 11,amd radeon 6870,nvidia geforce gtx 560,4 GB,windows 10 64,amd fx 4350,intel core i5 2300,105 GB,version 11,amd radeon rx 570,nvidia geforce gtx 970,8 GB,windows 10 64,amd fx 4350,intel core i5 2300,105 GB
+96,Factorio,version 10.1,amd radeon hd 4850 ,nvidia geforce gtx 260,4 GB,windows Vista 64,,,3 GB,version 11,amd radeon r7 360 ,nvidia geforce gtx 750 ti,8 GB,windows 7 64,,,3 GB
+97,Russian Fishing 4,version 11,,nvidia geforce gtx 760,8 GB,windows 7 64,,,40 GB,version 11,,nvidia geforce gtx 1060,8 GB,windows 7 64,,,40 GB
+98,Squad,version 11,amd radeon hd 7970,nvidia geforce gtx 960,8 GB,windows 10 64,,,80 GB,version 12,amd radeon 570,nvidia geforce gtx 1060,16 GB,windows 10 64,,,80 GB
+99,It Takes Two,version 11,amd radeon r7 260 x,nvidia geforce gtx 660,8 GB,windows 8.1 64,amd fx 6100,intel core i3 2100 t,50 GB,version 11,amd radeon r9 290 x,nvidia geforce gtx 980,16 GB,windows 8.1 64,amd ryzen 3 1300 x,intel core i5 3570 k,50 GB
+100,Phasmophobia,version 11,amd radeon r9 390,nvidia geforce gtx 970,8 GB,windows 10 64,amd ryzen 5 2600,intel core i5 4590,21 GB,version 11,amd radeon rx 5700,nvidia geforce rtx 2060,8 GB,windows 10 64,amd ryzen 5 3600,intel core i5 10600,21 GB
