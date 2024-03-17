@@ -8,13 +8,13 @@ rank,name,min_req_dirX,min_req_graph_amd,min_req_graph_nvidia,min_req_mem,min_re
 7,Grand Theft Auto V,version 10,amd radeon hd 4870,nvidia geforce 9800 gt,4 GB,windows 10 64,amd phenom 9850,,110 GB,version 10,amd radeon hd 7870,nvidia geforce gtx 660,8 GB,windows 10 64,amd fx 8350,intel core i5 3470,110 GB
 8,Tom Clancy's Rainbow Six Siege,version 11,amd radeon hd 5870,nvidia geforce gtx 460,6 GB,windows 7 32,amd phenom ii x4 945,intel core i3 560,61 GB,version 9.0c,amd radeon hd 7970,nvidia geforce gtx 670,8 GB,windows 7 32,amd fx 8120,intel core i5 2500 k,61 GB
 9,Palworld,version 11,,nvidia geforce gtx 1050,16 GB,windows 10 64,,intel core i5 3570 k,40 GB,version 11,,nvidia geforce rtx 2070,32 GB,windows 10 64,,intel core i9 9900 k,40 GB
-10,Rust,,,,,windows 10 32,,,,version 12,amd radeon r9,nvidia geforce gtx 980,16 GB,windows 11 64,amd ryzen 5 1600,intel core i7 4790 k,25 GB
+10,Rust,,,,,windows 10 32,,,,version 12,,nvidia geforce gtx 980,16 GB,windows 11 64,amd ryzen 5 1600,intel core i7 4790 k,25 GB
 11,Last Epoch,,,,,windows 10 32,,,,version 11,amd radeon rx 6600,nvidia geforce rtx 3060,16 GB,windows 10 32,amd ryzen 3 1200,intel core i5 6500,22 GB
 12,Baldur's Gate 3,version 11,amd radeon rx 480 ,nvidia geforce gtx 970,8 GB,windows 10 64,amd fx 8350,intel core i5 4690,150 GB,version 11,amd radeon rx 5700 xt,nvidia geforce rtx 2060,16 GB,windows 10 64,amd r5 3600,intel core i7 8700 k,150 GB
 13,Wallpaper Engine,version 10,,,1024 MB,windows 7 32,,,512 MB,version 11,amd radeon hd 7870,nvidia geforce gtx 660,2048 MB,windows 10 32,,,1024 MB
 14,Monster Hunter: World,version 11,amd radeon r7 260 x,nvidia geforce gtx 1050,8 GB,windows 10 64,amd fx 6300,intel core i5 4460,52 GB,version 11,amd radeon rx 480,nvidia geforce gtx 1060,8 GB,windows 10 64,amd ryzen 5 1500 x,intel core i7 3770,52 GB
 15,War Thunder,version 10.1,amd radeon hd 7700 xx,nvidia geforce gtx 660,4 GB,windows 10 64,,,17 GB,version 11,amd radeon rx 570 ,nvidia geforce gtx 1060,16 GB,windows 10 64,amd ryzen 5 3600,,95 GB
-16,ELDEN RING,version 12,amd radeon rx 580,nvidia geforce gtx 1060,12 GB,windows 10 32,amd ryzen 3 3300 x,intel core i5 8400,60 GB,version 12,amd radeon rx,nvidia geforce gtx 1070,16 GB,windows 10 32,amd ryzen 5 3600 x,intel core i7 8700 k,60 GB
+16,ELDEN RING,version 12,amd radeon rx 580,nvidia geforce gtx 1060,12 GB,windows 10 32,amd ryzen 3 3300 x,intel core i5 8400,60 GB,version 12,,nvidia geforce gtx 1070,16 GB,windows 10 32,amd ryzen 5 3600 x,intel core i7 8700 k,60 GB
 17,Call of Duty,version 12,amd radeon rx 470,nvidia geforce gtx 960,8 GB,windows 10 64,,,,version 12,amd radeon rx 6600 xt,nvidia geforce gtx 1080 ti,16 GB,windows 10 32,amd ryzen 5 1600 x,intel core i7 6700 k,
 18,Sid Meier’s Civilization VI,version 11,amd radeon 5570,nvidia geforce gtx 450,4 GB,windows 7 64,,,17 GB,version 11,amd radeon 7970,nvidia geforce gtx 770,8 GB,windows 7 64,amd fx 8350,,23 GB
 19,Football Manager 2024,version 11,amd radeon hd 3650 ,nvidia geforce 9600 gt,4 GB,windows 10 64,,,7 GB,,,,,windows 10 32,,,
@@ -65,7 +65,7 @@ rank,name,min_req_dirX,min_req_graph_amd,min_req_graph_nvidia,min_req_mem,min_re
 64,Enshrouded,,amd radeon rx 580,nvidia geforce gtx 1060,16 GB,windows 10 32,,,60 GB,,amd radeon rx 6700 xt,nvidia geforce rtx 2070,16 GB,windows 10 32,amd ryzen 7 2700 x,intel core i7 8700,60 GB
 65,Governor of Poker 3,,,,1 GB,windows 7 64,,,500 MB,version 11,,,2 GB,windows 10 64,,,750 MB
 66,The Elder Scrolls V: Skyrim Special Edition,,amd radeon hd 7870,nvidia geforce gtx 470,8 GB,windows 7 64,,,12 GB,,amd radeon r9 290,nvidia geforce gtx 780,8 GB,windows 10 32,amd fx 8320,intel core i5 2400,12 GB
-67,The Binding of Isaac: Rebirth,,,,,windows 10 32,,,,,amd radeon hd ,nvidia geforce gtx 2,8 GB,windows 10 32,,,449 MB
+67,The Binding of Isaac: Rebirth,,,,,windows 10 32,,,,,,nvidia geforce gtx 2,8 GB,windows 10 32,,,449 MB
 68,MONSTER HUNTER RISE,version 12,amd radeon rx 550,nvidia geforce gt 1030,8 GB,windows 10 64,amd fx 6100,intel core i3 4130,36 GB,version 12,amd radeon rx 570,nvidia geforce gtx 1060,8 GB,windows 10 64,amd fx 8300,intel core i5 4460,36 GB
 69,Hero's Land,,,,,windows 10 32,,,,,,,,windows 10 32,,,
 70,The Forest,version 9.0,,nvidia geforce 8800 gt,4 GB,windows 10 32,,,5 GB,version 9.0,,nvidia geforce gtx 560,4 GB,windows 10 32,,,5 GB
@@ -91,7 +91,7 @@ rank,name,min_req_dirX,min_req_graph_amd,min_req_graph_nvidia,min_req_mem,min_re
 90,Slay the Spire,,,,2 GB,windows XP 32,,,1 GB,,,,,windows 10 32,,,
 91,ARK: Survival Ascended,version 12,amd radeon rx 5600 xt,nvidia geforce gtx 1080,16 GB,windows 10 32,amd ryzen 5 2600 x,intel core i7 6800 k,70 GB,version 12,amd radeon rx 6800,nvidia geforce rtx 3080,32 GB,windows 10 32,amd ryzen 5 3600 x,intel core i5 10600 k,70 GB
 92,BeamNG.drive,version 11,amd radeon hd 7750 ,nvidia geforce gtx 550 ti,16 GB,windows 7 64,amd fx 6300,intel core i3 6300,45 GB,version 11,amd radeon r9 290,nvidia geforce gtx 970,32 GB,windows 10 64,amd ryzen 7 1700,intel core i7 6700,50 GB
-93,Age of Empires IV: Anniversary Edition,version 12,amd radeon rx,,8 GB,windows 10 64,amd ryzen 5 2400 g,intel core i5 6300 u,50 GB,version 12,amd radeon rx 570,nvidia geforce gtx 970,16 GB,windows 10 64,amd ryzen 5 1600,,50 GB
+93,Age of Empires IV: Anniversary Edition,version 12,,,8 GB,windows 10 64,amd ryzen 5 2400 g,intel core i5 6300 u,50 GB,version 12,amd radeon rx 570,nvidia geforce gtx 970,16 GB,windows 10 64,amd ryzen 5 1600,,50 GB
 94,Crosshair X,,,,,windows 10 32,,,,,,,,windows 10 32,,,
 95,The Elder Scrolls Online,version 11,amd radeon 6870,nvidia geforce gtx 560,4 GB,windows 10 64,amd fx 4350,intel core i5 2300,105 GB,version 11,amd radeon rx 570,nvidia geforce gtx 970,8 GB,windows 10 64,amd fx 4350,intel core i5 2300,105 GB
 96,Factorio,version 10.1,amd radeon hd 4850 ,nvidia geforce gtx 260,4 GB,windows Vista 64,,,3 GB,version 11,amd radeon r7 360 ,nvidia geforce gtx 750 ti,8 GB,windows 7 64,,,3 GB
